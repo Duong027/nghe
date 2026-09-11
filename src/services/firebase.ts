@@ -1,4 +1,6 @@
-import { initializeApp, getApps, getApp } from 'firebase/app';
+// Import the functions you need from the SDKs you need
+import { initializeApp, getApps, getApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
 import {
   getAuth,
   GoogleAuthProvider,
@@ -20,16 +22,38 @@ import {
   serverTimestamp,
 } from 'firebase/firestore';
 import type { StudentWhitelistItem } from '../types';
-import firebaseConfigData from '../../firebase-applet-config.json';
+
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+export const firebaseConfig = {
+  apiKey: "AIzaSyAmaXczZirewpqOrCA0NPnsEMdIQqzS1v0",
+  authDomain: "nghedeutschduonghoang.firebaseapp.com",
+  projectId: "nghedeutschduonghoang",
+  storageBucket: "nghedeutschduonghoang.firebasestorage.app",
+  messagingSenderId: "888095531631",
+  appId: "1:888095531631:web:2bb3140495f13dc1f2239a",
+  measurementId: "G-XL463RK3MN"
+};
+
+// Initialize Firebase
+export const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
+
+// Initialize Analytics safely
+export let analytics: ReturnType<typeof getAnalytics> | null = null;
+if (typeof window !== 'undefined') {
+  try {
+    analytics = getAnalytics(app);
+  } catch (err) {
+    console.warn('Firebase Analytics not supported or failed to initialize:', err);
+  }
+}
 
 export const ADMIN_EMAIL = 'duong027@gmail.com';
-
-const app = !getApps().length ? initializeApp(firebaseConfigData) : getApp();
 export const auth = getAuth(app);
-export const db = getFirestore(
-  app,
-  firebaseConfigData.firestoreDatabaseId || undefined
-);
+export const db = getFirestore(app);
 
 export const googleProvider = new GoogleAuthProvider();
 googleProvider.setCustomParameters({ prompt: 'select_account' });
@@ -160,13 +184,14 @@ export async function checkAccessPermission(email?: string | null): Promise<{
 // Khởi tạo các tài khoản mẫu nếu chưa có dữ liệu nào trong whitelist
 export async function seedInitialWhitelistIfEmpty(): Promise<void> {
   try {
-    if (typeof window !== 'undefined' && localStorage.getItem('whitelist_seeded_v1')) {
+    const seedKey = `whitelist_seeded_${firebaseConfig.projectId}`;
+    if (typeof window !== 'undefined' && localStorage.getItem(seedKey)) {
       return;
     }
     const colRef = collection(db, WHITELIST_COLLECTION);
     const snap = await getDocs(colRef);
     if (!snap.empty) {
-      if (typeof window !== 'undefined') localStorage.setItem('whitelist_seeded_v1', 'true');
+      if (typeof window !== 'undefined') localStorage.setItem(seedKey, 'true');
       return;
     }
 
@@ -211,8 +236,9 @@ export async function seedInitialWhitelistIfEmpty(): Promise<void> {
     for (const student of initialStudents) {
       await addStudent(student);
     }
-    if (typeof window !== 'undefined') localStorage.setItem('whitelist_seeded_v1', 'true');
+    if (typeof window !== 'undefined') localStorage.setItem(seedKey, 'true');
   } catch (e) {
     console.warn('Initial seeding skipped or failed:', e);
   }
 }
+
