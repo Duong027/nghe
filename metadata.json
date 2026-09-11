@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Nghe Tiếng Đức",
+  "description": "Ứng dụng nghe tiếng Đức theo từng Kapitel và bài học",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

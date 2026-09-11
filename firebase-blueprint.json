@@ -1,0 +1,19 @@
+{
+  "entities": {
+    "whitelist": {
+      "title": "Whitelist",
+      "description": "Danh sách học viên được cấp phép truy cập",
+      "type": "object",
+      "properties": {
+        "fullName": { "type": "string", "description": "Họ và tên học viên" },
+        "email": { "type": "string", "description": "Gmail học viên" },
+        "phone": { "type": "string", "description": "Số điện thoại / Zalo" },
+        "package": { "type": "string", "description": "Gói học (VVIP, v.v.)" },
+        "autoLock2TB": { "type": "boolean", "description": "Tự khóa 2 thiết bị" },
+        "status": { "type": "string", "enum": ["active", "locked"], "description": "Trạng thái hoạt động" },
+        "grantedAt": { "type": "string", "description": "Ngày giờ cấp quyền" }
+      },
+      "required": ["email", "fullName", "status"]
+    }
+  }
+}
