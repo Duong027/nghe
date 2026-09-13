@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { BookOpen, ShieldAlert, Sparkles, Sun, Moon } from 'lucide-react';
-import { loginWithGoogle } from '../services/firebase';
+import { BookOpen, ShieldAlert, Sparkles, Sun, Moon, Copy, Check, ExternalLink } from 'lucide-react';
+import { loginWithGoogle, firebaseConfig } from '../services/firebase';
 
 interface LoginViewProps {
   isDarkMode: boolean;
@@ -15,16 +15,32 @@ export const LoginView: React.FC<LoginViewProps> = ({
 }) => {
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [error, setError] = useState<string>('');
+  const [isUnauthorizedDomain, setIsUnauthorizedDomain] = useState<boolean>(false);
+  const [copiedDomain, setCopiedDomain] = useState<boolean>(false);
+
+  const currentHostname = typeof window !== 'undefined' ? window.location.hostname : '';
+
+  const handleCopyHostname = () => {
+    if (navigator.clipboard && currentHostname) {
+      navigator.clipboard.writeText(currentHostname);
+      setCopiedDomain(true);
+      setTimeout(() => setCopiedDomain(false), 2000);
+    }
+  };
 
   const handleGoogleLogin = async () => {
     setIsLoading(true);
     setError('');
+    setIsUnauthorizedDomain(false);
     try {
       await loginWithGoogle();
       onLoginSuccess();
     } catch (err: any) {
       console.error('Google Sign-In error:', err);
-      if (err.code === 'auth/popup-closed-by-user') {
+      if (err.code === 'auth/unauthorized-domain') {
+        setIsUnauthorizedDomain(true);
+        setError('Tên miền hiện tại chưa được cấp quyền (Authorized domain) trong Firebase Console.');
+      } else if (err.code === 'auth/popup-closed-by-user') {
         setError('Hộp thoại đăng nhập đã bị đóng trước khi hoàn tất.');
       } else if (err.code === 'auth/popup-blocked') {
         setError('Trình duyệt đang chặn cửa sổ popup. Vui lòng bật cho phép popup để đăng nhập.');
@@ -78,9 +94,59 @@ export const LoginView: React.FC<LoginViewProps> = ({
           </div>
 
           {error && (
-            <div className="p-3 text-xs rounded-xl bg-rose-50 dark:bg-rose-950/50 border border-rose-200 dark:border-rose-900 text-rose-700 dark:text-rose-300 flex items-start gap-2 text-left">
-              <ShieldAlert className="w-4 h-4 shrink-0 mt-0.5" />
-              <span>{error}</span>
+            <div className="p-3.5 text-xs rounded-xl bg-rose-50 dark:bg-rose-950/50 border border-rose-200 dark:border-rose-900 text-rose-700 dark:text-rose-300 flex flex-col gap-2.5 text-left">
+              <div className="flex items-start gap-2">
+                <ShieldAlert className="w-4 h-4 shrink-0 mt-0.5" />
+                <span className="font-medium">{error}</span>
+              </div>
+
+              {isUnauthorizedDomain && (
+                <div className="mt-1 pt-2.5 border-t border-rose-200/80 dark:border-rose-900/80 space-y-2 text-stone-700 dark:text-stone-300">
+                  <p className="text-[11px] leading-relaxed">
+                    Để khắc phục, bạn chỉ cần thêm tên miền này vào danh sách <strong>Authorized domains</strong> trong Firebase:
+                  </p>
+                  
+                  <div className="flex items-center justify-between gap-2 p-2 rounded-lg bg-white/80 dark:bg-stone-900/80 border border-rose-200 dark:border-rose-800/60 font-mono text-[11px] break-all">
+                    <span className="text-stone-800 dark:text-stone-200 select-all font-semibold">
+                      {currentHostname || 'Tên miền hiện tại'}
+                    </span>
+                    <button
+                      type="button"
+                      onClick={handleCopyHostname}
+                      className="shrink-0 flex items-center gap-1 px-2 py-1 rounded bg-stone-100 hover:bg-stone-200 dark:bg-stone-800 dark:hover:bg-stone-700 text-stone-750 dark:text-stone-250 text-[10px] font-sans font-medium transition-colors cursor-pointer"
+                    >
+                      {copiedDomain ? (
+                        <>
+                          <Check className="w-3 h-3 text-emerald-600 dark:text-emerald-400" />
+                          <span className="text-emerald-600 dark:text-emerald-400 font-semibold">Đã chép</span>
+                        </>
+                      ) : (
+                        <>
+                          <Copy className="w-3 h-3" />
+                          <span>Sao chép</span>
+                        </>
+                      )}
+                    </button>
+                  </div>
+
+                  <div className="text-[11px] text-stone-600 dark:text-stone-400 space-y-1">
+                    <p>1. Mở Firebase Console: <strong>Authentication ➜ Settings ➜ Authorized domains</strong></p>
+                    <p>2. Bấm <strong>Add domain</strong> và dán tên miền trên vào (thêm cả <code className="px-1 py-0.5 rounded bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300">nghe.deutschduonghoang.com</code> nếu bạn dùng tên miền riêng).</p>
+                  </div>
+
+                  {firebaseConfig.projectId && (
+                    <a
+                      href={`https://console.firebase.google.com/project/${firebaseConfig.projectId}/authentication/settings`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1.5 text-[11px] font-semibold text-indigo-600 dark:text-indigo-400 hover:underline pt-0.5"
+                    >
+                      <span>Mở cài đặt Firebase Authentication</span>
+                      <ExternalLink className="w-3 h-3" />
+                    </a>
+                  )}
+                </div>
+              )}
             </div>
           )}
 
