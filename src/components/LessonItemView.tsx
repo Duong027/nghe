@@ -18,6 +18,29 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
   // Tách text thành các dòng/câu dựa trên dấu xuống dòng \n
   const rawLines = hasText ? lesson.text!.split('\n') : [];
 
+  // Helper để hiển thị text, nếu có phần nằm trong dấu [...] thì làm nổi bật bằng chữ màu xanh lá và khung viền màu xanh lá
+  const renderFormattedLine = (lineText: string): React.ReactNode => {
+    if (!lineText.includes('[') || !lineText.includes(']')) {
+      return lineText;
+    }
+
+    const parts = lineText.split(/(\[[^\]]+\])/g);
+    return parts.map((part, index) => {
+      if (part.startsWith('[') && part.endsWith(']')) {
+        const highlighted = part.slice(1, -1);
+        return (
+          <span
+            key={index}
+            className="inline-block px-1.5 py-0.5 mx-0.5 rounded border border-emerald-500 dark:border-emerald-400 bg-emerald-50 dark:bg-emerald-950/50 text-emerald-700 dark:text-emerald-300 font-medium leading-tight shadow-2xs"
+          >
+            {highlighted}
+          </span>
+        );
+      }
+      return <React.Fragment key={index}>{part}</React.Fragment>;
+    });
+  };
+
   const handleToggleTranslate = async () => {
     // Nếu đang hiển thị rồi thì bấm để ẩn đi
     if (showTranslation) {
@@ -37,7 +60,7 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
 
     if (hasText) {
       const promises = rawLines.map(async (lineStr, i) => {
-        const line = lineStr.trim();
+        const line = lineStr.replace(/[\[\]]/g, '').trim();
         if (line) {
           const translated = await translateGermanToVietnamese(line);
           if (translated) {
@@ -51,7 +74,8 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
         if (item.vi) {
           newTranslations[i] = item.vi;
         } else if (item.de) {
-          const translated = await translateGermanToVietnamese(item.de);
+          const cleanDe = item.de.replace(/[\[\]]/g, '').trim();
+          const translated = await translateGermanToVietnamese(cleanDe);
           if (translated) {
             newTranslations[i] = translated;
           }
@@ -124,7 +148,7 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
                 }
                 return (
                   <div key={idx} className="space-y-0.5">
-                    <div className="text-stone-900 dark:text-stone-100">{line}</div>
+                    <div className="text-stone-900 dark:text-stone-100">{renderFormattedLine(line)}</div>
                     {showTranslation && translations[idx] && (
                       <div className="text-stone-500 dark:text-stone-400 text-xs pl-2 border-l-2 border-amber-400 dark:border-amber-500">
                         {translations[idx].replace(/[↑↓↗↘←→▲▼]/g, '').trim()}
@@ -136,7 +160,7 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
             ) : (
               lesson.lines?.map((item, idx) => (
                 <div key={idx} className="space-y-0.5">
-                  <div className="text-stone-900 dark:text-stone-100">{item.de}</div>
+                  <div className="text-stone-900 dark:text-stone-100">{renderFormattedLine(item.de)}</div>
                   {showTranslation && translations[idx] && (
                     <div className="text-stone-500 dark:text-stone-400 text-xs pl-2 border-l-2 border-amber-400 dark:border-amber-500">
                       {translations[idx].replace(/[↑↓↗↘←→▲▼]/g, '').trim()}

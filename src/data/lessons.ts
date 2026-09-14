@@ -16,8 +16,8 @@ export const chaptersData: Chapter[] = [
         audioSrc: '/1.1.mp3',
         text: `Hallo Nina!
 Hallo Niklas! Wie geht’s?
-Danke, sehr gut! Und dir?
-Ganz gut, danke.`,
+Danke, sehr gut! [Und dir]?
+[Ganz gut], danke.`,
       },
       {
         id: 'k1-1.2',
@@ -25,11 +25,11 @@ Ganz gut, danke.`,
         audioSrc: '/1.2.mp3',
         text: `Hallo Nina!
 Hallo Julia! Wie geht’s dir?
-Danke, gut. Und dir?
+Danke, gut. [Und dir]?
 Auch gut, danke.
-Hallo, ich bin Julia. Und du? Wer bist du?
+Hallo, ich bin Julia. [Und du]? Wer [bist du]?
 Ich heiße Niklas.
-Entschuldigung, wie heißt du?
+Entschuldigung, wie [heißt du]?
 Niklas`,
       },
       {
@@ -44,31 +44,31 @@ Ciao!`,
         id: 'k1-1.4',
         title: '1.4',
         audioSrc: '/1.4.mp3',
-        text: `Guten Morgen. Mein Name ist Nina Weber.
-Guten Morgen, Frau Weber! Ich heiße Oliver Hansen.`,
+        text: `[Guten] [Morgen]. Mein Name [ist] Nina Weber.
+[Guten] [Morgen], Frau Weber! Ich heiße Oliver Hansen.`,
       },
       {
         id: 'k1-1.5',
         title: '1.5',
         audioSrc: '/1.5.mp3',
-        text: `Guten Tag, Frau Kowalski.
-Guten Tag, Frau Weber. Wie geht es Ihnen?
+        text: `[Guten] Tag, Frau Kowalski.
+[Guten] Tag, Frau Weber. Wie [geht es] Ihnen?
 Danke, gut. Und Ihnen?
-Auch gut, danke.
+[Auch gut], danke.
 Hallo, Frau Weber.
-Hallo, Herr Hansen. Das ist Frau Kowalski.
-Guten Tag, Frau Kowalski. Mein Name ist Oliver Hansen.
-Guten Tag! Entschuldigung, wie heißen Sie?
+Hallo, Herr Hansen. Das [ist] Frau Kowalski.
+[Guten] Tag, Frau Kowalski. Mein Name [ist] Oliver Hansen.
+[Guten] Tag! Entschuldigung, wie heißen Sie?
 Oliver Hansen.`,
       },
       {
         id: 'k1-1.6',
         title: '1.6',
         audioSrc: '/1.6.mp3',
-        text: `Auf Wiedersehen, Herr Hansen. Tschüs,
+        text: `[Auf Wiedersehen], Herr Hansen. Tschüs,
 Frau Weber.
-Auf Wiedersehen, Frau Kowalski.
-Auf Wiedersehen!`,
+[Auf Wiedersehen], Frau Kowalski.
+[Auf Wiedersehen]!`,
       },
       {
         id: 'k1-1.7',
