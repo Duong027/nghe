@@ -91,9 +91,9 @@ Ich wohne in Frankfurt.`,
         id: 'k1-1.9',
         title: '1.9',
         audioSrc: '/1.9.mp3',
-        text: `Guten Tag, Hotel Central.
-Guten Tag, Philip Klein. Ich möchte Frau Berg sprechen.
-Frau Berg ist nicht da. Kann sie zurückrufen?
+        text: `[Guten] Tag, Hotel Central.
+[Guten] Tag, Philip Klein. Ich möchte Frau Berg sprechen.
+Frau Berg [ist] [nicht da]. Kann sie zurückrufen?
 Ja, bitte.
 Wie ist Ihre Nummer, bitte?
 0159 – 8234607.
@@ -104,14 +104,14 @@ Ja, vielen Dank`,
         id: 'k1-1.10',
         title: '1.10',
         audioSrc: '/1.10.mp3',
-        text: `Guten Tag, Hotel Central.
-Guten Tag, Petra Groß. Ich möchte Frau Müller sprechen.
-Frau Müller ist nicht da. Kann sie zurückrufen?
+        text: `[Guten] Tag, Hotel Central.
+[Guten] Tag, Petra Groß. Ich möchte Frau Müller sprechen.
+Frau Müller [ist] [nicht da]. Kann sie zurückrufen?
 Ja, bitte.
 Wie ist Ihre Telefonnummer, bitte?
-0157 – 8316924.
+015[7] – 8316924.
 0157 – 8316924?
-Ja, das ist richtig. Vielen Dank.`,
+Ja, das [ist] richtig. Vielen Dank.`,
       },
       {
         id: 'k1-1.11',
@@ -123,15 +123,14 @@ Ja, das ist richtig. Vielen Dank.`,
         id: 'k1-1.12',
         title: '1.12',
         audioSrc: '/1.12.mp3',
-        text: `Wie ist deine E-Mail-Adresse?
+        text: `Wie [ist] deine E-Mail-Adresse?
 ruben-gonzalez@esweb.net.
-Wie bitte? Noch mal … Ruben …
-
+Wie bitte? Noch [mal] … Ruben …
 Ruben minus Gonzalez: G O N Z A L E Z @ E S W E B Punkt net.
-Ist das richtig so? Ruben minus Gonzalez mit Z @ esweb Punkt net?
-Ja, das stimmt. Und wie ist deine E-Mail-Adresse?
+[Ist] das richtig so? Ruben minus Gonzalez [mit Z] @ esweb Punkt net?
+Ja, das stimmt. Und wie [ist] deine E-Mail-Adresse?
 Maria_1811@inet.com.
-Bitte noch mal! Kannst du sie buchstabieren?
+Bitte noch [mal]! [Kannst du] sie buchstabieren?
 M A R I A Unterstrich achtzehn elf @ I N E T Punkt com.
 Danke.`,
       },
@@ -140,7 +139,7 @@ Danke.`,
         title: '1.13',
         audioSrc: '/1.13.mp3',
         text: `Gut gesagt: Wie bitte?
-Entschuldigung, noch einmal bitte.
+Entschuldigung, noch [einmal] bitte.
 Das verstehe ich nicht.
 Bitte ein bisschen langsamer.`,
       },
