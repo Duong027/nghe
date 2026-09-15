@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { LessonItem } from '../types';
 import { translateGermanToVietnamese } from '../services/translate';
 
@@ -6,10 +6,21 @@ interface LessonItemViewProps {
   lesson: LessonItem;
 }
 
+const SPEED_OPTIONS = [0.25, 0.5, 0.75, 1];
+
 export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
   const [showTranslation, setShowTranslation] = useState<boolean>(false);
   const [translations, setTranslations] = useState<Record<number, string>>({});
   const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [playbackRate, setPlaybackRate] = useState<number>(1);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  const handleSetSpeed = (rate: number) => {
+    setPlaybackRate(rate);
+    if (audioRef.current) {
+      audioRef.current.playbackRate = rate;
+    }
+  };
 
   const hasText = Boolean(lesson.text && lesson.text.trim().length > 0);
   const hasLines = Boolean(lesson.lines && lesson.lines.length > 0);
@@ -91,18 +102,55 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
 
   return (
     <div id={`lesson-${lesson.id}`} className="p-4 bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-xs space-y-3.5 animate-fade-in">
-      {/* Tiêu đề bài học */}
-      <div className="font-semibold text-stone-800 dark:text-stone-200 text-base">
-        {lesson.title}
+      {/* Tiêu đề bài học và các nút chỉnh tốc độ phát */}
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <div className="font-semibold text-stone-800 dark:text-stone-200 text-base">
+          {lesson.title}
+        </div>
+
+        {/* Các nút chỉnh tốc độ phát 0.25x, 0.5x, 0.75x, 1x */}
+        <div className="flex items-center gap-1.5" role="group" aria-label="Tốc độ phát audio">
+          <span className="text-xs text-stone-400 dark:text-stone-500 font-medium mr-0.5">Tốc độ:</span>
+          {SPEED_OPTIONS.map((rate) => {
+            const isActive = playbackRate === rate;
+            return (
+              <button
+                key={rate}
+                id={`speed-${lesson.id}-${rate}`}
+                type="button"
+                onClick={() => handleSetSpeed(rate)}
+                className={`px-2 py-0.5 text-xs rounded-md font-medium transition-colors cursor-pointer ${
+                  isActive
+                    ? 'bg-emerald-600 text-white shadow-2xs font-semibold ring-1 ring-emerald-600 dark:bg-emerald-500 dark:text-stone-950 dark:ring-emerald-400'
+                    : 'bg-stone-100 hover:bg-stone-200 text-stone-600 dark:bg-stone-800 dark:hover:bg-stone-750 dark:text-stone-300 border border-stone-200 dark:border-stone-700'
+                }`}
+                title={`Phát ở tốc độ ${rate}x`}
+              >
+                {rate}x
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       {/* Audio player gốc của trình duyệt */}
       <div className="w-full max-w-lg">
         <audio
+          ref={audioRef}
           id={`audio-${lesson.id}`}
           controls
           controlsList="nodownload"
           onContextMenu={(e) => e.preventDefault()}
+          onPlay={() => {
+            if (audioRef.current && audioRef.current.playbackRate !== playbackRate) {
+              audioRef.current.playbackRate = playbackRate;
+            }
+          }}
+          onRateChange={() => {
+            if (audioRef.current && audioRef.current.playbackRate !== playbackRate) {
+              setPlaybackRate(audioRef.current.playbackRate);
+            }
+          }}
           className="w-full h-11 focus:outline-none"
           src={lesson.audioSrc || undefined}
         >
