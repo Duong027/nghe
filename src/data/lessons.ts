@@ -6259,6 +6259,177 @@ Größe 42.`,
         text: `3. Wie gefällt Ihnen diese Jacke?
 Die Farbe gefällt mir nicht so gut.`,
       },
+      {
+        id: 'bt-track-97',
+        title: 'Track 97',
+        audioSrc: '/track97.mp3',
+        text: `4. Gibt es diesen Pullover auch in Blau?
+Nein, tut mir leid, nur in Grau.`,
+      },
+      {
+        id: 'bt-track-98',
+        title: 'Track 98',
+        audioSrc: '/track98.mp3',
+        text: `5. Entschuldigung, wie viel kostet dieses Kleid? Ich sehe keinen Preis.
+Moment ... 59,90 Euro.`,
+      },
+      {
+        id: 'bt-track-99',
+        title: 'Track 99',
+        audioSrc: '/track99.mp3',
+        text: `6. Wie finden Sie diese Bluse?
+Schön, aber sie ist zu teuer.`,
+      },
+      {
+        id: 'bt-track-100',
+        title: 'Track 100',
+        audioSrc: '/track100.mp3',
+        text: `7. Haben Sie auch Wanderschuhe?
+Nein, leider nicht. Aber im Sportgeschäft Meier finden Sie Wanderschuhe.
+Danke.`,
+      },
+      {
+        id: 'bt-track-101',
+        title: 'Track 101',
+        audioSrc: '/track101.mp3',
+        text: `Hallo Jana. Na, wie war dein Wochenende?
+Ach, hallo Andi. Schön war‘s. Ich war in Berlin. Das war toll. Zuerst war ich mit einer Freundin in einem Café. Der Kaffee dort war so gut und wir haben endlich mal wieder lange geredet. Und dann waren wir in ein paar Geschäften und ich habe ein neues T-Shirt und eine Hose gekauft.
+Das klingt gut. Ich möchte auch mal wieder nach Berlin.
+Was hast du denn am Wochenende gemacht?
+Ach, zuerst habe ich lange geschlafen. Ich war so müde. Ich hatte so viel Stress in letzter Zeit. Und dann am Samstagnachmittag war ich mit ein paar Freunden im Park. Das war schön.
+Und am Sonntag?
+Da habe ich eigentlich nicht viel gemacht. Ich habe ein neues Buch und das habe ich den ganzen Tag gelesen. Das war sehr gut und am Abend habe ich mit meiner Familie Pizza gemacht. Die war sehr lecker. Und du? Warst du am Sonntag auch noch in Berlin?
+Ja, am Sonntag war ich im Museum und mit meiner Freundin Mittag essen und dann bin ich wieder nach Hause gefahren. Ach, schau mal, da kommt der Bus …`,
+      },
+      {
+        id: 'bt-track-102',
+        title: 'Track 102',
+        audioSrc: '/track102.mp3',
+        text: `Wie war Ihr Wochenende?
+Was haben Sie am Samstag gemacht?
+Und am Abend?
+Und was haben Sie am Sonntag gemacht?`,
+      },
+      {
+        id: 'bt-track-103',
+        title: 'Track 103',
+        audioSrc: '/track103.mp3',
+        text: `Hi Jakob, wie war dein Wochenende? Schön?
+Ja, klar. Bei dem Wetter! Am Samstagvormittag war ich im Büro und habe ein bisschen gearbeitet. Dann bin ich in den Park gegangen und habe mit Flo und Christian eine Runde Fußball gespielt. Am Nachmittag habe ich mit Maria ein Eis gegessen und am Abend bin ich ins Kino gegangen. Der Sonntag war ein bisschen langweilig. Ich habe eine Pizza gemacht und danach und am Abend mit meinem Vater Tennis gespielt. Und bei dir? Wie war dein Wochenende?`,
+      },
+      {
+        id: 'bt-track-104',
+        title: 'Track 104',
+        audioSrc: '/track104.mp3',
+        text: `1. Hallo, hier ist Jakob. Du, ich kann heute Abend nicht ins Kino gehen. Ich bin noch im Büro und muss arbeiten. Hast du morgen Zeit? Melde dich. Ciao.
+2. Liebe Fahrgäste, die U5 kommt 10 Minuten später. Wir bitten um Entschuldigung.
+3. Hi, hier ist Lena. Wir gehen am Samstag tanzen. Valerie ist auch dabei. Kommst du auch mit? Ruf mich mal an!
+4. Liebe Gäste, wir schließen jetzt. Morgen ist das Schwimmbad geschlossen. Am Dienstag sind wir wieder ab 8 Uhr für Sie da.`,
+      },
+      {
+        id: 'bt-track-105',
+        title: 'Track 105',
+        audioSrc: '/track105.mp3',
+        text: `1. Entschuldigung, wie viel kostet diese Jacke?
+Moment, die Jacken sind heute alle 20 Prozent günstiger ... 24 Euro.
+Oh, das ist ja super. Dann nehme ich die. Wo ist denn die Kasse?
+Gleich hier links.
+Danke.
+
+2. Kann ich Ihnen helfen?
+Ja, ich suche das Hotel Rose.
+Ah, das ist ganz einfach. Gehen Sie hier geradeaus zum Bahnhof und dann ist links die Post und hinter der Post ist das Hotel Rose.
+Vielen Dank.
+
+3. Guten Tag.
+Guten Tag. Ich möchte bitte ein Kilo Bananen.
+Gerne. Noch etwas? Die Äpfel und Birnen sind heute besonders gut.
+Nein, danke. Vielleicht beim nächsten Mal.
+Gut. Das macht dann 2,10 Euro, bitte.
+
+4. Guten Abend, ich komme zum Sprachkurs, aber ich weiß nicht, in welchen Raum ich muss.
+Der Sprachkurs ist in Raum 304, im 3.Stock. Hier vorne ist der Aufzug.
+Danke schön.
+Bitte, gerne.
+
+5. Das Schwimmbad ist ja geschlossen! Das verstehe ich nicht. Das öffnet doch normalerweise um 8 Uhr. Wie spät ist es denn jetzt?
+Kurz nach 9. Warte mal, hier ist ein Schild ... Ah, heute öffnet es erst um 10, steht hier.
+
+6. Entschuldigung. Wie fahre ich am besten zum Bahnhof? Mit der Straßenbahn?
+Nein, mit der Straßenbahn können Sie nur bis zum Marktplatz fahren und dann geht es nur mit dem Bus weiter. Nehmen Sie die U-Bahn: Linie U3 oder U6. Da kommen Sie direkt zum Bahnhof.
+Okay, vielen Dank.`,
+      },
+      {
+        id: 'bt-track-106',
+        title: 'Track 106',
+        audioSrc: '/track106.mp3',
+        text: `7. Dies ist eine Kundendurchsage für Frau Meier. Bitte kommen Sie zur Kasse im 1.Stock. Kundin Frau Meier, bitte kommen Sie zur Kasse im ersten Stock.
+
+8. Verehrte Kunden, unser Restaurant im 6.Stock schließt heute bereits um 17 Uhr. Wir bitten dies zu entschuldigen und freuen uns, Sie morgen begrüßen zu dürfen.
+
+9. Achtung auf Gleis 4. Es fährt ein der Intercity 6152 nach Stuttgart. Planmäßige Weiterfahrt um 13:44 Uhr. Bitte Vorsicht bei der Einfahrt.
+
+10. Heute ist es richtig billig: 50 Prozent auf alle Sporthosen, Sport-T-Shirts und Sportschuhe. Im 3.Stock in unserer Sportabteilung. Liebe Kunden, nutzen Sie unser Angebot!`,
+      },
+      {
+        id: 'bt-track-107',
+        title: 'Track 107',
+        audioSrc: '/track107.mp3',
+        text: `11. Hi Florian, Claas hier. Ich kann dich leider morgen nicht vom Bahnhof abholen. Nimm doch einfach den Bus, ja? Die Linie 15 braucht nur 10 Minuten bis zum Marktplatz und von dort musst du noch 5 Minuten laufen. Okay? Bis morgen!
+
+12. Guten Tag, hier ist Marie Bauer. Ich habe am Montag um 15 Uhr einen Termin bei Ihnen. Da kann ich leider nicht kommen. Geht es vielleicht am Dienstag um die gleiche Uhrzeit? Rufen Sie mich doch zurück, bitte. Auf Wiederhören.
+
+13. Hallo Lena, hier ist Pia. Du, ruf mich doch mal hier im Büro an. Die Nummer ist 3894075. Also, bis später dann. Tschüs.
+
+14. Hi, hier ist Moritz. Ich habe am Samstag leider keine Zeit. Ich fahre mit meiner Freundin zu meinen Eltern, meine Oma kommt auch. Tut mir leid, aber ich muss dahin. Ich melde mich, ja? Bis bald!
+
+15. Guten Tag, Sie haben die Praxis von Dr. Dietl erreicht. Wir machen vom 10.7. – 6.8. Sommerurlaub. Ab dem 7.8. sind wir wieder für Sie da.`,
+      },
+      {
+        id: 'bt-track-108',
+        title: 'Track 108',
+        audioSrc: '/track108.mp3',
+        text: `1. Hallo, hier ist Maria. Du, ich kann heute nicht ins Kino gehen. Ich habe Fieber und mein Kopf tut weh. Ich bleibe heute im Bett. Bis bald, tschüs.
+2. Liebe Fahrgäste, unser Zugrestaurant ist heute leider geschlossen. Bei unseren Service-Mitarbeitern können Sie aber Kaffee, Tee und andere Getränke kaufen. Wir wünschen eine gute Fahrt.
+3. Hi, ich bin’s, Felix. Du, mein Auto macht Probleme, es fährt nicht richtig. Deshalb kann ich dich nicht vom Bahnhof abholen. Nimm die U-Bahn, okay? Bis später!
+4. Liebe Kunden, unser Geschäft schließt in 5 Minuten. Morgen sind wir ab 7 Uhr wieder für Sie da. Wir wünschen einen schönen Abend.`,
+      },
+      {
+        id: 'bt-track-109',
+        title: 'Track 109',
+        audioSrc: '/track109.mp3',
+        text: `1. Wie viel kostet das Handy?
+Es kostet 99,98 Euro.
+
+2. Wie lange warten Sie schon?
+Seit 10 Minuten.
+
+3. Wann fährt der nächste Bus zur Universität?
+Er fährt um 12:13 Uhr.
+
+4. Wie schreibt man Ihren Nachnamen?
+Ich buchstabiere A-Y-D-I-N.
+
+5. Was ist die Hausaufgabe?
+Die Hausaufgabe ist Übung 5 auf Seite 30.`,
+      },
+      {
+        id: 'bt-track-110',
+        title: 'Track 110',
+        audioSrc: '/track110.mp3',
+        text: `Ist das dein Schlüssel?
+Möchten Sie etwas essen?
+Vielen Dank für das Geschenk!`,
+      },
+      {
+        id: 'bt-track-111',
+        title: 'Track 111',
+        audioSrc: '/track111.mp3',
+        text: `Hast du am Samstag Zeit?
+Kann ich Ihnen helfen?
+Wo wohnst du?
+Wie geht es Ihnen?`,
+      },
     ],
   },
 ];
