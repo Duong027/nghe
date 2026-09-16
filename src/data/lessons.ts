@@ -5565,6 +5565,323 @@ Ja, einen Kaffee.`,
 2. Ich möchte einen Orangensaft und ich hätte auch gern das Eis, aber ohne Sahne.
 3. Ich nehme das Hähnchen mit Pommes frites und ich möchte auch ein Wasser.`,
       },
+      {
+        id: 'bt-track-43',
+        title: 'Track 43',
+        audioSrc: '/track43.mp3',
+        text: `1. Guten Abend. Was darf ich Ihnen bringen?
+Und zum Trinken?
+2. Hallo. Was hätten Sie gern?
+Möchten Sie auch etwas essen?
+Tut mir leid. Das haben wir heute nicht.`,
+      },
+      {
+        id: 'bt-track-44',
+        title: 'Track 44',
+        audioSrc: '/track44.mp3',
+        text: `Hast du heute Zeit?
+Wann? Heute Abend?
+Ja, wir könnten schwimmen gehen. Das Schwimmbad hat heute bis um 10 Uhr geöffnet.
+Schwimmen? Keine Lust. Gehen wir doch lieber ins Kino. Da laufen gerade echt gute Filme, zum Beispiel der neue Film mit Daniel Brühl.
+Ah ja, den möchte ich auch sehen. Wann treffen wir uns dann?
+Hmm, der Film beginnt um halb acht. Dann treffen wir uns um sieben am Bahnhof und gehen dann zusammen zum Kino.
+Okay, alles klar. Dann bis später. Tschüs.
+Tschüs.`,
+      },
+      {
+        id: 'bt-track-45',
+        title: 'Track 45',
+        audioSrc: '/track45.mp3',
+        text: `Hast du am Wochenende Zeit?
+Ja, am Samstag. Was möchtest du machen?
+Ich möchte wandern gehen. Kommst du mit?
+Gute Idee. Und später machen wir ein Picknick.
+Super. Wann treffen wir uns?
+Um zehn Uhr am Bahnhof?
+Alles klar.`,
+      },
+      {
+        id: 'bt-track-46',
+        title: 'Track 46',
+        audioSrc: '/track46.mp3',
+        text: `1. Wann rufst du mich an?
+Um halb fünf. Oder ist das zu spät?
+Nein, nein, das ist okay.
+
+2. Wann holst du mich ab?
+Um Viertel nach fünf. Warte am besten vorm Haus, ich komme mit dem Auto.
+
+3. Wie spät ist es jetzt?
+Kurz vor fünf.
+Was? Schon so spät?
+
+4. Wir gehen doch heute mit Maria und Maxim ins Kino. Wann müssen wir da losgehen?
+Hm, um zwanzig vor fünf. Dann kommen wir pünktlich.`,
+      },
+      {
+        id: 'bt-track-47',
+        title: 'Track 47',
+        audioSrc: '/track47.mp3',
+        text: `1. Wann gehen wir ins Kino?
+Um halb acht.
+
+2. Wann treffen wir uns?
+Um vier?
+Nein, das geht nicht. Fünf Uhr ist besser.
+
+3. Um wie viel Uhr gehen wir in das Restaurant?
+Ich arbeite bis halb sieben. Hmm, sieben Uhr ist gut.
+Okay, bis später.
+
+4. Ich gehe heute joggen. Kommst du mit?
+Klar. Wann?
+Nach dem Kurs, also um Viertel nach vier.
+Okay. Um halb fünf habe ich keine Zeit, dann komme ich das nächste Mal mit.
+
+5. Wann gehen wir heute ins Schwimmbad?
+Um Viertel vor acht? Dann können wir zwei Stunden schwimmen. Das Schwimmbad schließt um 22 Uhr.
+Okay.
+
+6. Heute kommen meine Eltern zum Essen.
+Ah ja, stimmt.
+Wann bist du zu Hause? Du musst mir helfen.
+Ich arbeite bis vier. Dann bin ich um halb fünf zu Hause.`,
+      },
+      {
+        id: 'bt-track-48',
+        title: 'Track 48',
+        audioSrc: '/track48.mp3',
+        text: `Wie viel Uhr ist es?
+Wann gehen wir ins Kino?
+Wann arbeitest du?
+Wann gehen wir ins Schwimmbad?
+Wann machen wir Sport?
+Wie spät ist es?
+Wann machen wir unser Picknick?`,
+      },
+      {
+        id: 'bt-track-49',
+        title: 'Track 49',
+        audioSrc: '/track49.mp3',
+        text: `1. Hallo, hier ist Maria. Ich gehe heute Abend mit Greta ins Kino. Kommst du mit? Ruf mich mal an. Meine neue Nummer ist 0172 – 901 422 951. Also noch mal 0172 – 901 422 951. Bis später!
+
+2. Hi Lilli, hier ist Jakob. Du, wir gehen heute doch nicht ins Theater. Wir treffen uns im Café am Marktplatz. Da kannst du vom Bahnhof hinlaufen. Das ist nicht weit. Tschüs!
+
+3. Hallo Lukas, ich kann dich leider nicht abholen, mein Auto ist kaputt. Nimm einfach die U3 am Marienplatz und fahr bis zur Universität. Dann musst du noch fünf oder sechs Minuten gehen. Bis dann!
+
+4. Hier ist Cem. Wo bist du denn? Ich warte jetzt schon fünfzehn Minuten auf dich. Also, in fünf Minuten gehe ich, dann musst du den Weg zu Elenas Party allein finden. Ciao!
+
+5. Hi, hier ist Lena. Du, am Freitag muss ich zu meinen Eltern fahren und komme erst am Samstag spät zurück. Aber am Sonntag können wir uns treffen. Vielleicht machen wir ein Picknick? Ruf mich mal zurück, tschüs!`,
+      },
+      {
+        id: 'bt-track-50',
+        title: 'Track 50',
+        audioSrc: '/track50.mp3',
+        text: `1. Hallo Luisa, wie geht’s?
+Hallo Victor. Na ja, es geht. Ich habe schon seit Tagen so Kopfschmerzen.
+Wirklich? Du musst viel Wasser trinken. Das hilft. Und du musst viel spazieren gehen. Frische Luft ist wichtig.
+Danke, Victor. Das probiere ich. Kommst du gleich mit in den Park?
+Ja, gern.`,
+      },
+      {
+        id: 'bt-track-51',
+        title: 'Track 51',
+        audioSrc: '/track51.mp3',
+        text: `2. Hallo Pietro. Was ist denn los?
+Mein Zahn tut so weh. Aua, aua.
+Wirklich? Und seit wann?
+Ach, schon seit drei Tagen.
+Aber warum gehst du denn nicht zum Zahnarzt?
+Na ja, ich habe Angst.
+Du musst zum Zahnarzt gehen. Warte mal, ich rufe da gleich mal an.`,
+      },
+      {
+        id: 'bt-track-52',
+        title: 'Track 52',
+        audioSrc: '/track52.mp3',
+        text: `3. Hallo Jan, gehen wir heute zusammen ins Fitnessstudio?
+Nein, ich kann nicht. Mein Bauch tut weh.
+Oh, dann musst du viel Tee trinken und eine Suppe essen. Das hilft. Und leg dich ins Bett. Entspannung ist auch wichtig.
+Okay, das mache ich. Ich rufe dich morgen an, okay?
+Ja, okay. Gute Besserung!
+Danke.`,
+      },
+      {
+        id: 'bt-track-53',
+        title: 'Track 53',
+        audioSrc: '/track53.mp3',
+        text: `4. Ah Maria, wie geht es dir?
+Ach, nicht so gut. Ich habe Halsschmerzen. Hast du eine Idee, was da hilft?
+Hm, trink eine heiße Zitrone. Und du musst ein bis zwei Tage zu Hause bleiben.
+Meinst du? Okay, dann rufe ich gleich mal im Büro an.
+Ja, das ist das Beste. Ich hatte letzte Woche auch Halsschmerzen und ...`,
+      },
+      {
+        id: 'bt-track-54',
+        title: 'Track 54',
+        audioSrc: '/track54.mp3',
+        text: `1. Hallo Luisa, wie geht’s?
+Hallo Victor. Na ja, es geht. Ich habe schon seit Tagen so Kopfschmerzen.
+Wirklich? Du musst viel Wasser trinken. Das hilft. Und du musst viel spazieren gehen. Frische Luft ist wichtig.
+Danke, Victor. Das probiere ich. Kommst du gleich mit in den Park?
+Ja, gern.`,
+      },
+      {
+        id: 'bt-track-55',
+        title: 'Track 55',
+        audioSrc: '/track55.mp3',
+        text: `2. Hallo Pietro. Was ist denn los?
+Mein Zahn tut so weh. Aua, aua.
+Wirklich? Und seit wann?
+Ach, schon seit drei Tagen.
+Aber warum gehst du denn nicht zum Zahnarzt?
+Na ja, ich habe Angst.
+Du musst zum Zahnarzt gehen. Warte mal, ich rufe da gleich mal an.`,
+      },
+      {
+        id: 'bt-track-56',
+        title: 'Track 56',
+        audioSrc: '/track56.mp3',
+        text: `3. Hallo Jan, gehen wir heute zusammen ins Fitnessstudio?
+Nein, ich kann nicht. Mein Bauch tut weh.
+Oh, dann musst du viel Tee trinken und eine Suppe essen. Das hilft. Und leg dich ins Bett. Entspannung ist auch wichtig.
+Okay, das mache ich. Ich rufe dich morgen an, okay?
+Ja, okay. Gute Besserung!
+Danke.`,
+      },
+      {
+        id: 'bt-track-57',
+        title: 'Track 57',
+        audioSrc: '/track57.mp3',
+        text: `4. Ah Maria, wie geht es dir?
+Ach, nicht so gut. Ich habe Halsschmerzen. Hast du eine Idee, was da hilft?
+Hm, trink eine heiße Zitrone. Und du musst ein bis zwei Tage zu Hause bleiben.
+Meinst du? Okay, dann rufe ich gleich mal im Büro an.
+Ja, das ist das Beste. Ich hatte letzte Woche auch Halsschmerzen und ...`,
+      },
+      {
+        id: 'bt-track-58',
+        title: 'Track 58',
+        audioSrc: '/track58.mp3',
+        text: `Ich habe Bauchschmerzen.
+Mein Kopf tut weh.
+Ich habe Zahnschmerzen.
+Mein Rücken tut weh.
+Ich schlafe schlecht.
+Ich habe Fieber.`,
+      },
+      {
+        id: 'bt-track-59',
+        title: 'Track 59',
+        audioSrc: '/track59.mp3',
+        text: `Praxis Doktor Hartmann, Meier, guten Tag.
+Guten Tag. Mein Name ist Florin Kaiser. Ich möchte einen Termin, bitte.
+Gern. Am Dienstag um 14:45 Uhr?
+Am Dienstag muss ich arbeiten. Kann ich am Mittwochnachmittag kommen?
+Am Mittwochnachmittag ist die Praxis geschlossen. Donnerstag 16:30 Uhr?
+Ja, das geht. Vielen Dank.
+Danke, Herr Kaiser. Bis Donnerstag, auf Wiederhören.
+Auf Wiederhören.`,
+      },
+      {
+        id: 'bt-track-60',
+        title: 'Track 60',
+        audioSrc: '/track60.mp3',
+        text: `Hallo Sonja, komm rein.
+Hallo! Schön, dass ich eure neue Wohnung endlich sehe!
+Ich zeige dir gleich alles. Also, hier ist das Wohnzimmer.
+Oh, schön, so hell. Und mit Balkon.
+Und das ist die Küche. Da mache ich uns gleich einen Kaffee.
+Toll.
+Hier ist unser Schlafzimmer.
+Oh, so groß.
+Daneben ist gleich das Bad.
+Ah, gut, mit Fenster. Das ist wirklich eine schöne Wohnung.
+Danke. Ich bin auch froh, dass wir ...`,
+      },
+      {
+        id: 'bt-track-61',
+        title: 'Track 61',
+        audioSrc: '/track61.mp3',
+        text: `Guten Tag. Wie kann ich Ihnen helfen?
+Guten Tag. Ich suche ein neues Sofa.
+Gern. Kommen Sie bitte. Unsere Sofas stehen dort rechts.
+Oh, das Bild ist aber schön.
+Das ist ganz billig, nur 25 Euro.
+Das ist ein guter Preis für so ein schönes Bild, aber ich brauche ja kein Bild.
+So, hier sind unsere Sofas. Wie gefällt Ihnen dieses Sofa?
+Ach, die Farbe ist okay, aber es ist viel zu klein.
+Dann vielleicht dieses hier?
+Ach, ich weiß nicht ... Oh, der Tisch ist sehr schön. Wie viel kostet der?
+Moment ... Der ist im Angebot, nur 175 Euro.
+Na ja, das ist ein bisschen teuer. Aber der Tisch gefällt mir wirklich gut.
+Der passt auch sehr gut zu diesem Sofa.
+Das ist richtig. Aber ich denke, ich muss erst meine Frau fragen, was sie denkt.
+Machen Sie das. Das ist kein Problem. Sie finden alle unsere Möbel im Internet. Da können Sie Ihrer Frau ja die Sofas und den Tisch zeigen.
+Ja, so mache ich das. Ich zeige meiner Frau alles und dann komme ich morgen wieder. Vielen Dank für Ihre Hilfe.`,
+      },
+      {
+        id: 'bt-track-62',
+        title: 'Track 62',
+        audioSrc: '/track62.mp3',
+        text: `Wie findest du das Sofa?
+Wie findest du den Tisch?
+Wie findest du den Schrank?
+Wie findest du das Regal?
+Wie findest du den Stuhl?
+Wie findest du das Bett?`,
+      },
+      {
+        id: 'bt-track-63',
+        title: 'Track 63',
+        audioSrc: '/track63.mp3',
+        text: `Paula Ivanovic.
+Hallo Paula, hier ist Frederik.
+Hallo Frederik. Wie geht’s?
+Gut, danke. Du, ich habe gehört, dass du eine Wohnung suchst. Also, bei meinen Eltern im Haus ist eine frei.
+Echt? In welcher Straße ist denn die Wohnung?
+In der Kittlerstraße 60.
+Ah, das ist gut. Und wie groß ist die Wohnung?
+Die Wohnung hat drei Zimmer.
+Das passt gut. Und wie teuer ist sie?
+600 Euro im Monat.
+Oh, das klingt gut.
+Ich gebe dir mal die Telefonnummer vom Vermieter. Dann kannst du da einfach anrufen.
+Oh ja, super. Warte, ich hole schnell einen Stift. ... So jetzt.
+Die Nummer von Herrn Bergmann ist 89 65 84 71.
+Danke, Frederik. Ich rufe Herrn Bergmann gleich mal an.`,
+      },
+      {
+        id: 'bt-track-64',
+        title: 'Track 64',
+        audioSrc: '/track64.mp3',
+        text: `Frederik Huber.
+Hallo Frederik, hier ist Paula. Danke noch mal für den Tipp mit der Wohnung.
+Ja, bitte. Und? Hast du die Wohnung bekommen?
+Ja, habe ich. Toll, oder?
+Ja, super. Und bist du schon umgezogen?
+Nein, jetzt im Mai muss der Vermieter noch ein paar Dinge in der Wohnung reparieren und im Juni kann ich dann in die Wohnung.
+Und ist die Wohnung nicht ein bisschen teuer für dich?
+Nein. Die Wohnung hat ja drei Zimmer und dann wohnt meine Schwester auch dort und wir bezahlen die Wohnung zusammen.
+Ah, das ist ja gut.
+Ja, das ist perfekt. Ich freue mich sehr. Und zur Uni sind es auch nur fünf Minuten zu Fuß.
+Ja, ich weiß.
+Du, ich mache dann auch eine Party im Juni. Kommst du? Bitte!
+Ja, natürlich ...`,
+      },
+      {
+        id: 'bt-track-65',
+        title: 'Track 65',
+        audioSrc: '/track65.mp3',
+        text: `421 Euro
+673 Euro
+744 Euro
+988 Euro
+1004 Euro
+1577 Euro
+1959 Euro
+2251 Euro`,
+      },
     ],
   },
 ];
