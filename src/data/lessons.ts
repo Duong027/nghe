@@ -5099,5 +5099,78 @@ Doch glücklich bin ich nicht.“`,
       },
     ],
   },
+  {
+    id: 'bo-tro',
+    title: 'Bổ trợ',
+    level: 'Bổ trợ',
+    lessons: [
+      {
+        id: 'bt-track-1',
+        title: 'Track 1',
+        audioSrc: '/track1.mp3',
+        text: `1. Mein Name ist Tim und ich komme aus Deutschland.
+Ich bin zwanzig Jahre alt und ich wohne in Berlin.
+2. Mein Name ist Maria und ich komme aus Österreich.
+Ich bin dreißig Jahre alt und ich wohne in Wien`,
+      },
+      {
+        id: 'bt-track-2',
+        title: 'Track 2',
+        audioSrc: '/track2.mp3',
+        text: `Ich bin Student. Ich spreche Deutsch, Englisch und Spanisch. Meine Hobbys sind Sport und Kochen.
+Ich bin Ärztin. Ich spreche Deutsch und Englisch. Meine Hobbys sind Tanzen und Lesen.`,
+      },
+      {
+        id: 'bt-track-3',
+        title: 'Track 3',
+        audioSrc: '/track3.mp3',
+        text: `Hallo. Mein Name ist Max.
+Hallo Max. Ich heiße Anna. Wohnst du hier in Berlin?
+Nein, ich wohne in Hamburg. Und du?
+Ich wohne in Berlin, aber ich komme aus Russland. Ich spreche Russisch und Deutsch. Was bist du von Beruf, Max?
+Ich bin Ingenieur. Und du?
+Ich bin Architektin. Wie alt bist du?
+Ich bin 32 Jahre alt. Und du?
+Ich bin 34 Jahre alt. Mein Hobby ist Singen. Was sind deine Hobbys?
+Ich lese und tanze gern.`,
+      },
+      {
+        id: 'bt-track-4',
+        title: 'Track 4',
+        audioSrc: '/track4.mp3',
+        text: `Wie heißen Sie?
+Wie alt sind Sie?
+Was sind Sie von Beruf?
+Woher kommen Sie?
+Was sind Ihre Hobbys?
+Wo wohnen Sie?
+Welche Sprachen sprechen Sie?`,
+      },
+      {
+        id: 'bt-track-5',
+        title: 'Track 5',
+        audioSrc: '/track5.mp3',
+        text: `Mein Name ist Melanie Berti und ich bin 25 Jahre alt.
+Ich komme aus der Schweiz, aber ich wohne jetzt in Hamburg.
+Ich spreche Deutsch, Französisch und Italienisch.
+Ich arbeite als Journalistin. Meine Hobbys sind Fußball und ich schwimme gern.`,
+      },
+      {
+        id: 'bt-track-6',
+        title: 'Track 6',
+        audioSrc: '/track6.mp3',
+        text: `Das ist Luca Rossi.
+Er kommt aus Italien und er lebt in Rom.
+Er ist 27 Jahre alt und Techniker von Beruf.
+Er spricht Italienisch und Englisch. Seine Hobbys sind Basketball und Lesen.`,
+      },
+      {
+        id: 'bt-track-7',
+        title: 'Track 7',
+        audioSrc: '/track7.mp3',
+        text: `A – B – C – D – E – F – G – H – I – J – K – L – M – N – O – P – Q – R – S – T – U – V – W – X – Y – Z – Ä – Ö – Ü – ß`,
+      },
+    ],
+  },
 ];
 

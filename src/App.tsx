@@ -15,7 +15,7 @@ import {
 import { User } from 'firebase/auth';
 import type { StudentWhitelistItem } from './types';
 
-const LEVELS = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2'] as const;
+const LEVELS = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2', 'Bổ trợ'] as const;
 type Level = typeof LEVELS[number];
 
 // Helper để xác định chương thuộc cấp độ nào (Kapitel 1-6 thuộc A1.1)
@@ -307,8 +307,8 @@ export default function App() {
             </div>
           </div>
 
-          {/* Thanh chuyển Kapitel con (chỉ hiển thị nếu cấp độ có chương học) */}
-          {chaptersForSelectedLevel.length > 0 && (
+          {/* Thanh chuyển Kapitel con (chỉ hiển thị nếu cấp độ có từ 2 chương học trở lên) */}
+          {chaptersForSelectedLevel.length > 1 && (
             <div className="flex flex-wrap justify-center gap-1.5 pt-1">
               {chaptersForSelectedLevel.map((chapter) => {
                 const isActive = chapter.id === activeChapterId;
@@ -335,6 +335,21 @@ export default function App() {
         <div className="space-y-6 pt-2">
           {chaptersForSelectedLevel.length > 0 && activeChapter ? (
             <ChapterSection chapter={activeChapter} />
+          ) : activeLevel === 'Bổ trợ' ? (
+            /* Trạng thái chưa có nội dung cho tab Bổ trợ */
+            <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-2xl p-8 sm:p-10 text-center max-w-lg mx-auto space-y-4 shadow-xs animate-fade-in">
+              <div className="w-14 h-14 bg-stone-50 dark:bg-stone-800 rounded-full flex items-center justify-center mx-auto border border-stone-200 dark:border-stone-700">
+                <Compass className="w-7 h-7 text-stone-600 dark:text-stone-300" />
+              </div>
+              <div className="space-y-2">
+                <h3 className="text-lg font-bold text-stone-900 dark:text-stone-100">
+                  Phần Bổ trợ
+                </h3>
+                <p className="text-stone-500 dark:text-stone-400 text-sm leading-relaxed max-w-md mx-auto">
+                  Chưa có nội dung. Phần này sẽ được cập nhật thêm sau.
+                </p>
+              </div>
+            </div>
           ) : (
             /* Empty state cho các trình độ chưa có bài */
             <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-2xl p-8 sm:p-10 text-center max-w-lg mx-auto space-y-6 shadow-xs animate-fade-in">
