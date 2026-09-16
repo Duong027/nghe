@@ -153,7 +153,7 @@ Bitte ein bisschen langsamer.`,
         id: 'k2-1.14',
         title: '1.14',
         audioSrc: '/1.14.mp3',
-        text: `Hallo, Emily. Ich mache ein Interview über Hobbys. Was machst du gern?
+        text: `Hallo, Emily. Ich mache ein Interview über Hobbys. Was [machst du] gern?
 Also, ich schwimme gern und ich jogge oft, besonders im Sommer.`,
       },
       {
@@ -162,10 +162,10 @@ Also, ich schwimme gern und ich jogge oft, besonders im Sommer.`,
         audioSrc: '/1.15.mp3',
         text: `Hallo Boris.
 Hallo Maja.
-Sag mal, Boris, liest du gern?
-Ja, sehr. Und ich reise auch gern mit meinen Freunden.
-Und gehst du gern ins Kino?
-Nein, nicht so gern.`,
+Sag [mal], Boris, [liest du] gern?
+Ja, sehr. Und ich reise auch gern [mit] [meinen] [Freunden].
+[Und gehst du] gern ins Kino?
+Nein, [nicht so] gern.`,
       },
       {
         id: 'k2-1.16',
@@ -173,8 +173,8 @@ Nein, nicht so gern.`,
         audioSrc: '/1.16.mp3',
         text: `Hey Eva.
 Hallo Maja.
-Du, Eva, was machst du eigentlich gern?
-Ja also, ich fotografiere sehr gern, zum Beispiel Freunde, Kollegen, Leute … Und am Wochenende tanze ich gern.`,
+Du, Eva, was [machst du] [eigentlich] gern?
+Ja also, ich fotografiere sehr gern, zum Beispiel Freunde, [Kollegen], Leute … Und am Wochenende tanze ich gern.`,
       },
       {
         id: 'k2-1.17',
@@ -183,8 +183,8 @@ Ja also, ich fotografiere sehr gern, zum Beispiel Freunde, Kollegen, Leute … U
         text: `Gehen wir ins Kino?
 Ja, gern. Wann?
 Am Samstag?
-Nee, das geht leider nicht.
-Am Mittwoch?
+Nee, [das geht leider] nicht.
+[Am Mittwoch]?
 Ja, super.`,
       },
       {
@@ -194,35 +194,35 @@ Ja, super.`,
         text: `Gehen wir ins Kino? ↗
 Ja, gern. ↘
 Gehen wir am Sonntag? ↗
-Nein, das geht leider nicht. ↘
+Nein, [das geht leider] nicht. ↘
 Wann gehen wir? ↘
-Am Montag. ↘
-Was machen wir am Montag? ↘
+[Am Montag]. ↘
+Was machen wir [am Montag]? ↘
 Wir gehen ins Kino. ↘`,
       },
       {
         id: 'k2-1.19',
         title: '1.19',
         audioSrc: '/1.19.mp3',
-        text: `Gut gesagt: Nein!
-Nein, das geht leider nicht.
-Nee, das geht leider nicht.
-Nö, das geht leider nicht.
-Na, des geht leider net.`,
+        text: `[Gut gesagt]: Nein!
+Nein, [das geht leider] nicht.
+Nee, [das geht leider] nicht.
+Nö, [das geht leider] nicht.
+Na, [des geht leider] net.`,
       },
       {
         id: 'k2-1.20',
         title: '1.20',
         audioSrc: '/1.20.mp3',
-        text: `zweiundzwanzig
-vierundzwanzig
-sechsundvierzig
+        text: `zwei[undzwanzig]
+vier[undzwanzig]
+sechs[undvierzig]
 einhundert
 vierhundertachtzig
-neunhundertzwanzig
-tausendzweihundertfünfzig
-fünfundzwanzigtausend
-achtundsechzigtausend`,
+neun[hundertzwanzig]
+ein[tausendzwei][hundertfünfzig]
+fünf[undzwanzig]tausend
+acht[undsechzig]tausend`,
       },
     ],
   },
