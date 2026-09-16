@@ -5170,6 +5170,401 @@ Er spricht Italienisch und Englisch. Seine Hobbys sind Basketball und Lesen.`,
         audioSrc: '/track7.mp3',
         text: `A – B – C – D – E – F – G – H – I – J – K – L – M – N – O – P – Q – R – S – T – U – V – W – X – Y – Z – Ä – Ö – Ü – ß`,
       },
+      {
+        id: 'bt-track-8',
+        title: 'Track 8',
+        audioSrc: '/track8.mp3',
+        text: `Person A
+Guten Tag, wie ist Ihr Name, bitte?
+Hallo, mein Name ist Candela Rodriguez.
+Wie buchstabiert man Ihren Vornamen?
+C – A – N – D – E – L - A
+Danke. Und wie buchstabiert man Ihren Nachnamen?
+R – O – D – R – I – G – U – E – Z
+Vielen Dank.
+
+Person B
+Guten Tag, wie ist Ihr Name, bitte?
+Guten Tag, mein Name ist Jakub Kowalski.
+Wie buchstabiert man Ihren Vornamen?
+J – A – K – U – B
+Danke. Und wie buchstabiert man Ihren Nachnamen?
+K – O – W – A – L – S – K – I
+Vielen Dank.`,
+      },
+      {
+        id: 'bt-track-9',
+        title: 'Track 9',
+        audioSrc: '/track9.mp3',
+        text: `das Schwimmbad – die Bäckerei – das Fahrrad – die Schule – der Bahnhof – der Flughafen – das Hotel – das Auto`,
+      },
+      {
+        id: 'bt-track-10',
+        title: 'Track 10',
+        audioSrc: '/track10.mp3',
+        text: `1. Wie viel Uhr ist es?
+Es ist jetzt halb fünf.
+2. Wie viel kostet dieser Pulli?
+29 Euro.
+3. Was möchten Sie, bitte?
+Ich nehme ein Brot und drei Brötchen.
+4. Entschuldigung, wo ist das Restaurant Rio?
+Das Restaurant ist in der Müllerstraße.
+5. Welcher Bus fährt zum Schwimmbad?
+Nehmen Sie die Linie 33.`,
+      },
+      {
+        id: 'bt-track-11',
+        title: 'Track 11',
+        audioSrc: '/track11.mp3',
+        text: `Beispiel
+Guten Tag, mein Name ist Nina Müller.
+Guten Tag, Frau Müller und herzlich willkommen in unserem Hotel. Sie haben Zimmer 303. Hier ist Ihr Schlüssel.
+Danke. Gibt es einen Aufzug?
+Nein, leider nicht. Moment, ich helfe Ihnen mit dem Koffer.
+Vielen Dank.
+
+1. Guten Morgen, ich möchte diesen Kuchen hier, bitte.
+Den hier mit Schokolade?
+Ja, genau.
+Sonst noch etwas?
+Nein danke, das ist alles.
+Das macht dann 6,50 Euro, bitte.
+
+2. Entschuldigung, was kostet diese Hose?
+Die ist im Angebot, nur 25 Euro.
+Oh, schön, kann ich die mal probieren?
+Ja, gern.
+
+3. Entschuldigung, ich suche das Restaurant „Bella Italia“. Kennen Sie das?
+Bella Italia ... Ach, da gehen Sie einfach hier geradeaus und dann bei dem Hotel links. Da ist das Restaurant.
+Vielen Dank.
+
+4. Also, dann treffen wir uns in einer Stunde.
+Wie spät ist es denn jetzt?
+Viertel nach vier.
+Was? So spät schon? Okay, dann gehe ich jetzt. Bis später!
+Okay, tschüs.
+
+5. Was wünschen Sie, bitte?
+Ich nehme das Hähnchen, bitte.
+Mit Nudeln oder Kartoffeln?
+Gibt es auch Salat?
+Ja, natürlich.
+Dann bitte mit Salat.
+
+6. Welcher Bus fährt denn zum Marktplatz? Die Linie 12, oder?
+Nein, nein, die Linie 12 fährt zum Bahnhof. Warte mal, was steht denn hier auf dem Plan? Ah ja, wir müssen die Linie 20 nehmen.
+20? Dann komm, schnell!`,
+      },
+      {
+        id: 'bt-track-12',
+        title: 'Track 12',
+        audioSrc: '/track12.mp3',
+        text: `1. Entschuldigung, wo ist die Post?
+2. Entschuldigung, wo ist das Hotel Alpina?
+3. Entschuldigung, wo ist die Schule?
+4. Entschuldigung, wo ist das Restaurant?
+5. Entschuldigung, wo ist der Bahnhof?`,
+      },
+      {
+        id: 'bt-track-13',
+        title: 'Track 13',
+        audioSrc: '/track13.mp3',
+        text: `1. Entschuldigung, Wo ist die Post?
+Gehen Sie geradeaus und dann links. Da ist die Post.
+2. Entschuldigung, wo ist das Hotel Alpina?
+Gehen Sie links und dann geradeaus. Da ist das Hotel Alpina.
+3. Entschuldigung, wo ist die Schule?
+Gehen Sie rechts und dann links. Da ist die Schule.
+4. Entschuldigung, wo ist das Restaurant?
+Gehen Sie geradeaus und dann links. Da ist das Restaurant.
+5. Entschuldigung, wo ist der Bahnhof?
+Gehen Sie rechts und dann geradeaus. Da ist der Bahnhof.`,
+      },
+      {
+        id: 'bt-track-14',
+        title: 'Track 14',
+        audioSrc: '/track14.mp3',
+        text: `1. Heute im Angebot: Frische Tomaten – ein Kilo nur 2,30 Euro.
+2. Besonders günstig diese Woche: Ein Kilo Äpfel für 2,05 Euro.
+3. Trinken Sie auch gern am Morgen eine schöne Tasse Kaffee? Dann greifen Sie zu: die 500-Gramm-Packung Kaffee für nur 6,50 Euro.
+4. Nur diese Woche: 500 Gramm Zucker für nur 79 Cent.
+5. Dieser Preis ist toll: 100 Gramm Schinken heute für nur 1,99 Euro. Dieses Angebot gilt nur heute, liebe Kunden.`,
+      },
+      {
+        id: 'bt-track-15',
+        title: 'Track 15',
+        audioSrc: '/track15.mp3',
+        text: `1. Entschuldigung, was kostet die Milch?
+95 Cent.
+Und wie viel kostet der Apfelsaft?
+1,20 Euro.`,
+      },
+      {
+        id: 'bt-track-16',
+        title: 'Track 16',
+        audioSrc: '/track16.mp3',
+        text: `2. Guten Tag.
+Guten Tag.
+Was möchten Sie?
+Ich nehme 200 Gramm Schinken.`,
+      },
+      {
+        id: 'bt-track-17',
+        title: 'Track 17',
+        audioSrc: '/track17.mp3',
+        text: `3. Entschuldigung, wo finde ich Nudeln?
+Dort links.
+Danke.`,
+      },
+      {
+        id: 'bt-track-18',
+        title: 'Track 18',
+        audioSrc: '/track18.mp3',
+        text: `4. Bitte schön?
+Ich möchte ein Kilo Birnen, bitte.
+Noch etwas?
+Danke, das ist alles.`,
+      },
+      {
+        id: 'bt-track-19',
+        title: 'Track 19',
+        audioSrc: '/track19.mp3',
+        text: `5. Ich brauche Bananen. Was kostet ein Kilo?
+Drei Euro.
+Oh, das ist teuer.`,
+      },
+      {
+        id: 'bt-track-20',
+        title: 'Track 20',
+        audioSrc: '/track20.mp3',
+        text: `6. Ich möchte fünf Äpfel.
+Das macht 1 Euro 50.`,
+      },
+      {
+        id: 'bt-track-21',
+        title: 'Track 21',
+        audioSrc: '/track21.mp3',
+        text: `1. Was möchten Sie, bitte?
+2. Die Butter kostet 1,20 Euro.
+3. Zucker ist hier rechts.
+4. Noch etwas?
+5. Nein, Fisch haben wir nicht.`,
+      },
+      {
+        id: 'bt-track-22',
+        title: 'Track 22',
+        audioSrc: '/track22.mp3',
+        text: `1. Haben Sie auch Fleisch?
+2. Sind die Äpfel aus Italien?
+3. Haben Sie Oliven?
+4. Schmecken die Birnen gut?
+5. Ist das Brot noch warm?`,
+      },
+      {
+        id: 'bt-track-23',
+        title: 'Track 23',
+        audioSrc: '/track23.mp3',
+        text: `1. Guten Tag, was möchten Sie?
+Ich hätte gern 100 Gramm Schinken.
+Gern. Noch etwas?
+Ja, ich nehme auch 100 Gramm Salami.
+Ist das alles?
+Ja, danke, das ist alles.
+
+2. Guten Morgen. Was darf’s sein?
+Guten Morgen. Ich nehme 200 Gramm Käse.
+Gern. Noch etwas?
+Ja. Haben Sie Oliven?
+Ja, hier.
+Dann nehme ich noch 150 Gramm Oliven. Das ist alles.`,
+      },
+      {
+        id: 'bt-track-24',
+        title: 'Track 24',
+        audioSrc: '/track24.mp3',
+        text: `1. Wie viel kostet ein Kilo Äpfel?
+Es kostet 2 Euro 39.
+2. Wann schließt der Supermarkt?
+Er schließt um 19:30 Uhr.
+3. Wann ist der Markt?
+Markt ist immer am Donnerstag.
+4. Wo ist die Kasse?
+Die Kasse ist hier links.
+5. Was möchten Sie, bitte?
+Ich möchte vier Brötchen.`,
+      },
+      {
+        id: 'bt-track-25',
+        title: 'Track 25',
+        audioSrc: '/track25.mp3',
+        text: `Beispiel
+Achtung an Gleis vier: Auf Gleis vier fährt ein: IntercityExpress 433 nach Hamburg Hauptbahnhof. Planmäßige Abfahrt 16:54 Uhr. Bitte Vorsicht bei der Einfahrt.
+
+1. Liebe Fahrgäste. Bitte beachten Sie: Unser Zug-Restaurant schließt heute bereits um 17 Uhr. Warme und kalte Getränke bekommen Sie aber auch später noch an unserem Automaten in der Zugmitte.
+
+2. Verehrte Fahrgäste, wegen des starken Windes kommt der ICE aus Stuttgart mit Weiterfahrt nach München circa 15 Minuten später als geplant.
+
+3. Liebe Kunden, die Geschäfte im Bahnhof bieten Ihnen heute eine Sonderaktion. Kaufen Sie alle Produkte mit 10% Rabatt. Nur heute, greifen Sie zu!
+
+4. Achtung – eine Durchsage: Frau Müller, bitte kommen Sie zur Information. Ihre Tochter wartet hier auf Sie. Frau Müller bitte zur Information.`,
+      },
+      {
+        id: 'bt-track-26',
+        title: 'Track 26',
+        audioSrc: '/track26.mp3',
+        text: `1. Morgen fahre ich mit dem Zug nach Köln. Der Zug fährt um 18:21 Uhr ab und kommt um 20:09 Uhr in Köln an. Am Bahnhof nehme ich dann den Bus und fahre zu meiner Freundin.`,
+      },
+      {
+        id: 'bt-track-27',
+        title: 'Track 27',
+        audioSrc: '/track27.mp3',
+        text: `2. Ich fahre am Sonntag nach Regensburg. Kommst du mit? Die Fahrkarte kostet nur 28 Euro für zwei Personen.`,
+      },
+      {
+        id: 'bt-track-28',
+        title: 'Track 28',
+        audioSrc: '/track28.mp3',
+        text: `3. Kannst du mich zum Bahnhof fahren? Mein Fahrrad ist kaputt und in einer halben Stunde fährt mein Zug.`,
+      },
+      {
+        id: 'bt-track-29',
+        title: 'Track 29',
+        audioSrc: '/track29.mp3',
+        text: `4. Hast du die Durchsage gehört? Unser Zug kommt fünfzehn Minuten später. Dann können wir ja noch schnell ein Wasser und eine Cola kaufen.`,
+      },
+      {
+        id: 'bt-track-30',
+        title: 'Track 30',
+        audioSrc: '/track30.mp3',
+        text: `5. Wo treffen wir uns morgen? Unser Zug fährt von Gleis 4. Wollen wir uns direkt dort treffen? Oder bei der Uhr am Eingang?`,
+      },
+      {
+        id: 'bt-track-31',
+        title: 'Track 31',
+        audioSrc: '/track31.mp3',
+        text: `Wir müssen noch die Fahrkarten kaufen. Wo ist hier ein Automat? Ach komm, wir gehen schnell zum Schalter. Da stehen nicht viele Leute.`,
+      },
+      {
+        id: 'bt-track-32',
+        title: 'Track 32',
+        audioSrc: '/track32.mp3',
+        text: `Mit dem Zug brauchen wir fast fünf Stunden nach Hamburg. Das ist wirklich lang. Wir müssen jetzt noch Brötchen und Getränke kaufen.`,
+      },
+      {
+        id: 'bt-track-33',
+        title: 'Track 33',
+        audioSrc: '/track33.mp3',
+        text: `1. Der Zug fährt um 12:04 Uhr ab.
+2. Der Zug kommt um 14:09 Uhr an.
+3. Die Fahrkarte kostet 45 Euro.
+4. Der Zug fährt auf Gleis 5.
+5. Der Zug ist pünktlich.`,
+      },
+      {
+        id: 'bt-track-34',
+        title: 'Track 34',
+        audioSrc: '/track34.mp3',
+        text: `1. Wann fährt der nächste Zug nach Stuttgart?
+Der nächste Zug fährt um 13:45 Uhr.
+2. Wie viel kostet eine Fahrkarte nach Stuttgart?
+57 Euro.
+3. Auf welchem Gleis fährt der Zug?
+Auf Gleis 13.
+4. Wann kommt der Zug in Stuttgart an?
+Um 15:57 Uhr.`,
+      },
+      {
+        id: 'bt-track-35',
+        title: 'Track 35',
+        audioSrc: '/track35.mp3',
+        text: `Guten Tag. Eine Fahrkarte nach Berlin, bitte.
+Hin und zurück?
+Nur hin, bitte. Wie viel kostet das?
+61 Euro, bitte. Der nächste Zug nach Berlin fährt in 10 Minuten, um 13:51 Uhr.
+Und wann kommt der Zug in Berlin an?
+Um 17:10 Uhr.
+Super, vielen Dank.`,
+      },
+      {
+        id: 'bt-track-36',
+        title: 'Track 36',
+        audioSrc: '/track36.mp3',
+        text: `1. Guten Tag. Was möchten Sie trinken?
+Ich nehme eine Cola, bitte.
+Und Sie?
+Ich möchte einen Tomatensaft.
+Tut mir leid. Wir haben keinen Tomatensaft.
+Okay, dann möchte ich einen Orangensaft.
+Gut, kommt sofort.`,
+      },
+      {
+        id: 'bt-track-37',
+        title: 'Track 37',
+        audioSrc: '/track37.mp3',
+        text: `2. Guten Abend. Was darf ich Ihnen bringen?
+Guten Abend. Ich hätte gern die Pizza Salami.
+Gern. Und zum Trinken?
+Ein Wasser, bitte.
+Und Sie?
+Für mich bitte den Reis mit Gemüse und eine Limonade.
+Vielen Dank.`,
+      },
+      {
+        id: 'bt-track-38',
+        title: 'Track 38',
+        audioSrc: '/track38.mp3',
+        text: `3. Guten Tag. Was möchten Sie, bitte?
+Hallo. Was können Sie mir empfehlen?
+Wir haben einen ganz frischen Apfelkuchen. Und der Schokoladenkuchen ist auch sehr gut.
+Dann nehme ich den Schokoladenkuchen. Mit Sahne, bitte.
+Möchten Sie auch etwas trinken?
+Ja, einen Kaffee.`,
+      },
+      {
+        id: 'bt-track-39',
+        title: 'Track 39',
+        audioSrc: '/track39.mp3',
+        text: `1. Guten Tag. Was möchten Sie trinken?
+Ich nehme eine Cola, bitte.
+Und Sie?
+Ich möchte einen Tomatensaft.
+Tut mir leid. Wir haben keinen Tomatensaft.
+Okay, dann möchte ich einen Orangensaft.
+Gut, kommt sofort.`,
+      },
+      {
+        id: 'bt-track-40',
+        title: 'Track 40',
+        audioSrc: '/track40.mp3',
+        text: `2. Guten Abend. Was darf ich Ihnen bringen?
+Guten Abend. Ich hätte gern die Pizza Salami.
+Gern. Und zum Trinken?
+Ein Wasser, bitte.
+Und Sie?
+Für mich bitte den Reis mit Gemüse und eine Limonade.
+Vielen Dank.`,
+      },
+      {
+        id: 'bt-track-41',
+        title: 'Track 41',
+        audioSrc: '/track41.mp3',
+        text: `3. Guten Tag. Was möchten Sie, bitte?
+Hallo. Was können Sie mir empfehlen?
+Wir haben einen ganz frischen Apfelkuchen. Und der Schokoladenkuchen ist auch sehr gut.
+Dann nehme ich den Schokoladenkuchen. Mit Sahne, bitte.
+Möchten Sie auch etwas trinken?
+Ja, einen Kaffee.`,
+      },
+      {
+        id: 'bt-track-42',
+        title: 'Track 42',
+        audioSrc: '/track42.mp3',
+        text: `1. Ich hätte gern eine Cola und ich nehme den Apfelkuchen.
+2. Ich möchte einen Orangensaft und ich hätte auch gern das Eis, aber ohne Sahne.
+3. Ich nehme das Hähnchen mit Pommes frites und ich möchte auch ein Wasser.`,
+      },
     ],
   },
 ];
