@@ -5882,6 +5882,383 @@ Ja, natürlich ...`,
 1959 Euro
 2251 Euro`,
       },
+      {
+        id: 'bt-track-66',
+        title: 'Track 66',
+        audioSrc: '/track66.mp3',
+        text: `298
+335
+569
+801
+1062
+1476
+1713
+1888`,
+      },
+      {
+        id: 'bt-track-67',
+        title: 'Track 67',
+        audioSrc: '/track67.mp3',
+        text: `Die Wohnung hat vier Zimmer, Küche und Bad.
+Diese Wohnung hat eine Küche, ein Wohnzimmer und einen Balkon.
+Meine Wohnung hat zwei Zimmer, einen Garten und eine Garage.
+Paulas Wohnung hat drei Zimmer, einen Balkon und einen Garten.`,
+      },
+      {
+        id: 'bt-track-68',
+        title: 'Track 68',
+        audioSrc: '/track68.mp3',
+        text: `Guten Morgen, Frau Kittferner.
+Guten Morgen, Herr Arsenovic. Der Drucker ist immer noch kaputt. Haben Sie schon mit Herrn Fritschke gesprochen?
+Nein, er war gestern Nachmittag nicht im Büro.
+Dann rufen Sie ihn gleich an, bitte. Ach, und dieses Paket hier, das gehört nicht uns. Bringen Sie es bitte zum Marketing in den 4. Stock.
+Ja, mache ich gleich. Und dann schreibe ich eine E-Mail an alle Kollegen. Nächste Woche ist ja unser Sommerfest.
+Richtig. Ja, schreiben Sie eine Einladung mit allen wichtigen Informationen. Und bestellen Sie auch gleich alles für das Fest. Wir müssen ja etwas essen und trinken, also Würstchen, Brötchen, Wasser, Cola und so weiter.
+Gut, ich schreibe gleich eine Liste.
+Ach, und heute Mittag kommen die Kollegen aus Frankfurt. Reservieren Sie bitte einen Tisch im Restaurant. Um 13 Uhr für 6 Personen.
+Im Restaurant “Zur Sonne”?
+Ja, genau. Und ich habe heute einen Termin mit Frau Hoffmann um 14 Uhr. Können Sie bitte mit ihr telefonieren und ihr sagen, dass ich erst um 15 Uhr komme?
+Ja, mache ich.
+Und dieses Formular hier müssen Sie noch ausfüllen und dann Frau Greiner faxen, bitte.
+Kein Problem. Mache ich dann später.
+Gut, dann vielen Dank.
+Puh, das ist ja ganz schön viel. Also, dann fange ich mal an ...`,
+      },
+      {
+        id: 'bt-track-69',
+        title: 'Track 69',
+        audioSrc: '/track69.mp3',
+        text: `1. Kann ich einen Kaffee haben?
+Ja, natürlich. Ich koche jetzt Kaffee.
+
+2. Können Sie mir einen Bleistift geben?
+Ich habe keinen Bleistift.
+
+3. Wie spät ist es, bitte?
+Es ist 16 Uhr.
+
+4. Können Sie die Musik ausmachen, bitte?
+Oh, Entschuldigung.
+
+5. Bitte hier nicht telefonieren.
+Okay, kein Problem.
+
+6. Haben Sie ein Papier für mich?
+Ja. Hier bitte.`,
+      },
+      {
+        id: 'bt-track-70',
+        title: 'Track 70',
+        audioSrc: '/track70.mp3',
+        text: `Firma Klopp, Kai Schmidt, guten Tag. Was kann ich für Sie tun?
+Frau Paulsen ist nicht da. Aber Sie können mit Herrn Rossi sprechen.
+Gerne. Auf Wiederhören.`,
+      },
+      {
+        id: 'bt-track-71',
+        title: 'Track 71',
+        audioSrc: '/track71.mp3',
+        text: `1. Guten Tag, ich brauche ein Zimmer, bitte.
+Ein Einzelzimmer oder ein Doppelzimmer?
+Ein Einzelzimmer, bitte.
+Gern. Wann möchten Sie kommen?
+Vom 4. Mai bis zum 6. Mai.`,
+      },
+      {
+        id: 'bt-track-72',
+        title: 'Track 72',
+        audioSrc: '/track72.mp3',
+        text: `2. Hallo, ich möchte ein Doppelzimmer reservieren.
+Gern. Mit Frühstück oder mit Halbpension?
+Nur mit Frühstück, bitte. Wie viel kostet das Zimmer für eine Nacht?
+80 Euro.`,
+      },
+      {
+        id: 'bt-track-73',
+        title: 'Track 73',
+        audioSrc: '/track73.mp3',
+        text: `3. Guten Tag. Ich komme am 10. April nach Hamburg und brauche ein Zimmer.
+Kein Problem. Wie lange möchten Sie bleiben?
+Eine Woche.`,
+      },
+      {
+        id: 'bt-track-74',
+        title: 'Track 74',
+        audioSrc: '/track74.mp3',
+        text: `Guten Tag. Wie kann ich Ihnen helfen?
+Ein Einzelzimmer oder ein Doppelzimmer?
+Mit Frühstück?
+84 Euro. Wie lange möchten Sie bleiben?
+In Ordnung. Hier sind Ihre Schlüssel.`,
+      },
+      {
+        id: 'bt-track-75',
+        title: 'Track 75',
+        audioSrc: '/track75.mp3',
+        text: `1. Und wie ist der Urlaub?
+Das Hotel ist sehr schön, aber das Wetter leider nicht. Es regnet sehr viel.
+Oh nein. Vielleicht ist es ja nächste Woche besser.
+Ja, vielleicht.`,
+      },
+      {
+        id: 'bt-track-76',
+        title: 'Track 76',
+        audioSrc: '/track76.mp3',
+        text: `2. Gefällt es euch denn in Hamburg?
+Ja, sehr. Und es ist sehr warm. Die Sonne scheint und wir gehen viel spazieren oder sitzen im Café.
+Dann habt ihr ja eine gute Zeit dort.`,
+      },
+      {
+        id: 'bt-track-77',
+        title: 'Track 77',
+        audioSrc: '/track77.mp3',
+        text: `3. Und wie ist das Wetter?
+Na ja, es ist kalt und wir haben sehr viel Wind. Wir bleiben fast nur im Hotel.
+Dann kannst du ja viel lesen.
+Ja, ich habe zehn Bücher mitgenommen.`,
+      },
+      {
+        id: 'bt-track-78',
+        title: 'Track 78',
+        audioSrc: '/track78.mp3',
+        text: `1. Ina, wann bist du geboren?
+Am 12.03.1974.
+
+2. Und wann ist Jakob geboren?
+Am 19.04.2003.
+
+3. Hey Tamara, wann bist du geboren?
+Am 31.01.1999.
+
+4. Finn, wann bist du eigentlich geboren?
+Am 09.06.1989.
+
+5. Und wann ist Valentina geboren?
+Am 13.08.1978.
+
+6. Du Jimmy, wann bist du denn geboren?
+Am 02.02.2002.
+Oh, cooles Datum.`,
+      },
+      {
+        id: 'bt-track-79',
+        title: 'Track 79',
+        audioSrc: '/track79.mp3',
+        text: `Am 16.01.1989.
+Am 30.05.1976.
+Am 04.11.1997.
+Am 28.12.2001.
+Am 03.06.1969.
+Am 19.02.1988.
+Am 11.08.1980.
+Am 30.07.1972.`,
+      },
+      {
+        id: 'bt-track-80',
+        title: 'Track 80',
+        audioSrc: '/track80.mp3',
+        text: `Hallo Paul, hier ist Tina.
+Hallo Tina, wie geht’s?
+Gut, danke. Du, ich habe am 17. Juli Geburtstag. Das ist ein Samstag und ich mache eine Party. Kommst du?
+Oh, toll. Danke für die Einladung. Ich komme gerne. Um wie viel Uhr denn?
+Um 18 Uhr. Ich feiere im Garten. Wir grillen.
+Kann ich vielleicht etwas mitbringen?
+Ja, klar. Bring doch einen Salat mit. Fleisch und Würstchen kaufe ich.
+Gerne. Dann sehen wir uns am 17. Juli. Ich freue mich!
+Ich mich auch. Bis dann, tschüs.
+Tschüs, Tina.`,
+      },
+      {
+        id: 'bt-track-81',
+        title: 'Track 81',
+        audioSrc: '/track81.mp3',
+        text: `1. Hallo Tina. Herzlichen Glückwunsch!
+Danke!
+Ich habe auch ein Geschenk für dich. Hier, bitte.
+Oh, vielen Dank!`,
+      },
+      {
+        id: 'bt-track-82',
+        title: 'Track 82',
+        audioSrc: '/track82.mp3',
+        text: `2. Hallo Paul, wie geht’s?
+Hallo! Danke, gut. Und dir?
+Auch gut.`,
+      },
+      {
+        id: 'bt-track-83',
+        title: 'Track 83',
+        audioSrc: '/track83.mp3',
+        text: `3. Möchtest du etwas trinken?
+Gerne. Ich möchte eine Cola.
+Nimmst du auch ein Stück Kuchen?
+Ja, vielen Dank.`,
+      },
+      {
+        id: 'bt-track-84',
+        title: 'Track 84',
+        audioSrc: '/track84.mp3',
+        text: `4. Der Salat ist sehr lecker.
+Das finde ich auch.
+Möchtest du auch noch etwas?
+Nein, danke. Ich habe keinen Hunger mehr.`,
+      },
+      {
+        id: 'bt-track-85',
+        title: 'Track 85',
+        audioSrc: '/track85.mp3',
+        text: `1. Herzlichen Glückwunsch zum Geburtstag!
+2. Kann ich eine Freundin mitbringen?
+3. Möchtest du etwas trinken?`,
+      },
+      {
+        id: 'bt-track-86',
+        title: 'Track 86',
+        audioSrc: '/track86.mp3',
+        text: `4. Kommst du auch zu der Party von Tina?
+5. Ist dieses Geschenk von dir?
+6. Kannst du mir mal helfen?
+7. Möchtest du ein Stück Kuchen?`,
+      },
+      {
+        id: 'bt-track-87',
+        title: 'Track 87',
+        audioSrc: '/track87.mp3',
+        text: `Wie war die Party bei Tina?
+Und wie war das Essen?
+War das Wetter auch gut?
+Wie war die Musik?`,
+      },
+      {
+        id: 'bt-track-88',
+        title: 'Track 88',
+        audioSrc: '/track88.mp3',
+        text: `Herzlichen Glückwunsch!
+Frohe Ostern!
+Frohe Weihnachten!
+Guten Rutsch!
+Ein schönes neues Jahr!`,
+      },
+      {
+        id: 'bt-track-89',
+        title: 'Track 89',
+        audioSrc: '/track89.mp3',
+        text: `Hallo, wir machen eine Umfrage zum Thema Sport. Darf ich euch ein paar Fragen stellen?
+Ja, klar. / Ja, kein Problem.
+Wie alt seid ihr denn?
+Also, ich bin 21.
+Und ich bin 23.
+Macht ihr Sport?
+Ja, ich gehe joggen.
+Aha. Und wie oft?
+Zweimal oder dreimal pro Woche.
+Und wann gehst du joggen? Morgens?
+Nein, normalerweise am Nachmittag, wenn ich von der Uni komme.
+Und mit wem? Läufst du zusammen mit Freunden?
+Ich laufe immer allein. Das finde ich besser.
+Und du? Was machst du?
+Ich gehe regelmäßig ins Fitnessstudio.
+Wie oft gehst du dahin?
+Dreimal in der Woche. Und immer am Abend.
+Trainierst du allein?
+Nein, ich treffe mich dort immer mit zwei Freunden. Dann macht das Training mehr Spaß.
+Super, vielen Dank.
+Gern. / Tschüs.`,
+      },
+      {
+        id: 'bt-track-90',
+        title: 'Track 90',
+        audioSrc: '/track90.mp3',
+        text: `Fitnessstudio im Zentrum, Christian Schweiger, guten Morgen.
+Guten Morgen, mein Name ist Lena Müller. Ich habe eine Frage.
+Ja, bitte wie kann ich Ihnen helfen?
+Gibt es bei Ihnen auch Tanzkurse?
+Ja, wir haben verschiedene Tanzkurse. Was für einen Kurs möchten Sie machen?
+Einen Hip-Hop-Kurs.
+Der Hip-Hop-Kurs ist immer am Mittwoch.
+Und um wie viel Uhr?
+Um 18 Uhr.
+Und wie viel kostet der Kurs?
+Im Monat 20 Euro.
+Ah, das klingt gut. Kann ich am Mittwoch kommen und einfach mitmachen?
+Ja. Kommen Sie am Mittwoch und machen Sie mit. Das erste Mal kostet nichts.
+Ach, das ist ja toll. Muss ich etwas mitbringen?
+Nur die normale Sportkleidung, Sportschuhe und ein Handtuch.
+Alles klar, vielen Dank. Dann bis Mittwoch.
+Ja, gerne. Bis Mittwoch. Tschüs.`,
+      },
+      {
+        id: 'bt-track-91',
+        title: 'Track 91',
+        audioSrc: '/track91.mp3',
+        text: `Fitnessstudio im Zentrum, Christian Schweiger, guten Morgen.
+Ja, bitte wie kann ich Ihnen helfen?
+Ja, wir haben verschiedene Tanzkurse. Was für einen Kurs möchten Sie machen?
+Der Hip-Hop-Kurs ist immer am Mittwoch.
+Um 18 Uhr. Im Monat 20 Euro.
+Ja. Kommen Sie am Mittwoch und machen Sie mit. Das erste Mal kostet nichts.
+Nur die normale Sportkleidung, Sportschuhe und ein Handtuch.
+Ja, gerne. Bis Mittwoch. Tschüs.`,
+      },
+      {
+        id: 'bt-track-92',
+        title: 'Track 92',
+        audioSrc: '/track92.mp3',
+        text: `Hallo Caro, hier ist Lena.
+Hi Lena, wie geht’s?
+Gut. Und dir?
+Auch gut.
+Du, ich muss echt mehr Sport machen und fit werden.
+Und am Wochenende gehe ich in ein neues Fitnessstudio direkt am Bahnhof. Kommst du mit?
+Hmm, am Wochenende? Warte mal, ich schaue mal in meinen Kalender.
+Hast du am Samstagvormittag Zeit?
+Nein, um 9:30 Uhr treffe ich Mila zum Frühstück. Geht bei dir 13 Uhr?
+Nein, leider nicht, da esse ich mit meinen Eltern zu Mittag. Und am Samstagnachmittag?
+Also, um 15 Uhr spiele ich Tennis mit Ben. Und danach bin ich wahrscheinlich zu müde, glaube ich. Oder hast du dann noch Zeit?
+Ich gehe um 19 Uhr mit Phillip ins Kino. Das ist dann nicht genug Zeit. Wie sieht es am Sonntag aus?
+Am Sonntag? Ich gehe am Vormittag mit meiner Mutter ins Museum. Wir treffen uns um 10 Uhr.
+Am Vormittag habe ich auch keine Zeit. Da besuche ich meine Oma. Ich muss um 11 Uhr bei ihr sein. Und dann muss ich um 15 Uhr zu Claudia. Sie hat Geburtstag und macht ein kleines Fest im Garten. Was machst du am Nachmittag?
+Ich treffe Max um 14 Uhr im Park. Wir wollen ein Picknick machen. Aber am Abend habe ich Zeit. Das Fitnessstudio hat doch lange auf, oder?
+Ja, bis 22 Uhr. Dann treffen wir uns um 18 Uhr. Passt das?
+18 Uhr im Fitnessstudio? Ja, das geht. Super! Schickst du mir noch schnell die Adresse?
+Ja, mache ich. Also, bis Sonntag! Ich freue mich! Ciao!
+Tschüs, Lena.`,
+      },
+      {
+        id: 'bt-track-93',
+        title: 'Track 93',
+        audioSrc: '/track93.mp3',
+        text: `Machst du keinen Sport?
+Hast du am Samstag keine Zeit?
+Willst du nicht ins Fitnessstudio gehen?
+Spielst du nicht gern Volleyball?
+Tanzt du nicht gern?
+Gehst du nicht mit ins Schwimmbad?`,
+      },
+      {
+        id: 'bt-track-94',
+        title: 'Track 94',
+        audioSrc: '/track94.mp3',
+        text: `1. Entschuldigung. Ich suche Sportschuhe. Wo finde ich die?
+Im dritten Stock.
+Danke.`,
+      },
+      {
+        id: 'bt-track-95',
+        title: 'Track 95',
+        audioSrc: '/track95.mp3',
+        text: `2. Kann ich Ihnen helfen?
+Ja, ich suche eine Winterjacke.
+Welche Größe haben Sie?
+Größe 42.`,
+      },
+      {
+        id: 'bt-track-96',
+        title: 'Track 96',
+        audioSrc: '/track96.mp3',
+        text: `3. Wie gefällt Ihnen diese Jacke?
+Die Farbe gefällt mir nicht so gut.`,
+      },
     ],
   },
 ];
