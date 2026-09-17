@@ -234,33 +234,33 @@ acht[undsechzig]tausend`,
         id: 'k3-1.21',
         title: '1.21',
         audioSrc: '/1.21.mp3',
-        text: `Wir fahren jetzt durch den Hafen von Hamburg. 12.000 Schiffe kommen pro Jahr nach Hamburg. Die Schiffe fahren in 900 Städte, in 175 Länder. Der Hafen ist über 72 Quadratkilometer groß.`,
+        text: `Wir [fahren] jetzt durch den Hafen von Hamburg. 12.000 Schiffe [kommen] pro Jahr nach Hamburg. Die Schiffe [fahren] in 900 Städte, in 175 Länder. Der Hafen ist über 72 Quadratkilometer groß.`,
       },
       {
         id: 'k3-1.22',
         title: '1.22',
         audioSrc: '/1.22.mp3',
-        text: `Auf Gleis drei bitte zurückbleiben. Der Zug fährt ab.
-720 Züge fahren pro Tag von Hamburg in andere Städte: in acht Stunden nach Warschau, in sechs Stunden nach München, in fünf Stunden nach Kopenhagen, in zwei Stunden nach Berlin. 450.000 Personen benutzen den Bahnhof täglich.`,
+        text: `Auf Gleis drei bitte [zurückbleiben]. Der [Zug] fährt ab.
+720 Züge fahren pro Tag von Hamburg in andere Städte: in [acht] [Stunden] nach Warschau, in sechs [Stunden] nach München, in fünf [Stunden] nach Kopenhagen, in zwei [Stunden] nach Berlin. 450.000 Personen benutzen den Bahnhof täglich.`,
       },
       {
         id: 'k3-1.23',
         title: '1.23',
         audioSrc: '/1.23.mp3',
-        text: `Willkommen im Rathaus von Hamburg. Das Rathaus ist über 120 Jahre alt. Das Rathaus ist 111 Meter breit, der Turm ist 112 Meter hoch. Im Rathaus gibt es 647 Räume.`,
+        text: `[Willkommen] im Rathaus von Hamburg. Das [Rat]haus ist über 120 Jahre alt. Das [Rat]haus ist 111 Meter breit, der Turm ist 112 Meter hoch. Im [Rat]haus [gibt es] 647 Räume.`,
       },
       {
         id: 'k3-1.24',
         title: '1.24',
         audioSrc: '/1.24.mp3',
-        text: `Die Kirche Sankt Michaelis ist das Symbol von Hamburg. In Hamburg sagt man kurz “der Michel”. Hier ist Platz für 2.500 Menschen. Der Turm ist 132 m hoch. In 82 Metern Höhe ist eine Plattform.`,
+        text: `Die Kirche [Sankt] Michaelis [ist] [das Symbol] von Hamburg. In Hamburg [sagt] man kurz “der Michel”. Hier [ist] Platz für 2.500 Menschen. Der Turm ist 132 m hoch. In 82 Metern Höhe ist eine Plattform.`,
       },
       {
         id: 'k3-1.25',
         title: '1.25',
         audioSrc: '/1.25.mp3',
-        text: `Das Konzert beginnt in 5 Minuten.
-Das ist der neue Star von Hamburg, die Elbphilharmonie. Ein paar Zahlen: 4,5 Millionen Besucher und 600 Konzerte im Jahr 2017. Wir fahren jetzt hinauf zur Plaza.`,
+        text: `Das [Konzert] beginnt in 5 [Minuten].
+Das [ist] der neue Star von Hamburg, die Elbphilharmonie. Ein paar [Zahlen]: 4,5 [Millionen] Besucher und 600 Konzerte im Jahr 2017. Wir [fahren] jetzt hinauf zur Plaza.`,
       },
       {
         id: 'k3-1.26',
