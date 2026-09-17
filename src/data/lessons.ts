@@ -241,13 +241,13 @@ acht[undsechzig]tausend`,
         title: '1.22',
         audioSrc: '/1.22.mp3',
         text: `Auf Gleis drei bitte [zurückbleiben]. Der [Zug] fährt ab.
-720 Züge fahren pro Tag von Hamburg in andere Städte: in [acht] [Stunden] nach Warschau, in sechs [Stunden] nach München, in fünf [Stunden] nach Kopenhagen, in zwei [Stunden] nach Berlin. 450.000 Personen benutzen den Bahnhof täglich.`,
+[7]20 Züge fahren pro Tag von Hamburg in andere Städte: in [acht] [Stunden] nach Warschau, in sechs [Stunden] nach München, in fünf [Stunden] nach Kopenhagen, in zwei [Stunden] nach Berlin. 450.000 Personen benutzen den Bahnhof täglich.`,
       },
       {
         id: 'k3-1.23',
         title: '1.23',
         audioSrc: '/1.23.mp3',
-        text: `[Willkommen] im Rathaus von Hamburg. Das [Rat]haus ist über 120 Jahre alt. Das [Rat]haus ist 111 Meter breit, der Turm ist 112 Meter hoch. Im [Rat]haus [gibt es] 647 Räume.`,
+        text: `[Willkommen] im [Rat]haus von Hamburg. Das [Rat]haus ist über 120 Jahre alt. Das [Rat]haus ist 111 Meter breit, der Turm ist 112 Meter hoch. Im [Rat]haus [gibt es] 647 Räume.`,
       },
       {
         id: 'k3-1.24',
