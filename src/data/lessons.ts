@@ -266,26 +266,26 @@ Das [ist] der neue Star von Hamburg, die Elbphilharmonie. Ein paar [Zahlen]: 4,5
         id: 'k3-1.26',
         title: '1.26',
         audioSrc: '/1.26.mp3',
-        text: `Guten Tag. Zum Hotel “Michel” bitte.
+        text: `[Guten] Tag. Zum Hotel “Michel” bitte.
 Moin. Hotel “Michel”, okay. Kennen Sie Hamburg?
 Nein.
-Na, das ist der Bahnhof.
+Na, das [ist der] Bahnhof.
 Ah ja.
-Und das hier rechts ist die Kunsthalle. Das ist ein Museum.
-Interessant. Und wie heißt der See?
-See? Das ist kein See, das ist ein Fluss. Der Fluss heißt Alster.
-Ach so. Und was ist das? Ist das eine Kirche?
-Nein, das ist das Rathaus.
+Und das hier rechts [ist die] Kunsthalle. Das ist ein Museum.
+Interessant. Und wie [heißt der] See?
+See? Das [ist kein] See, das ist ein Fluss. Der Fluss heißt Alster.
+Ach so. Und was [ist das]? [Ist das] eine Kirche?
+Nein, das [ist das] [Rat]haus.
 Ah ja.
-Hier ist eine Kirche. Das ist die Michaeliskirche. Wir sagen „der Michel“.
+Hier ist eine Kirche. Das [ist die] Michaeliskirche. Wir [sagen] „der Michel“.
 Ah, sehr schön.
-Und da ist auch schon das Hotel. Das macht dann 13 Euro 70, bitte.`,
+Und da ist auch schon das Hotel. Das [macht dann] 13 Euro 70, bitte.`,
       },
       {
         id: 'k3-1.27',
         title: '1.27',
         audioSrc: '/1.27.mp3',
-        text: `Gut gesagt: grüßen
+        text: `[Gut gesagt]: grüßen
 Moin!
 Grüß Gott!
 Grüezi!`,
@@ -324,11 +324,11 @@ Fluss – gut – Turm – Zug – Stunde – Buch – Fußball`,
         id: 'k3-1.30',
         title: '1.30',
         audioSrc: '/1.30.mp3',
-        text: `Entschuldigung, wo ist das Theater?
+        text: `Entschuldigung, wo [ist das] Theater?
 Sie suchen das Thalia-Theater?
 Ja.
-Das ist ganz einfach. Gehen Sie links. Sie kommen zu einer Straße. Sie heißt Alstertor. Da gehen Sie links und immer geradeaus. Da kommen Sie direkt zum Theater.
-Also links bis Alstertor, dort links und dann immer geradeaus.
+Das ist ganz einfach. Gehen Sie links. Sie [kommen] zu einer Straße. Sie heißt Alstertor. Da gehen Sie links und immer geradeaus. Da [kommen] Sie [direkt zum] Theater.
+Also [links bis] Alstertor, [dort links] [und dann] immer geradeaus.
 Ja, genau.
 Vielen Dank.
 Bitte, gern.`,
@@ -337,9 +337,9 @@ Bitte, gern.`,
         id: 'k3-1.31',
         title: '1.31',
         audioSrc: '/1.31.mp3',
-        text: `Entschuldigung! Wo ist bitte die U-Bahn?
-Das ist ganz einfach. Gehen Sie rechts, da ist die Heine-Straße. Gehen Sie rechts und dann gleich links. Da ist die U-Bahn.
-Also rechts bis Heine-Straße und wieder rechts. Und dann links.
+        text: `Entschuldigung! Wo [ist bitte] die U-Bahn?
+Das [ist ganz] einfach. Gehen Sie rechts, da [ist die] Heine-Straße. Gehen Sie rechts [und dann] gleich links. Da [ist die] U-Bahn.
+Also [rechts bis] Heine-Straße und wieder rechts. [Und dann] links.
 Ja.
 Danke.
 Bitte, gern.`,
@@ -348,10 +348,10 @@ Bitte, gern.`,
         id: 'k3-1.32',
         title: '1.32',
         audioSrc: '/1.32.mp3',
-        text: `Entschuldigung! Wo ist das Hotel Linde?
-Gehen Sie immer geradeaus. Da ist die Marktstraße. Gehen Sie rechts, da ist das Hotel Linde.
-Ist das weit?
-Nein, fünf Minuten.
+        text: `Entschuldigung! Wo [ist das] Hotel Linde?
+Gehen Sie immer geradeaus. Da [ist die] [Markt]straße. Gehen Sie rechts, da [ist das] Hotel Linde.
+[Ist das] weit?
+Nein, fünf [Minuten].
 Vielen Dank.
 Bitte, gern.`,
       },
@@ -365,8 +365,8 @@ Bitte, gern.`,
         id: 'k3-1.34',
         title: '1.34',
         audioSrc: '/1.34.mp3',
-        text: `Hallo, hier ist Radio Alsterpiraten. Unser Thema heute ist Jahreszeiten und Hobbys. Was machen Sie gern in welcher Jahreszeit? Rufen Sie an: Die Nummer ist 0800 / 334455. Da ist schon der erste Anrufer. Hallo!
-Also, ich schwimme im Sommer sehr oft. Ich wohne direkt an der Alster und ich schwimme jeden Tag nach der Arbeit, am Abend. Und am Wochenende auch …`,
+        text: `Hallo, hier [ist Radio] [Alsterpiraten]. Unser Thema heute [ist Jahreszeiten] und Hobbys. Was machen Sie gern in welcher Jahreszeit? Rufen Sie an: Die Nummer ist 0800 / 334455. Da [ist schon] der erste Anrufer. Hallo!
+Also, ich schwimme im Sommer sehr oft. Ich wohne direkt an der Alster und ich schwimme [jeden] Tag [nach der] Arbeit, am [Abend]. Und am Wochenende auch …`,
       },
       {
         id: 'k3-1.35',
