@@ -6432,5 +6432,124 @@ Wie geht es Ihnen?`,
       },
     ],
   },
+  {
+    id: 'de-thi-a1-1',
+    title: 'Đề số 1',
+    level: 'Đề thi',
+    category: 'Đề thi A1',
+    lessons: [
+      {
+        id: 'de-thi-a1-1-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/a1_de1_teil1_beispiel.mp3',
+        altAudioSrc: '/a1_de1_teil1.mp3',
+        text: `Kursteilnehmer: Entschuldigung, ich suche das Lehrerzimmer, ich muss da etwas abgeben.
+Lehrerin: Das Lehrerzimmer? Da sind Sie hier im Erdgeschoss ganz falsch. Das ist im zweiten Stock, nach der Treppe das 1. Zimmer rechts.
+Kursteilnehmer: Zweiter Stock, das 1. Zimmer rechts – danke schön!
+Lehrerin: Bitte, gerne!`,
+      },
+      {
+        id: 'de-thi-a1-1-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 1',
+        audioSrc: '/a1_de1_teil1_1.mp3',
+        text: `Verkäuferin: Guten Tag, was darf’s denn bei Ihnen sein?
+Kunde: Hallo, ich hätte gern etwas Obst. Was können Sie mir denn heute empfehlen?
+Verkäuferin: Ja, es ist natürlich alles wie immer sehr lecker und frisch. Aber besonders günstig sind heute die Bananen, das ist ein super Preis, nur 1,49 Euro das Kilo.
+Kunde: Gut, dann nehme ich ein Kilo Bananen. Und dann noch ein Pfund Birnen und drei Äpfel.
+Verkäuferin: Ja, gerne.`,
+      },
+      {
+        id: 'de-thi-a1-1-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 2',
+        audioSrc: '/a1_de1_teil1_2.mp3',
+        text: `Mann: Hallo, Rosa, hast du morgen Abend Zeit?
+Frau: Tag, Antonio. Ja, ich glaube schon. Wieso?
+Mann: Sollen wir ins Kino gehen?
+Frau: Kino – ich weiß nicht. Ich finde das Konzert im Jazzclub auch interessant.
+Mann: Okay. Unser Deutschkurs geht bis fünf, dann können wir irgendwo noch was essen, und dann gehen wir ins Konzert.
+Frau: Gute Idee, so machen wir das!`,
+      },
+      {
+        id: 'de-thi-a1-1-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 3',
+        audioSrc: '/a1_de1_teil1_3.mp3',
+        text: `Kellnerin: Schönen guten Abend, was kann ich Ihnen bringen?
+Gast: Ich möchte nur ein bisschen was essen – vielleicht eine Suppe?
+Kellnerin: Da kann ich Ihnen heute Tomatensuppe oder Kartoffelsuppe anbieten.
+Gast: Hm. Oder vielleicht doch was anderes? Haben Sie auch Salate?
+Kellnerin: Natürlich! Da haben wir zum Beispiel einen schönen gemischten Salat mit Käse – oder einen Tomatensalat, der ist auch sehr gut.
+Gast: Dann probiere ich mal den Tomatensalat. Und ein Bier bitte.
+Kellnerin: Gerne.`,
+      },
+      {
+        id: 'de-thi-a1-1-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 4',
+        audioSrc: '/a1_de1_teil1_4.mp3',
+        text: `Kollegin: Hallo, Herr Bollack! Was machen Sie denn so spät noch hier?
+Kollege: Ja, wissen Sie, Frau Janzen, ich habe doch morgen dieses wichtige Gespräch bei der Chefin, und da muss ich noch was fertig machen.
+Kollegin: Ah ja, verstehe.
+Kollege: Und am Wochenende feiert mein Vater siebzigsten Geburtstag! Aber danach habe ich dann endlich Urlaub!
+Kollegin: Na dann, viel Glück bei der Chefin morgen!
+Kollege: Danke!`,
+      },
+      {
+        id: 'de-thi-a1-1-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 5',
+        audioSrc: '/a1_de1_teil1_5.mp3',
+        text: `Kunde: Ich möchte im Sommer Urlaub in der Türkei machen – haben Sie da was Günstiges?
+Reiseberaterin: Wann wollen Sie denn reisen?
+Kunde: Ja, das geht eigentlich den ganzen Sommer, was empfehlen Sie denn?
+Reiseberaterin: Anfang Juli ist gut, da ist es noch nicht so voll. Im August sind überall sehr viele Leute, das ist nicht so schön. Sie können auch ab Mitte September buchen, da ist es dann nicht mehr so heiß.
+Kunde: Gut, dann im September.`,
+      },
+      {
+        id: 'de-thi-a1-1-teil1-6',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 6',
+        audioSrc: '/a1_de1_teil1_6.mp3',
+        text: `Mann: Guten Tag, ich rufe wegen der Wohnung an, ist die noch frei?
+Vermieterin: Ja, schon.
+Mann: Äh, und wie hoch ist denn die Miete? In der Anzeige steht ja nur „fairer Preis“?
+Vermieterin: Ich möchte 640 Euro für die Wohnung.
+Mann: 640 Euro? So viel?
+Vermieterin: Ja, aber die Wohnung ist wirklich sehr schön! Und das ist natürlich mit Nebenkosten. Und es gibt auch einen Parkplatz.
+Mann: Gut. Kann ich später vorbeikommen und sie ansehen?`,
+      },
+    ],
+  },
+  {
+    id: 'de-thi-a1-2',
+    title: 'Đề số 2',
+    level: 'Đề thi',
+    category: 'Đề thi A1',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-a1-3',
+    title: 'Đề số 3',
+    level: 'Đề thi',
+    category: 'Đề thi A1',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-a1-4',
+    title: 'Đề số 4',
+    level: 'Đề thi',
+    category: 'Đề thi A1',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-a1-5',
+    title: 'Đề số 5',
+    level: 'Đề thi',
+    category: 'Đề thi A1',
+    lessons: [],
+  },
 ];
 

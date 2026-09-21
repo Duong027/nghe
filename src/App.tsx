@@ -15,7 +15,7 @@ import {
 import { User } from 'firebase/auth';
 import type { StudentWhitelistItem } from './types';
 
-const LEVELS = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2', 'Bổ trợ'] as const;
+const LEVELS = ['A1.1', 'A1.2', 'A2.1', 'A2.2', 'B1.1', 'B1.2', 'Bổ trợ', 'Đề thi'] as const;
 type Level = typeof LEVELS[number];
 
 // Helper để xác định chương thuộc cấp độ nào (Kapitel 1-6 thuộc A1.1)
@@ -39,6 +39,7 @@ const getChapterLevel = (chapter: typeof chaptersData[number]): Level => {
 export default function App() {
   const [activeLevel, setActiveLevel] = useState<Level>('A1.1');
   const [activeChapterId, setActiveChapterId] = useState<string>('kapitel-1');
+  const [activeExamCategory, setActiveExamCategory] = useState<string>('Đề thi A1');
 
   // Auth & Access States
   const [currentUser, setCurrentUser] = useState<User | null>(null);
@@ -125,21 +126,61 @@ export default function App() {
     (chapter) => getChapterLevel(chapter) === activeLevel
   );
 
+  // Danh mục đề thi trong cấp độ 'Đề thi' (ví dụ: 'Đề thi A1')
+  const examCategories = Array.from(
+    new Set(
+      chaptersForSelectedLevel
+        .map((c) => c.category)
+        .filter((cat): cat is string => Boolean(cat))
+    )
+  );
+  const currentExamCategory = examCategories.includes(activeExamCategory)
+    ? activeExamCategory
+    : (examCategories[0] || 'Đề thi A1');
+
+  // Danh sách các đề trong danh mục đang chọn (ví dụ: Đề số 1, Đề số 2, ...)
+  const examsForCurrentCategory = activeLevel === 'Đề thi'
+    ? chaptersForSelectedLevel.filter((c) => (c.category || 'Đề thi A1') === currentExamCategory)
+    : [];
+
   // Xác định chương đang active
   const activeChapter =
-    chaptersForSelectedLevel.find((c) => c.id === activeChapterId) ||
-    chaptersForSelectedLevel[0] ||
-    null;
+    activeLevel === 'Đề thi'
+      ? examsForCurrentCategory.find((c) => c.id === activeChapterId) ||
+        examsForCurrentCategory[0] ||
+        null
+      : chaptersForSelectedLevel.find((c) => c.id === activeChapterId) ||
+        chaptersForSelectedLevel[0] ||
+        null;
 
   const handleLevelChange = (level: Level) => {
     setActiveLevel(level);
     const chapters = chaptersData.filter(
       (chapter) => getChapterLevel(chapter) === level
     );
-    if (chapters.length > 0) {
+    if (level === 'Đề thi') {
+      const examsInCat = chapters.filter(
+        (c) => (c.category || 'Đề thi A1') === currentExamCategory
+      );
+      if (examsInCat.length > 0) {
+        setActiveChapterId(examsInCat[0].id);
+      } else if (chapters.length > 0) {
+        setActiveChapterId(chapters[0].id);
+      }
+    } else if (chapters.length > 0) {
       setActiveChapterId(chapters[0].id);
     } else {
       setActiveChapterId('');
+    }
+  };
+
+  const handleExamCategoryChange = (category: string) => {
+    setActiveExamCategory(category);
+    const examsInCat = chaptersForSelectedLevel.filter(
+      (c) => (c.category || 'Đề thi A1') === category
+    );
+    if (examsInCat.length > 0) {
+      setActiveChapterId(examsInCat[0].id);
     }
   };
 
@@ -307,27 +348,75 @@ export default function App() {
             </div>
           </div>
 
-          {/* Thanh chuyển Kapitel con (chỉ hiển thị nếu cấp độ có từ 2 chương học trở lên) */}
-          {chaptersForSelectedLevel.length > 1 && (
-            <div className="flex flex-wrap justify-center gap-1.5 pt-1">
-              {chaptersForSelectedLevel.map((chapter) => {
-                const isActive = chapter.id === activeChapterId;
-                const shortTitle = chapter.title.split(':')[0]; // Ví dụ: "Kapitel 1"
-                return (
-                  <button
-                    key={chapter.id}
-                    onClick={() => setActiveChapterId(chapter.id)}
-                    className={`px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all cursor-pointer border ${
-                      isActive
-                        ? 'bg-stone-200 text-stone-900 border-stone-400 dark:bg-stone-800 dark:text-stone-100 dark:border-stone-600 font-semibold'
-                        : 'bg-white text-stone-600 border-stone-200 dark:bg-stone-900 dark:text-stone-300 dark:border-stone-800 hover:bg-stone-50 dark:hover:bg-stone-850'
-                    }`}
-                  >
-                    {shortTitle}
-                  </button>
-                );
-              })}
+          {/* Thanh chuyển Kapitel con hoặc cấp tab của Đề thi */}
+          {activeLevel === 'Đề thi' ? (
+            <div className="space-y-2 pt-1">
+              {/* Cấp tab 1: Danh mục đề thi (ví dụ: Đề thi A1) */}
+              {examCategories.length > 0 && (
+                <div className="flex flex-wrap justify-center gap-1.5">
+                  {examCategories.map((cat) => {
+                    const isActive = cat === currentExamCategory;
+                    return (
+                      <button
+                        key={cat}
+                        onClick={() => handleExamCategoryChange(cat)}
+                        className={`min-h-9 px-4 py-1.5 rounded-lg text-xs sm:text-sm font-semibold transition-all cursor-pointer border ${
+                          isActive
+                            ? 'bg-stone-900 text-white border-stone-900 dark:bg-stone-100 dark:text-stone-950 dark:border-stone-100 shadow-xs'
+                            : 'bg-white text-stone-600 border-stone-200 dark:bg-stone-900 dark:text-stone-300 dark:border-stone-800 hover:bg-stone-50 dark:hover:bg-stone-850'
+                        }`}
+                      >
+                        {cat}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+
+              {/* Cấp tab 2: Các đề thi con (Đề số 1, Đề số 2, Đề số 3, Đề số 4, Đề số 5) */}
+              {examsForCurrentCategory.length > 0 && (
+                <div className="flex flex-wrap justify-center gap-1.5 pt-0.5">
+                  {examsForCurrentCategory.map((chapter) => {
+                    const isActive = chapter.id === activeChapter?.id;
+                    return (
+                      <button
+                        key={chapter.id}
+                        onClick={() => setActiveChapterId(chapter.id)}
+                        className={`min-h-8 px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all cursor-pointer border ${
+                          isActive
+                            ? 'bg-stone-200 text-stone-900 border-stone-400 dark:bg-stone-800 dark:text-stone-100 dark:border-stone-600 font-semibold'
+                            : 'bg-white text-stone-600 border-stone-200 dark:bg-stone-900 dark:text-stone-300 dark:border-stone-800 hover:bg-stone-50 dark:hover:bg-stone-850'
+                        }`}
+                      >
+                        {chapter.title}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
             </div>
+          ) : (
+            chaptersForSelectedLevel.length > 1 && (
+              <div className="flex flex-wrap justify-center gap-1.5 pt-1">
+                {chaptersForSelectedLevel.map((chapter) => {
+                  const isActive = chapter.id === activeChapterId;
+                  const shortTitle = chapter.title.split(':')[0]; // Ví dụ: "Kapitel 1"
+                  return (
+                    <button
+                      key={chapter.id}
+                      onClick={() => setActiveChapterId(chapter.id)}
+                      className={`px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all cursor-pointer border ${
+                        isActive
+                          ? 'bg-stone-200 text-stone-900 border-stone-400 dark:bg-stone-800 dark:text-stone-100 dark:border-stone-600 font-semibold'
+                          : 'bg-white text-stone-600 border-stone-200 dark:bg-stone-900 dark:text-stone-300 dark:border-stone-800 hover:bg-stone-50 dark:hover:bg-stone-850'
+                      }`}
+                    >
+                      {shortTitle}
+                    </button>
+                  );
+                })}
+              </div>
+            )
           )}
         </header>
 
