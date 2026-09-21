@@ -6598,7 +6598,154 @@ Mann: Gut. Kann ich später vorbeikommen und sie ansehen?`,
     title: 'Đề số 2',
     level: 'Đề thi',
     category: 'Đề thi A1',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-a1-2-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/a1_de2_teil1_beispiel.mp3',
+        text: `Frau: Ach, Verzeihung, wo finde ich Herrn Schneider vom Betriebsrat?
+Mann: Schneider. Warten Sie mal. Ich glaube, der ist in Zimmer Nummer 254. Ja, stimmt, Zimmer 254. Das ist im zweiten Stock. Da können Sie den Aufzug hier nehmen.
+Frau: Zweiter Stock, Zimmer 254. Okay, vielen Dank.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 1',
+        audioSrc: '/a1_de2_teil1_1.mp3',
+        text: `Kunde: Entschuldigung, was kostet dieser Pullover jetzt? Da steht 30 Prozent billiger.
+Verkäuferin: Einen Moment bitte … neunzehnfünfund neunzig.
+Kunde: 19,95 Euro?
+Verkäuferin: Ja, Euro natürlich.
+Kunde: Hm, … ok, den nehme ich.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 2',
+        audioSrc: '/a1_de2_teil1_2.mp3',
+        text: `Passant: Ach, entschuldigen Sie bitte.
+Passantin: Ja bitte.
+Passant: Haben Sie eine Uhr? … Wie spät ist es bitte?
+Passantin: Ja – jetzt ist es gleich 5 Uhr.
+Passant: Was, schon 5. Vielen Dank, Wiedersehen.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 3',
+        audioSrc: '/a1_de2_teil1_3.mp3',
+        text: `Kellner: Was wünschen Sie bitte?
+Gast: Ich hätte gern die Salatplatte und ein ...
+Kellner: Entschuldigung, die Salatplatte ist leider aus, aber die Bratwurst kann ich Ihnen empfehlen … ganz frisch heute.
+Gast: Nein danke ... ich esse kein Fleisch. Gibt es etwas ohne Fleisch?
+Kellner: Ja ... nicht mehr viel: Fisch oder ... Pommes.
+Gast: Fisch ... hm ... Tja, dann wohl die Pommes.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 4',
+        audioSrc: '/a1_de2_teil1_4.mp3',
+        text: `Kollege: Haben Sie Kinder, Frau Heger?
+Kollegin: Ja, einen Sohn.
+Kollege: Und wie alt ist er?
+Kollegin: Neun Jahre ... seit gestern.
+Kollege: Ah, dann geht er ja schon zur Schule?
+Kollegin: Ja klar, schon in die dritte Klasse.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 5',
+        audioSrc: '/a1_de2_teil1_5.mp3',
+        text: `Kundin: Ach, entschuldigen Sie, wie komme ich denn hier in den zweiten Stock? Die Rolltreppe da vorn ist kaputt.
+Verkäufer: Da gehen Sie hier rechts um die Ecke und nehmen den Aufzug.
+Kundin: Um die Ecke rechts. Danke.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil1-6',
+        title: 'Hören – Teil 1',
+        subTitle: 'Nummer 6',
+        audioSrc: '/a1_de2_teil1_6.mp3',
+        text: `Kollegin: Guten Morgen, Herr Albers. So früh schon bei der Arbeit?
+Kollege: Ja, ich habe noch viel zu tun. Morgen fahre ich doch für 3 Wochen weg.
+Kollegin: Ach ja, das hab‘ ich vergessen. Wohin fahren Sie denn?
+Kollege: Zu meinen Verwandten nach Polen.
+Kollegin: Na dann ... schöne Zeit.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil2-beispiel',
+        title: 'Hören – Teil 2',
+        subTitle: 'Beispiel',
+        audioSrc: '/a1_de2_teil2_beispiel.mp3',
+        text: `Frau Katrin Gundlach, angekommen aus Budapest, wird zum Informationsschalter in der Ankunftshalle C gebeten.
+Frau Gundlach bitte zum Informationsschalter in der Ankunftshalle C.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil2-7',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 7',
+        audioSrc: '/a1_de2_teil2_7.mp3',
+        text: `Liebe Kunden, zu Weihnachten bieten wir Ihnen Superpreise an … z. B. erstklassiger italienischer Weißwein für 12 Euro 78 die Flasche oder exklusiver argentinischer Rotwein für 9 Euro 68. Besuchen Sie uns im 3. Stock. Frohe Weihnachten.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil2-8',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 8',
+        audioSrc: '/a1_de2_teil2_8.mp3',
+        text: `Liebe Fahrgäste. Wir sind kurz vor Würzburg. Sicherlich haben Sie schon Hunger. An der nächsten Raststätte halten wir für eine Stunde. Wir treffen uns wieder um halb eins am Bus, aber bitte pünktlich sein.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil2-9',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 9',
+        audioSrc: '/a1_de2_teil2_9.mp3',
+        text: `Liebe Fahrgäste! Bitte beachten Sie. Das ist ein außerplanmäßiger Halt. Bitte hier nicht aussteigen. In ein paar Minuten erreichen wir den Bahnhof Bonn – Bad Godesberg.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil2-10',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 10',
+        audioSrc: '/a1_de2_teil2_10.mp3',
+        text: `Herr Stefan Janda gebucht auf dem Flug LH 737 nach Warschau, wird zum Schalter F7 gebeten. Der Flug wird in ein paar Minuten geschlossen. Herr Janda gebucht nach Warschau bitte nach F7.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil3-11',
+        title: 'Hören – Teil 3',
+        subTitle: 'Nummer 11',
+        audioSrc: '/a1_de2_teil3_11.mp3',
+        text: `Telefonansagedienst der deutschen Telekom. Die Rufnummer des Teilnehmers hat sich geändert. Bitte rufen Sie die TelefonAuskunft an unter 11 8 33.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil3-12',
+        title: 'Hören – Teil 3',
+        subTitle: 'Nummer 12',
+        audioSrc: '/a1_de2_teil3_12.mp3',
+        text: `Hallo Jan, hier ist Boris. Du, ich bin noch im Zug. Du holst mich doch vom Bahnhof ab? Ich warte an der Information auf dich.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil3-13',
+        title: 'Hören – Teil 3',
+        subTitle: 'Nummer 13',
+        audioSrc: '/a1_de2_teil3_13.mp3',
+        text: `Mensch Jan, du Penner, hier noch mal Boris. Ich bin jetzt am Bahnhof. Und du? Wo bist du denn? Ich warte schon über 20 Minuten auf dich. Zehn Minuten Zeit hast du noch ... bis 2, dann nehme ich ein Taxi.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil3-14',
+        title: 'Hören – Teil 3',
+        subTitle: 'Nummer 14',
+        audioSrc: '/a1_de2_teil3_14.mp3',
+        text: `Guten Tag, hier Rogalla. Wir können am Samstag leider nicht zu Ihnen kommen. Am Sonntag haben wir aber Zeit. Rufen Sie uns doch bitte zurück, ob Ihnen das passt. Danke.`,
+      },
+      {
+        id: 'de-thi-a1-2-teil3-15',
+        title: 'Hören – Teil 3',
+        subTitle: 'Nummer 15',
+        audioSrc: '/a1_de2_teil3_15.mp3',
+        text: `Hallo Alex. Walter hier. Kannst du schnell mal rüber kommen? Mein Computer hat einen Fehler. Ich kann nichts drucken. Melde dich doch bitte gleich, wenn du nach Hause kommst.`,
+      },
+    ],
   },
   {
     id: 'de-thi-a1-3',
