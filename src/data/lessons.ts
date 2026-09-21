@@ -6521,6 +6521,41 @@ Mann: 640 Euro? So viel?
 Vermieterin: Ja, aber die Wohnung ist wirklich sehr schön! Und das ist natürlich mit Nebenkosten. Und es gibt auch einen Parkplatz.
 Mann: Gut. Kann ich später vorbeikommen und sie ansehen?`,
       },
+      {
+        id: 'de-thi-a1-1-teil2-beispiel',
+        title: 'Hören – Teil 2',
+        subTitle: 'Beispiel',
+        audioSrc: '/a1_de1_teil2_beispiel.mp3',
+        text: `Sehr geehrte Damen und Herren auf Gleis 4! Der ICE 577 nach Stuttgart fährt heute ausnahmsweise von Gleis 3. Ich wiederhole: Der Zug nach Stuttgart fährt heute von Gleis 3. Auf Gleis 4 fährt jetzt ein der verspätete ICE nach Amsterdam, Abfahrt 12:45 Uhr.`,
+      },
+      {
+        id: 'de-thi-a1-1-teil2-7',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 7',
+        audioSrc: '/a1_de1_teil2_7.mp3',
+        text: `Herr Simon Kurz, bitte kommen Sie sofort zum Ausgang. Ihr Sohn Max wartet hier auf Sie. Herr Simon Kurz, bitte kommen Sie zum Ausgang.`,
+      },
+      {
+        id: 'de-thi-a1-1-teil2-8',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 8',
+        audioSrc: '/a1_de1_teil2_8.mp3',
+        text: `Sehr geehrte Damen und Herren, der Flug LH 4320 nach Brüssel ist jetzt zum Einsteigen bereit. Beim Einsteigen muss unser Servicepersonal auch nochmals Ihren Reisepass kontrollieren. Vielen Dank für Ihr Verständnis.`,
+      },
+      {
+        id: 'de-thi-a1-1-teil2-9',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 9',
+        audioSrc: '/a1_de1_teil2_9.mp3',
+        text: `Liebe Fahrgäste, wir kommen jetzt gleich zur Raststätte Allgäuer Tor. Wir machen hier nur eine kurze Pause. Sie können natürlich kurz aussteigen, aber alle sind bitte um 10:40 Uhr wieder im Bus, wir möchten pünktlich weiterfahren. Danke schön!`,
+      },
+      {
+        id: 'de-thi-a1-1-teil2-10',
+        title: 'Hören – Teil 2',
+        subTitle: 'Nummer 10',
+        audioSrc: '/a1_de1_teil2_10.mp3',
+        text: `Liebe Kundinnen und Kunden, wir schließen in 10 Minuten! Bitte gehen Sie gleich zur Kasse! Morgen haben wir wie immer von 8 bis 22 Uhr für Sie geöffnet! Danke schön und guten Abend!`,
+      },
     ],
   },
   {
