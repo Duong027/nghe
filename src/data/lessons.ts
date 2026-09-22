@@ -372,40 +372,40 @@ Also, ich schwimme im Sommer sehr oft. Ich wohne direkt an der Alster und ich sc
         id: 'k3-1.35',
         title: '1.35',
         audioSrc: '/1.35.mp3',
-        text: `Und Sie, Frau Wagner? Was machen Sie wann?
-Mhm, ja, also im April oder Mai fahre ich gern mit dem Fahrrad. Da ist es warm und schön. Da machen meine Freundin und ich eine Woche Urlaub und fahren jeden Tag. Sport ist einfach mein Hobby …`,
+        text: `[Und Sie], Frau Wagner? Was machen Sie wann?
+Mhm, ja, also im April oder Mai fahre ich gern mit dem Fahrrad. Da [ist es] warm und schön. Da machen meine Freundin und ich eine Woche Urlaub und fahren [jeden] Tag. Sport [ist] einfach mein Hobby …`,
       },
       {
         id: 'k3-1.36',
         title: '1.36',
         audioSrc: '/1.36.mp3',
-        text: `Und jetzt ein Herr aus Barmbek. Was machen Sie wann?
-Ja, hallo, hier ist Gernot aus Barmbek. Meine Frau und ich reisen viel. Im Herbst ist das super. Es ist noch warm und es kommen weniger Touristen. Wir reisen gern, wir sehen gern andere Städte, auch in Deutschland. Im Oktober fahren wir nach Leipzig und Dresden, und dann im November nach Brüssel. Wir kennen auch Paris und Amsterdam …`,
+        text: `[Und jetzt] ein Herr [aus Barmbek]. Was machen Sie wann?
+Ja, hallo, hier [ist Gernot] [aus Barmbek]. Meine Frau und ich reisen viel. [Im Herbst] [ist das super]. Es ist noch warm und es [kommen] weniger [Touristen]. Wir reisen gern, wir [sehen] gern andere Städte, auch in Deutschland. Im Oktober [fahren] wir nach Leipzig und [Dresden], [und dann] im November nach Brüssel. Wir [kennen] auch Paris und Amsterdam …`,
       },
       {
         id: 'k3-1.37',
         title: '1.37',
         audioSrc: '/1.37.mp3',
         text: `Frau Riesch aus Altenwerder ruft an. Hallo Frau Riesch.
-Hallo. Meine Jahreszeit ist der Winter. Ich gehe oft spazieren und ich gehe gern ins Museum, besonders im Winter! In Hamburg sind so viele Museen. Das ist einfach super. Draußen ist es kalt und drinnen ist es warm.`,
+Hallo. Meine Jahreszeit [ist der] Winter. Ich gehe [oft spazieren] und ich gehe gern ins Museum, besonders im Winter! In Hamburg sind so viele Museen. Das [ist] einfach super. Draußen [ist es] kalt und [drinnen] [ist es] warm.`,
       },
       {
         id: 'k3-1.38',
         title: '1.38',
         audioSrc: '/1.38.mp3',
-        text: `Hallo, ich heiße Beatrice und komme aus …. Wir sagen hier Grüezi und nicht „Guten Tag“. Mir gefällt es gut hier, ich mag den großen See und die Schiffe. Das ist wirklich sehr schön.`,
+        text: `Hallo, ich heiße Beatrice und komme aus …. Wir sagen hier Grüezi und [nicht] „Guten Tag“. Mir gefällt es [gut hier], ich mag den großen See und die Schiffe. Das [ist wirklich] sehr schön.`,
       },
       {
         id: 'k3-1.39',
         title: '1.39',
         audioSrc: '/1.39.mp3',
-        text: `Servus – wie wir hier sagen, ich heiße Laurin und wohne in …. Am liebsten mag ich den alten Turm. Der Turm ist hoch und man kann die ganze Stadt sehen. Und ich weiß immer, wie spät es ist.`,
+        text: `Servus – wie wir hier [sagen], ich heiße Laurin und wohne in …. Am [liebsten] mag ich den [alten] Turm. Der Turm [ist hoch] [und man] kann die ganze Stadt [sehen]. Und ich weiß immer, wie [spät es] ist.`,
       },
       {
         id: 'k3-1.40',
         title: '1.40',
         audioSrc: '/1.40.mp3',
-        text: `Ich bin Pia und lebe seit fünf Jahren in …. Die Stadt gefällt mir sehr gut und ich gehe sehr gerne ins Konzert. Ich mag Musik und besonders gern mag ich Klassik. Die Akustik in unserem Konzerthaus ist wirklich toll. Nächste Woche gehe ich auch wieder hin, ich freue mich schon.`,
+        text: `[Ich bin] Pia und lebe [seit fünf] Jahren in …. Die [Stadt gefällt mir] sehr gut und ich gehe sehr gerne ins Konzert. Ich [mag Musik] und besonders gern mag ich Klassik. Die Akustik in unserem Konzerthaus [ist wirklich] toll. Nächste Woche gehe ich auch wieder hin, ich freue mich schon.`,
       },
     ],
   },
