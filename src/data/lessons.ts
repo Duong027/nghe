@@ -380,7 +380,7 @@ Mhm, ja, also im April oder Mai fahre ich gern mit dem Fahrrad. Da [ist es] warm
         title: '1.36',
         audioSrc: '/1.36.mp3',
         text: `[Und jetzt] ein Herr [aus Barmbek]. Was machen Sie wann?
-Ja, hallo, hier [ist Gernot] [aus Barmbek]. Meine Frau und ich reisen viel. [Im Herbst] [ist das super]. Es ist noch warm und es [kommen] weniger [Touristen]. Wir reisen gern, wir [sehen] gern andere Städte, auch in Deutschland. Im Oktober [fahren] wir nach Leipzig und [Dresden], [und dann] im November nach Brüssel. Wir [kennen] auch Paris und Amsterdam …`,
+Ja, hallo, hier [ist Gernot] [aus Barmbek]. Meine Frau und ich reisen viel. Im Herbst [ist das super]. Es ist noch warm und es [kommen] weniger [Touristen]. Wir reisen gern, wir [sehen] gern andere Städte, auch in Deutschland. Im Oktober [fahren] wir nach Leipzig und [Dresden], [und dann] im November nach Brüssel. Wir [kennen] auch Paris und Amsterdam …`,
       },
       {
         id: 'k3-1.37',
