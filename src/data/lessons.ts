@@ -373,7 +373,7 @@ Also, ich schwimme im Sommer sehr oft. Ich wohne direkt an der Alster und ich sc
         title: '1.35',
         audioSrc: '/1.35.mp3',
         text: `[Und Sie], Frau Wagner? Was machen Sie wann?
-Mhm, ja, also im April oder Mai fahre ich gern mit dem Fahrrad. Da [ist es] warm und schön. Da machen meine Freundin und ich eine Woche Urlaub und fahren [jeden] Tag. Sport [ist] einfach mein Hobby …`,
+Mhm, ja, also im April oder Mai fahre ich gern [mit dem] Fahrrad. Da [ist es] warm und schön. Da machen meine Freundin und ich eine Woche Urlaub und fahren [jeden] Tag. Sport [ist] einfach mein Hobby …`,
       },
       {
         id: 'k3-1.36',
