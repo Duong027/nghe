@@ -539,52 +539,52 @@ Mmh, ja, das [Fleisch schmeckt sehr] gut!`,
         title: '1.54',
         audioSrc: '/1.54.mp3',
         text: `Möchtet ihr noch ein Würstchen?
-Ja, gerne, die Würstchen sind wirklich lecker.
-Und du, Lukas?
-Nein, danke, ich bin satt.`,
+Ja, gerne, die Würstchen [sind wirklich] lecker.
+[Und du], Lukas?
+Nein, danke, [ich bin] satt.`,
       },
       {
         id: 'k4-1.55',
         title: '1.55',
         audioSrc: '/1.55.mp3',
         text: `Möchtest du Salat?
-Nein, danke. Ich esse keine Gurken.`,
+Nein, danke. Ich esse keine [Gurken].`,
       },
       {
         id: 'k4-1.56',
         title: '1.56',
         audioSrc: '/1.56.mp3',
-        text: `Gut gesagt: Beim Essen
-Prost! Zum Wohl! Guten Appetit! Mahlzeit!`,
+        text: `[Gut gesagt]: Beim Essen
+Prost! Zum Wohl! [Guten] Appetit! Mahlzeit!`,
       },
       {
         id: 'k4-1.57',
         title: '1.57',
         audioSrc: '/1.57.mp3',
-        text: `Guten Tag. Was darf ich Ihnen bringen?
+        text: `[Guten] Tag. [Was darf] ich Ihnen bringen?
 Tja, ich weiß auch nicht.
-Wir haben heute ganz frischen Fisch.
-Ach nein, ich esse nicht gerne Fisch. Ich nehme lieber das Steak.
-Gerne. Und zu trinken?
+Wir [haben] heute ganz frischen Fisch.
+Ach nein, ich esse [nicht gerne] Fisch. Ich nehme lieber [das Steak].
+Gerne. Und zu [trinken]?
 Eine Cola, bitte.`,
       },
       {
         id: 'k4-1.58',
         title: '1.58',
         audioSrc: '/1.58.mp3',
-        text: `Hallo Maria, komm doch rein. Wie geht’s denn?
+        text: `Hallo Maria, komm [doch rein]. Wie [geht’s denn]?
 Gut, ich komme gerade vom Sport. Mensch, habe ich Durst!
-Was möchtest du denn trinken? Magst du Orangensaft?
-Ja, Orangensaft wäre super.
+Was [möchtest du] denn [trinken]? [Magst du] Orangensaft?
+Ja, [Orangensaft wäre] super.
 Moment, bin gleich wieder da.`,
       },
       {
         id: 'k4-1.59',
         title: '1.59',
         audioSrc: '/1.59.mp3',
-        text: `Endlich Pause. Möchtest du auch ein Stück Schokolade?
+        text: `Endlich Pause. [Möchtest] du auch ein Stück Schokolade?
 Nein, danke.
-Was? Du magst keine Schokolade!
+Was? Du [magst keine] Schokolade!
 Doch, ich esse sehr gerne Schokolade. Aber ich mache gerade eine Diät.
 Oh, du Armer. Na gut, dann kann ich mehr essen.`,
       },
