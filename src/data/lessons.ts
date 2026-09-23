@@ -417,50 +417,50 @@ Hallo. Meine Jahreszeit [ist der] Winter. Ich gehe [oft spazieren] und ich gehe 
         id: 'k4-1.41',
         title: '1.41',
         audioSrc: '/1.41.mp3',
-        text: `Guten Tag. Was möchten Sie, bitte?
+        text: `[Guten] Tag. Was [möchten] Sie, bitte?
 Etwas Wurst, bitte.
-Welche Wurst? Wir haben heute Schinken im Angebot.
+Welche Wurst? Wir [haben] heute Schinken im Angebot.
 Ja, dann nehme ich 100 Gramm, bitte.`,
       },
       {
         id: 'k4-1.42',
         title: '1.42',
         audioSrc: '/1.42.mp3',
-        text: `Heute besonders billig: Erdbeermarmelade, 450 Gramm für nur 1 Euro 49. Essen Sie auch so gerne Käse zum Abendbrot? Wir haben für Sie 100 Gramm Emmentaler für nur 1 Euro 19 oder 100 Gramm französischer Camembert für nur 99 Cent. Probieren Sie dazu auch unser Öko-Bauernbrot: 500 Gramm für nur 2 Euro 15.`,
+        text: `Heute besonders billig: Erdbeermarmelade, 450 Gramm für nur 1 Euro 49. Essen Sie auch so gerne Käse zum [Abendbrot]? Wir [haben] für Sie 100 Gramm Emmentaler für nur 1 Euro 19 oder 100 Gramm französischer Camembert für nur 99 Cent. Probieren Sie dazu auch unser Öko-Bauernbrot: 500 Gramm für nur 2 Euro 15.`,
       },
       {
         id: 'k4-1.43',
         title: '1.43',
         audioSrc: '/1.43.mp3',
-        text: `Guten Morgen.
-Guten Morgen, Herr Förster. Was darf’s denn sein?
-Geben Sie mir doch bitte das Brot da links.
-Gerne. Und sonst noch was?
+        text: `[Guten Morgen].
+[Guten Morgen], Herr Förster. Was darf’s denn sein?
+Geben Sie mir doch bitte [das Brot da] links.
+Gerne. [Und sonst noch] was?
 Ja, noch drei Brötchen, bitte.`,
       },
       {
         id: 'k4-1.44',
         title: '1.44',
         audioSrc: '/1.44.mp3',
-        text: `Kommen Sie nur näher. Bei mir gibt es die besten Sachen. Hier, probieren Sie mal das Obst, alles superfrisch – und nicht teuer. Ja, bitte, was kann ich für Sie tun?
+        text: `Kommen Sie nur näher. Bei mir [gibt es] die [besten] Sachen. Hier, [probieren] Sie [mal] das Obst, [alles superfrisch] – [und nicht teuer]. Ja, bitte, was kann ich für Sie tun?
 Wir brauchen Kartoffeln. Zwei Kilo, bitte.
-Ah ja, da haben wir gerade ein Angebot. Here, bitte schön. Noch etwas?
+Ah ja, da [haben] wir gerade ein Angebot. Here, bitte schön. Noch etwas?
 Ja, noch vier Bananen und ein Kilo Äpfel.
-Bananen und Äpfel. Haben Sie noch einen Wunsch?
-Nein, das ist alles, danke.
-Das macht dann zusammen 7 Euro 40.`,
+Bananen und Äpfel. [Haben] Sie noch [einen] Wunsch?
+Nein, das [ist] alles, danke.
+Das [macht dann] zusammen 7 Euro 40.`,
       },
       {
         id: 'k4-1.45',
         title: '1.45',
         audioSrc: '/1.45.mp3',
-        text: `Wir machen den Salat und kaufen die Getränke. Und Katrin und Lukas kaufen das Fleisch und die Würstchen.
-Okay. Was brauchen wir noch für den Salat? Haben wir alles?
-Moment … Salat haben wir. Ähm, wir brauchen Tomaten, Eier, Öl und eine Gurke. Ach, und Käse! Wir haben keinen Käse mehr. Hm … Ah! Getränke, wir haben auch keine Getränke.
-Gut. Ich gehe zum Markt und kaufe die Eier, die Tomaten und die Gurke. Und ein Brot kaufe ich auch. Der Käse ist da so teuer. Kaufst du den Käse im Supermarkt?
-Ja, stimmt. Ich gehe zum Supermarkt und kaufe Käse, Öl und die Getränke.
-Und dann gehen wir ins Café Amadeus und trinken einen Kaffee, okay?
-Ja, das ist eine gute Idee. Also dann, bis gleich.`,
+        text: `Wir machen den Salat [und kaufen] die Getränke. Und Katrin und Lukas kaufen das Fleisch [und die] Würstchen.
+Okay. Was brauchen wir noch für den Salat? [Haben] wir alles?
+Moment … Salat [haben] wir. Ähm, wir brauchen [Tomaten], Eier, Öl und eine Gurke. Ach, [und Käse]! Wir [haben] keinen Käse mehr. Hm … Ah! Getränke, wir [haben] auch keine Getränke.
+Gut. Ich gehe zum Markt und kaufe die Eier, die Tomaten und die Gurke. Und ein [Brot kaufe] ich auch. Der Käse [ist da] so teuer. [Kaufst du] den Käse im Supermarkt?
+Ja, stimmt. Ich gehe zum Supermarkt [und kaufe] Käse, Öl [und die] Getränke.
+[Und dann] gehen wir ins Café Amadeus [und trinken] einen Kaffee, okay?
+Ja, [das ist] eine gute Idee. Also dann, bis gleich.`,
       },
       {
         id: 'k4-1.46',
@@ -479,7 +479,7 @@ Wir kaufen Müsli zum Frühstück. – Ich kaufe Brötchen in der Bäckerei. –
         id: 'k4-1.48',
         title: '1.48',
         audioSrc: '/1.48.mp3',
-        text: `Entschuldigung, ich brauche einen Euro für den Einkaufswagen. Können Sie wechseln, bitte?
+        text: `Entschuldigung, ich brauche einen Euro für den [Einkaufswagen]. Können Sie wechseln, bitte?
 Ja, Moment – hier bitte.
 Danke.`,
       },
@@ -487,22 +487,22 @@ Danke.`,
         id: 'k4-1.49',
         title: '1.49',
         audioSrc: '/1.49.mp3',
-        text: `Entschuldigung, was kostet der Apfelsaft?
+        text: `Entschuldigung, was [kostet der] Apfelsaft?
 99 Cent.
-Und wie viel kostet der Orangensaft?
+[Und wie] viel [kostet der] Orangensaft?
 1 Euro 9.`,
       },
       {
         id: 'k4-1.50',
         title: '1.50',
         audioSrc: '/1.50.mp3',
-        text: `Wer kommt dran?
+        text: `Wer [kommt dran]?
 Ich, bitte.
-Was möchten Sie?
+Was [möchten] Sie?
 Ich möchte ein Stück Emmentaler, bitte.
-Sonst noch etwas?
+[Sonst noch] etwas?
 Ja, ich nehme noch 150 Gramm Schinken.
-Ist das alles?
+[Ist das] alles?
 Ja, danke.`,
       },
       {
@@ -510,7 +510,7 @@ Ja, danke.`,
         title: '1.51',
         audioSrc: '/1.51.mp3',
         text: `Entschuldigung, wo finde ich Reis?
-Dort rechts.
+[Dort rechts].
 Danke.`,
       },
       {
@@ -518,21 +518,21 @@ Danke.`,
         title: '1.52',
         audioSrc: '/1.52.mp3',
         text: `Ich brauche noch eine Tüte, bitte.
-Hier bitte. Die kostet 35 Cent.
-Wie bitte? 35 Cent? Das ist aber teuer! Also gut …
-Das macht dann 18 Euro 65. Brauchen Sie den Kassenzettel?
+Hier bitte. Die [kostet 35] Cent.
+Wie bitte? 35 Cent? Das [ist] aber teuer! Also gut …
+Das [macht dann] 18 Euro 65. Brauchen Sie den Kassenzettel?
 Ja, bitte.
-Danke. Auf Wiedersehen.
-Wiedersehen.`,
+Danke. [Auf Wiedersehen].
+[Wiedersehen].`,
       },
       {
         id: 'k4-1.53',
         title: '1.53',
         audioSrc: '/1.53.mp3',
-        text: `Guten Appetit!
+        text: `[Guten] Appetit!
 Danke, gleichfalls!
 Schmeckt’s?
-Mmh, ja, das Fleisch schmeckt sehr gut!`,
+Mmh, ja, das [Fleisch schmeckt sehr] gut!`,
       },
       {
         id: 'k4-1.54',
