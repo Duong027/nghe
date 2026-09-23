@@ -617,7 +617,7 @@ Oh, du Armer. Na gut, dann kann ich mehr essen.`,
         title: '1.63',
         audioSrc: '/1.63.mp3',
         text: `Oh nein, Entschuldigung.
-Ach, macht nichts, kann ja passieren.
+Ach, [macht nichts], kann ja [passieren].
 Uups.`,
       },
       {
@@ -630,61 +630,61 @@ Uups.`,
         id: 'k5-1.65',
         title: '1.65',
         audioSrc: '/1.65.mp3',
-        text: `Der Kuchen ist echt lecker, Oma!
-Danke. Jetzt erzähl mal, wie es dir geht, Kaan.`,
+        text: `Der Kuchen [ist] [echt lecker], Oma!
+Danke. [Jetzt erzähl] [mal], wie [geht es dir], Kaan.`,
       },
       {
         id: 'k5-1.66',
         title: '1.66',
         audioSrc: '/1.66.mp3',
-        text: `Oh hallo! Machst du auch eine Kaffeepause?
-Na, das ist ja ein Zufall! Wie geht’s dir? Übrigens, ich bin Kaan. Setz dich doch!
-Okay. Ich heiße Marie. Bist du oft hier?
-Nein. Und du?`,
+        text: `Oh hallo! [Machst du] auch eine Kaffeepause?
+Na, das [ist] ja ein Zufall! Wie [geht’s dir]? Übrigens, [ich bin] Kaan. [Setz dich doch]!
+Okay. Ich heiße Marie. [Bist du] [oft hier]?
+Nein. [Und du]?`,
       },
       {
         id: 'k5-1.67',
         title: '1.67',
         audioSrc: '/1.67.mp3',
         text: `Hallo?
-Hey Kaan, hier ist Toby. Sag mal, was machst du am Sonntag? Treffen wir uns? Hast du Zeit?
-Also, warte mal. Hm, am Sonntag, da will ich erst mal lange schlafen.
-Okay. Dann vielleicht so um 12?
-Nee. Am Sonntagmittag esse ich immer mit meiner Familie und dann spiele ich mit ein paar Freunden im Park Fußball.
+Hey Kaan, hier [ist Toby]. [Sag mal], was [machst du] am Sonntag? Treffen wir uns? [Hast du] Zeit?
+Also, warte [mal]. Hm, am Sonntag, da will ich [erst mal] lange schlafen.
+Okay. Dann [vielleicht so] um 12?
+Nee. Am Sonntagmittag esse ich immer [mit meiner] Familie [und dann] spiele ich mit ein paar [Freunden] im Park Fußball.
 Und am Nachmittag?
-Um drei treffe ich Felix und Sarah im Café Centro.
-Gut. Dann vielleicht um vier?
-Also, da gehe ich mit Marie spazieren. Und danach gehen wir noch ins Kino, hoffentlich.
+Um drei treffe ich Felix [und Sarah] im Café Centro.
+Gut. Dann [vielleicht um] vier?
+Also, da gehe ich [mit Marie] spazieren. [Und danach] gehen wir noch ins Kino, hoffentlich.
 Aha. Ja, schade. Dann vielleicht nächstes Wochenende.
-Ja, tut mir leid. Wir telefonieren, ja?
-Okay, also bis dann.`,
+Ja, [tut mir] leid. Wir telefonieren, ja?
+Okay, also [bis dann].`,
       },
       {
         id: 'k5-1.68',
         title: '1.68',
         audioSrc: '/1.68.mp3',
-        text: `Julian, aufstehen! Aufstehen! Julian!
-Aufstehen?
+        text: `Julian, [aufstehen]! Aufstehen! Julian!
+[Aufstehen]?
 Aaaaaufstehen!
-Oh nee, wie spät ist es denn?
-Halb sieben.
+Oh nee, wie spät [ist es denn]?
+Halb [sieben].
 Na gut, ich komme gleich.`,
       },
       {
         id: 'k5-1.69',
         title: '1.69',
         audioSrc: '/1.69.mp3',
-        text: `Sag mal, wie spät ist es denn? Wir haben doch um halb vier den Termin mit dem Chef.
-Kein Stress. Es ist jetzt erst fünf vor zwei. Wir haben noch genug Zeit.
-Ah, okay. Das ist gut.`,
+        text: `[Sag mal], wie spät [ist es denn]? Wir [haben] doch um [halb vier] den Termin [mit dem] Chef.
+Kein Stress. Es [ist] jetzt [erst fünf vor] zwei. Wir [haben noch genug Zeit].
+Ah, okay. Das [ist gut].`,
       },
       {
         id: 'k5-1.70',
         title: '1.70',
         audioSrc: '/1.70.mp3',
-        text: `Wann beginnt denn das Seminar?
-Um Viertel nach neun. Wie spät ist es denn jetzt?
-Zehn nach neun.
+        text: `Wann [beginnt denn] [das Seminar]?
+Um Viertel nach neun. Wie spät [ist es denn] jetzt?
+[Zehn nach] neun.
 Was? Oh Gott, jetzt aber schnell!`,
       },
       {
