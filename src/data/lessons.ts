@@ -691,57 +691,57 @@ Was? Oh Gott, jetzt aber schnell!`,
         id: 'k5-1.71',
         title: '1.71',
         audioSrc: '/1.71.mp3',
-        text: `Wo bleibt Moritz nur? Es ist schon zwanzig vor acht.
-Ich weiß auch nicht, wo er ist. Wann beginnt denn der film?
-In fünf Minuten.
-Ach, sieh mal, da kommt er ja.
-Entschuldigt bitte, aber …`,
+        text: `Wo [bleibt Moritz] nur? Es [ist schon] zwanzig vor acht.
+Ich weiß auch nicht, wo er ist. Wann [beginnt denn] der Film?
+In fünf [Minuten].
+Ach, sieh [mal], da kommt er ja.
+[Entschuldigt bitte], aber …`,
       },
       {
         id: 'k5-1.72',
         title: '1.72',
         audioSrc: '/1.72.mp3',
-        text: `Willkommen in Köln Hauptbahnhof. Ihre nächsten Anschlussmöglichkeiten: Intercity 2010 Richtung München um 13 Uhr 10 auf Gleis 3. Der Regionalexpress nach Bonn …`,
+        text: `Willkommen in Köln Hauptbahnhof. Ihre [nächsten] [Anschlussmöglichkeiten]: Intercity 2010 Richtung München um 13 Uhr 10 [auf Gleis] 3. Der Regionalexpress nach Bonn …`,
       },
       {
         id: 'k5-1.73',
         title: '1.73',
         audioSrc: '/1.73.mp3',
         text: `Sie haben eine neue Nachricht.
-Ja, guten Morgen. Hier ist die Praxis Doktor Huber. Sie haben morgen um 16 Uhr 45 einen Termin bei uns. Leider müssen wir Ihren Termin verschieben. Rufen Sie doch bitte bis morgen Vormittag …`,
+Ja, [guten Morgen]. Hier [ist die] Praxis Doktor Huber. Sie [haben morgen] um 16 Uhr 45 [einen] Termin bei uns. Leider müssen wir [Ihren] Termin [verschieben]. Rufen Sie doch bitte bis [morgen] Vormittag …`,
       },
       {
         id: 'k5-1.74',
         title: '1.74',
         audioSrc: '/1.74.mp3',
-        text: `Ja, und dann haben wir auch noch einen Abendkurs für Anfänger.
-Und wann ist der?
+        text: `Ja, [und dann haben] wir auch noch einen [Abendkurs] für Anfänger.
+Und wann [ist der]?
 Immer Dienstag und Donnerstag um 18 Uhr 30.
-Wie lange dauert der Kurs denn? Ich hab‘ an dem Tag leider …`,
+Wie lange [dauert der] [Kurs denn]? Ich hab‘ an dem Tag leider …`,
       },
       {
         id: 'k5-1.75',
         title: '1.75',
         audioSrc: '/1.75.mp3',
-        text: `Was machen wir heute Abend?
-Weiß nicht. Was gibt es denn im Fernsehen?
-Moment … Um 20 Uhr 15 kommt ein Krimi. Das hört sich gut an.
-Ja, super. Den können wir uns ansehen.`,
+        text: `Was machen wir heute [Abend]?
+Weiß nicht. Was [gibt es denn] im Fernsehen?
+Moment … Um 20 Uhr 15 kommt ein Krimi. Das [hört sich] gut an.
+Ja, super. Den [können] wir uns [ansehen].`,
       },
       {
         id: 'k5-1.76',
         title: '1.76',
         audioSrc: '/1.76.mp3',
-        text: `Wann fährt der Bus?
-Warte mal … Der nächste Bus fährt um 21 Uhr 53. Da haben wir noch Zeit.
-Stimmt, das ist ja erst in 10 Minuten.`,
+        text: `Wann [fährt der] Bus?
+Warte [mal] … Der nächste Bus fährt um 21 Uhr 53. Da [haben] wir noch Zeit.
+Stimmt, das [ist] ja [erst in] 10 [Minuten].`,
       },
       {
         id: 'k5-1.77',
         title: '1.77',
         audioSrc: '/1.77.mp3',
-        text: `Musikschule Stadt Frankfurt, guten Tag! Wir können Ihren Anruf leider nicht persönlich entgegennehmen, aber Sie können uns gern eine Nachricht hinterlassen.
-Hier ist Mara Dobart, die Mutter von Florian und Lena. Meine Kinder können diese Woche leider nicht zum Musikunterricht kommen. Meine Tochter Lena ist krank. Sie kann auch nicht in die Schule gehen. Und mein Sohn Florian kann am Dienstag auch nicht zum Trompetenunterricht kommen. Er ist den ganzen Tag in der Schule, die Klasse macht ein Projekt bis 18 Uhr. Tut mir leid! Können Sie bitte die Lehrer informieren? Danke.`,
+        text: `Musikschule [Stadt Frankfurt], [guten] Tag! Wir [können] Ihren Anruf leider [nicht persönlich] entgegennehmen, aber Sie können uns gern eine [Nachricht hinterlassen].
+Hier [ist Mara] Dobart, die Mutter von Florian [und Lena]. Meine Kinder [können] diese Woche leider [nicht zum] Musikunterricht [kommen]. Meine Tochter Lena [ist krank]. Sie kann auch [nicht in] die Schule gehen. [Und mein] Sohn Florian kann am Dienstag auch [nicht zum] [Trompetenunterricht kommen]. Er [ist den] ganzen Tag in der Schule, die Klasse macht ein [Projekt bis] 18 Uhr. [Tut mir] leid! [Können] Sie bitte die Lehrer informieren? Danke.`,
       },
       {
         id: 'k5-1.78',
