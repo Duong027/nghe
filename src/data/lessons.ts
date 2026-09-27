@@ -949,31 +949,31 @@ Danke.`,
         id: 'k6-1.97',
         title: '1.97',
         audioSrc: '/1.97.mp3',
-        text: `Hallo Leela, hier ist Caro!
+        text: `Hallo Leela, hier [ist Caro]!
 Hi Caro! Wie geht’s?
-Super, und dir? Wie war das Essen mit Jan? Ist das Restaurant toll?
-Also, der Abend war super. Das Essen war nicht so gut, aber es war billig!
-Was? Ist das „Figaro“ nicht teuer?
-Das „Figaro“ schon, aber wir waren nicht dort. Wir waren im Café „Europa“.
-Warum das denn?
-Jan hatte Tobi, seinen Hund, dabei und im „Figaro“ sind Hunde verboten!
-Das ist ja schade! Und wie war es im Café?
-Na ja, das Essen war okay, aber die Pizza war kalt. Und die Getränke waren warm. Aber der Kellner war nett.
+Super, [und dir]? Wie war das Essen [mit Jan]? [Ist das] [Restaurant toll]?
+Also, der [Abend war] super. Das Essen war [nicht so] gut, aber es war billig!
+Was? [Ist das] „Figaro“ [nicht teuer]?
+Das „Figaro“ schon, aber wir waren [nicht dort]. Wir waren im Café „Europa“.
+Warum [das denn]?
+Jan hatte Tobi, [seinen] Hund, dabei und im „Figaro“ [sind Hunde verboten]!
+Das [ist ja] schade! [Und wie] war es im Café?
+Na ja, das Essen war okay, aber die Pizza war kalt. [Und die] Getränke waren warm. Aber der Kellner war nett.
 Oh je. Hattet ihr denn Spaß?
-Ja, zuerst hatten wir so Hunger. Und der Hund hatte Durst und war nervös. Aber dann war es schön. Jan ist sehr lustig und wir hatten viel Spaß.
-Das klingt gut! Wann trefft ihr euch wieder?
-Heute leider nicht. … Aber am Wochenende. Da gehen wir spazieren – mit Tobi in den Park. Da sind Hunde nicht verboten!`,
+Ja, [zuerst hatten] wir so Hunger. [Und der] Hund hatte Durst [und war] nervös. Aber dann war [es schön]. Jan [ist sehr] lustig [und wir hatten] viel Spaß.
+Das [klingt gut]! Wann trefft ihr euch wieder?
+Heute leider nicht. … Aber am Wochenende. Da gehen wir spazieren – [mit Tobi] in den Park. Da [sind Hunde nicht verboten]!`,
       },
       {
         id: 'k6-1.98',
         title: '1.98',
         audioSrc: '/1.98.mp3',
-        text: `Und jetzt noch unsere Tipps für August und September in Deutschland, Österreich und der Schweiz.
-Zuerst etwas für alle Sportfans: Erfurt bietet wieder einen Marathon, in der Stadt und auch viel in der Natur. Termin ist der 18.8. Sie können sich jetzt anmelden. Das Startgeld für den Halbmarathon ist 33 Euro und für den Marathon 39 Euro.
-Sie möchten nicht Sport machen, aber sehen? Dann gehen Sie doch zum Champions-League-Spiel Bayern München gegen den FC Basel. Sie spielen am 19. September in der Allianz Arena in München. Das Spiel beginnt um 20 Uhr 45. Karten gibt es noch für 80 Euro.
-Wenn Sie im August in Zürich sind, dann können Sie jeden Abend um 21 Uhr einen Film im Open-Air-Kino am Zürichsee sehen. Es gibt dieses Jahr auch zwei Termine für ein Double Feature, und zwar am 15.8. und am 22.8. Die Tickets kosten 12 Franken, die Double Features 15 Franken.
-Und hier noch ein Kulturtipp für Sie: Sie möchten nachts ins Museum? Dann gehen Sie am 28.8. zur langen Museumsnacht in Berlin. Alle Museen sind von 19 Uhr bis 3 Uhr in der Früh geöffnet. Ein Ticket kostet 13 Euro.
-Zum Schluss noch etwas für Musikfans. Mark Foster kommt nach Wien. Das Konzert ist am 16.9. um 20 Uhr. Es gibt noch Tickets ab 49 Euro.
+        text: `[Und jetzt] noch unsere Tipps für August [und September] in Deutschland, Österreich [und der] Schweiz.
+Zuerst etwas für alle Sportfans: Erfurt [bietet wieder] einen Marathon, in der Stadt und auch viel in der Natur. Termin [ist der] 18.8. Sie [können] sich jetzt anmelden. [Das Startgeld für] den Halbmarathon [ist 33] Euro [und für] den Marathon 39 Euro.
+Sie [möchten nicht Sport machen], aber [sehen]? Dann gehen Sie doch zum Champions-League-Spiel Bayern München [gegen] den FC Basel. Sie spielen am 19. September in der Allianz Arena in München. Das Spiel beginnt um 20 Uhr 45. [Karten gibt es] noch für 80 Euro.
+Wenn Sie im August in Zürich sind, dann [können] Sie [jeden Abend] um 21 Uhr einen Film im Open-Air-Kino am Zürichsee [sehen]. [Es gibt dieses] Jahr auch zwei Termine für ein Double Feature, [und zwar] am 15.8. und am 22.8. Die Tickets [kosten] 12 [Franken], die Double Features 15 [Franken].
+[Und hier] noch ein [Kulturtipp für] Sie: Sie [möchten] nachts ins Museum? Dann gehen Sie am 28.8. zur langen Museumsnacht in Berlin. Alle Museen [sind von] 19 Uhr bis 3 Uhr in der Früh geöffnet. Ein [Ticket kostet] 13 Euro.
+Zum Schluss noch etwas für Musikfans. Mark Foster [kommt nach] Wien. Das Konzert ist am 16.9. um 20 Uhr. [Es gibt noch] Tickets ab 49 Euro.
 Weitere Infos natürlich im Internet unter www.hitradio.de.`,
       },
     ],
