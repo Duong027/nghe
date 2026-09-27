@@ -753,44 +753,44 @@ Hier [ist Mara] Dobart, die Mutter von Florian [und Lena]. Meine Kinder [können
         id: 'k5-1.79',
         title: '1.79',
         audioSrc: '/1.79.mp3',
-        text: `Was machst du morgen? Hast du Zeit?
-Tut mir leid. Morgen muss ich arbeiten.
+        text: `Was [machst du] [morgen]? [Hast du] Zeit?
+[Tut mir] leid. [Morgen] muss ich [arbeiten].
 Schade. Und am Dienstag?
-Das geht.
+[Das geht].
 Wir können ins Kino gehen.
 Gute Idee! Wann? Um halb acht?
-Halb acht ist super.`,
+Halb acht [ist super].`,
       },
       {
         id: 'k5-1.80',
         title: '1.80',
         audioSrc: '/1.80.mp3',
-        text: `Guten Tag, Praxis Dr. Steinig, Svetlana Keller. Was kann ich für Sie tun?
-Guten Tag! Mein Name ist Mara Dobart. Ich hätte gern einen Termin.
-Können Sie am Freitag um 10:45 Uhr kommen?
-Nein, ich muss am Freitag arbeiten. Geht es auch am Montag?
-Nein, leider nicht, am Montag ist nichts frei. Geht es am Mittwoch um 11:30 Uhr?
-Ja, das geht. Vielen Dank.
-Also Mittwoch um 11:30 Uhr. Wie ist noch mal Ihr Name, bitte?
+        text: `[Guten] Tag, Praxis Dr. Steinig, Svetlana Keller. Was kann ich für Sie tun?
+[Guten] Tag! Mein Name [ist] Mara Dobart. Ich hätte gern [einen] Termin.
+Können Sie am Freitag um 10:45 Uhr [kommen]?
+Nein, ich muss am Freitag [arbeiten]. [Geht es] auch [am Montag]?
+Nein, leider nicht, am Montag [ist nichts frei]. [Geht es] [am Mittwoch] um 11:30 Uhr?
+Ja, [das geht]. Vielen Dank.
+Also Mittwoch um 11:30 Uhr. Wie [ist noch mal] Ihr Name, bitte?
 Mara Dobart.
-Danke, Frau Dobart. Bis Mittwoch. Auf Wiederhören.
-Danke. Auf Wiederhören.`,
+Danke, Frau Dobart. Bis Mittwoch. [Auf Wiederhören].
+Danke. [Auf Wiederhören].`,
       },
       {
         id: 'k5-1.81',
         title: '1.81',
         audioSrc: '/1.81.mp3',
-        text: `Gut gesagt: Höflichkeit
-Ich will einen Termin! Kann ich bitte einen Termin haben? Ich möchte bitte einen Termin. Ich hätte gern einen Termin.`,
+        text: `[Gut gesagt]: Höflichkeit
+Ich will [einen] Termin! Kann ich bitte [einen] Termin [haben]? Ich möchte bitte einen Termin. Ich hätte gern einen Termin.`,
       },
       {
         id: 'k5-1.82',
         title: '1.82',
         audioSrc: '/1.82.mp3',
-        text: `Guten Morgen! Mein Name ist Spiegel, ich habe einen Termin bei Frau Dr. Schwarz.
-Guten Tag, Herr Spiegel. Ja, stimmt, der Termin war um 10 Uhr 45. Es ist schon 10 Uhr 50.
+        text: `[Guten Morgen]! Mein Name [ist Spiegel], ich habe [einen] Termin bei Frau Dr. Schwarz.
+[Guten] Tag, Herr Spiegel. Ja, stimmt, der Termin war um 10 Uhr 45. Es [ist schon] 10 Uhr 50.
 Ja, ich weiß. Entschuldigen Sie! Die U-Bahn …
-Ja, ja, ist schon gut, Herr Spiegel. Gehen Sie bitte noch kurz ins Wartezimmer, die Doktorin kommt gleich.`,
+Ja, ja, [ist schon] gut, Herr Spiegel. Gehen Sie bitte noch kurz ins Wartezimmer, die Doktorin [kommt gleich].`,
       },
       {
         id: 'k5-1.83',
@@ -798,10 +798,10 @@ Ja, ja, ist schon gut, Herr Spiegel. Gehen Sie bitte noch kurz ins Wartezimmer, 
         audioSrc: '/1.83.mp3',
         text: `Hallo zusammen.
 Hallo.
-Grüß dich.
+[Grüß dich].
 Hallo Pia.
 Servus!
-Es tut mir leid, ich bin 15 Minuten zu spät. Wartet ihr schon lange?
+Es [tut mir] leid, [ich bin] 15 [Minuten] zu spät. Wartet ihr schon lange?
 Kein Problem. Zum Wohl, auf Pia.
 Zum Wohl!`,
       },
@@ -809,22 +809,22 @@ Zum Wohl!`,
         id: 'k5-1.84',
         title: '1.84',
         audioSrc: '/1.84.mp3',
-        text: `Wo ist Frau Moser?
+        text: `Wo [ist Frau] Moser?
 Ich weiß nicht.
-Es ist schon 10 nach 9. Wir beginnen ohne Frau Moser.
-Oh, Entschuldigung, tut mir leid. Der Bus …
-Wir warten schon 10 Minuten, Frau Moser. Jetzt können wir endlich beginnen.`,
+Es [ist schon] 10 nach 9. Wir beginnen ohne Frau Moser.
+Oh, Entschuldigung, [tut mir] leid. Der Bus …
+Wir [warten] schon 10 [Minuten], Frau Moser. [Jetzt können] wir endlich beginnen.`,
       },
       {
         id: 'k5-1.85',
         title: '1.85',
         audioSrc: '/1.85.mp3',
-        text: `Oh Mensch … Wo ist er denn? Das Essen ist schon lange fertig.
+        text: `Oh Mensch … Wo ist er denn? Das Essen [ist schon] lange fertig.
 Ja, echt. Ich habe Hunger!
-Ah, da kommt er! Hallo, da bist du ja endlich. Komm rein!
-Hallo, Lena. Entschuldigung, ich bin eine halbe Stunde zu spät. Es tut mir so leid.
-Na ja … Ich hoffe, das Essen ist jetzt nicht kalt …
-Hallo Leo. Da bist du ja. Schön, jetzt können wir essen.`,
+Ah, da kommt er! Hallo, da [bist du] ja endlich. Komm rein!
+Hallo, Lena. Entschuldigung, [ich bin] eine halbe Stunde zu spät. Es [tut mir] so leid.
+Na ja … Ich hoffe, das Essen [ist jetzt nicht kalt] …
+Hallo Leo. Da [bist du] ja. Schön, [jetzt können] wir essen.`,
       },
     ],
   },
@@ -836,76 +836,76 @@ Hallo Leo. Da bist du ja. Schön, jetzt können wir essen.`,
         id: 'k6-1.86',
         title: '1.86',
         audioSrc: '/1.86.mp3',
-        text: `Der Winter ist da, der Spaß im Schnee geht los. Die Skiwelt Hochberg startet am 25. November. Es gibt gratis Ski und Snowboards zum Testen. DJ Mudase ist auch dabei.`,
+        text: `Der Winter [ist da], der Spaß im Schnee [geht los]. Die Skiwelt Hochberg startet am 25. November. [Es gibt gratis] Ski [und Snowboards] zum [Testen]. DJ Mudase ist auch dabei.`,
       },
       {
         id: 'k6-1.87',
         title: '1.87',
         audioSrc: '/1.87.mp3',
-        text: `Wer ist dran?
+        text: `Wer [ist dran]?
 Du!
 Ich brauche eine Vier. Eins. Nur eine Eins. Keine Vier. Ich habe nie Glück!
-Fünf! Eins, zwei, drei, vier, fünf! Und tschühüss.
-Immer ich. Das ist so gemein! Kurz vor dem Ziel muss ich raus.`,
+Fünf! Eins, zwei, drei, vier, fünf! [Und] tschühüss.
+Immer ich. Das [ist so] gemein! Kurz vor dem Ziel muss ich raus.`,
       },
       {
         id: 'k6-1.88',
         title: '1.88',
         audioSrc: '/1.88.mp3',
-        text: `Pause machen, Freunde treffen, einen Kaffee trinken? Das Café Anna in der Keplerstraße ist der richtige Ort für Sie. Wir backen unsere Kuchen selbst. Im Café „Anna“ bekommen Sie feine Sachen in bester Qualität.`,
+        text: `Pause machen, Freunde treffen, einen Kaffee [trinken]? Das Café Anna in der Keplerstraße [ist der] richtige Ort für Sie. Wir [backen] unsere Kuchen selbst. Im Café „Anna“ [bekommen] Sie feine Sachen in bester Qualität.`,
       },
       {
         id: 'k6-1.89',
         title: '1.89',
         audioSrc: '/1.89.mp3',
-        text: `Was machst du heute Abend? Hast du schon was vor?
+        text: `Was [machst du] heute [Abend]? [Hast du] schon was vor?
 Nein, nichts Besonderes.
-Ich möchte heute einen Film sehen. Hast du auch Lust? Kommst du zu mir?
+Ich möchte heute [einen] Film [sehen]. [Hast du] auch Lust? [Kommst du] zu mir?
 Oh ja, das ist eine gute Idee. Wann?
-In zwei Stunden, um sieben?
-Ja, gut. Was möchtest du denn sehen? Und kann ich etwas mitbringen?`,
+In zwei [Stunden], um [sieben]?
+Ja, gut. Was [möchtest du] denn [sehen]? Und kann ich etwas [mitbringen]?`,
       },
       {
         id: 'k6-1.90',
         title: '1.90',
         audioSrc: '/1.90.mp3',
-        text: `Marc, wann hast du denn Geburtstag?
-Im Herbst – am 22.9. Und meine Freundin Susanne hat nur zwei Tage nach mir Geburtstag!
-Genau, ich habe am 24.9. – und meine Schwester Laura hat da auch Geburtstag!
+        text: `Marc, wann [hast du] denn Geburtstag?
+Im Herbst – am 22.9. [Und meine] Freundin Susanne [hat nur] zwei Tage nach mir Geburtstag!
+Genau, ich habe am 24.9. – und meine Schwester Laura [hat da] auch Geburtstag!
 Echt? So ein Zufall!
-Nein, wir sind Zwillinge. Und du, Sven?
+Nein, wir [sind Zwillinge]. [Und du], Sven?
 Ich habe am 31.12. Geburtstag.
-Oh! Da machst du bestimmt eine große Party!
-Nein, eigentlich nicht. Aber meine Frau Lena feiert sehr gern, sie hat nämlich am 29.2. Geburtstag.
-So ein Pech für Lena! Da hat sie nur alle vier Jahre Geburtstag.`,
+Oh! Da [machst du] bestimmt eine große Party!
+Nein, [eigentlich] nicht. Aber meine Frau Lena [feiert sehr] gern, sie [hat nämlich] am 29.2. Geburtstag.
+So ein Pech für Lena! Da [hat sie] nur alle vier Jahre Geburtstag.`,
       },
       {
         id: 'k6-1.91',
         title: '1.91',
         audioSrc: '/1.91.mp3',
-        text: `Herr Rauter hat im April Geburtstag. Herr Reuter feiert im Juni seinen Geburtstag. Herr Reiter hat im März Geburtstag. Frau Beimer feiert ihren Geburtstag im Mai. Frau Beumer hat im August Geburtstag. Frau Baumer feiert ihren Geburtstag auch im August.`,
+        text: `Herr Rauter hat im April Geburtstag. Herr Reuter feiert im Juni seinen Geburtstag. Herr Reiter hat [im März] Geburtstag. Frau Beimer feiert ihren Geburtstag [im Mai]. Frau Beumer hat im August Geburtstag. Frau Baumer feiert ihren Geburtstag auch im August.`,
       },
       {
         id: 'k6-1.92',
         title: '1.92',
         audioSrc: '/1.92.mp3',
-        text: `Meine Freundin Leela hat im Mai Geburtstag. Mein Freund Klaus hat auch im Mai Geburtstag. Klaus und Leela feiern zusammen am 9. Mai. Heute feiert mein Freund Paul Geburtstag. Wann hat deine Freundin Laura Geburtstag?`,
+        text: `Meine Freundin Leela hat [im Mai] Geburtstag. Mein Freund Klaus hat auch [im Mai] Geburtstag. Klaus und Leela feiern zusammen am 9. Mai. Heute [feiert mein] Freund Paul Geburtstag. Wann [hat deine] Freundin Laura Geburtstag?`,
       },
       {
         id: 'k6-1.93',
         title: '1.93',
         audioSrc: '/1.93.mp3',
-        text: `Guten Abend.
-Hallo. Wir möchten bestellen.
-Ja, gern. Was möchten Sie trinken?
-Für mich bitte eine Apfelsaftschorle. Und für dich, Leela? Ich lade dich ein.
+        text: `[Guten] Abend.
+Hallo. Wir [möchten bestellen].
+Ja, gern. Was [möchten] Sie trinken?
+Für mich bitte eine Apfelsaftschorle. [Und für] dich, Leela? Ich lade dich ein.
 Oh, danke! Bitte eine Cola.
-Und was möchten Sie essen?
-Für mich bitte einen Salat mit Käse.
+[Und was möchten] Sie essen?
+Für mich bitte einen [Salat mit Käse].
 Gern. Und für Sie?
-Für mich bitte eine Pizza mit Gemüse.
-Also: ein Salat mit Käse und einmal Pizza mit Gemüse.
-Können Sie auch Wasser für den Hund bringen?
+Für mich bitte eine Pizza [mit Gemüse].
+Also: ein [Salat mit Käse] und [einmal] Pizza [mit Gemüse].
+Können Sie auch Wasser für den Hund [bringen]?
 Für wen?
 Für den Hund, er hat auch Durst.
 Ja, natürlich, ich bringe gleich Wasser für ihn.`,
@@ -914,34 +914,34 @@ Ja, natürlich, ich bringe gleich Wasser für ihn.`,
         id: 'k6-1.94',
         title: '1.94',
         audioSrc: '/1.94.mp3',
-        text: `Was möchten Sie trinken?
-Für mich bitte eine Apfelsaftschorle. Und für dich, Leela? Ich lade dich ein.
+        text: `Was [möchten] Sie trinken?
+Für mich bitte eine Apfelsaftschorle. [Und für] dich, Leela? Ich lade dich ein.
 Oh, danke! Bitte eine Cola.
-Und was möchten Sie essen?
-Für mich bitte einen Salat mit Käse.
+[Und was möchten] Sie essen?
+Für mich bitte einen [Salat mit Käse].
 Gern. Und für Sie?
-Für mich bitte eine Pizza mit Gemüse. Können Sie auch Wasser für den Hund bringen?
+Für mich bitte eine Pizza [mit Gemüse]. Können Sie auch Wasser für den Hund [bringen]?
 Ja, natürlich, ich bringe gleich Wasser für ihn.`,
       },
       {
         id: 'k6-1.95',
         title: '1.95',
         audioSrc: '/1.95.mp3',
-        text: `Entschuldigung, können wir bitte zahlen?
-Einen Moment, bitte. So, zusammen oder getrennt?
-Zusammen!
-Das macht dann 25,30 €.
-Stimmt so.
+        text: `Entschuldigung, können wir bitte [zahlen]?
+Einen Moment, bitte. So, [zusammen] oder getrennt?
+[Zusammen]!
+Das [macht dann] 25,30 €.
+[Stimmt so].
 Danke!`,
       },
       {
         id: 'k6-1.96',
         title: '1.96',
         audioSrc: '/1.96.mp3',
-        text: `Gut gesagt: Trinkgeld geben
+        text: `[Gut gesagt]: [Trinkgeld geben]
 Das macht 18 Euro 90.
-Stimmt so.
-Das macht 17 Euro 90.
+[Stimmt so].
+Das [macht 17] Euro 90.
 19, bitte. / Machen Sie 19 Euro, bitte.
 Danke.`,
       },
