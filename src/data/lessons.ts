@@ -16,7 +16,7 @@ export const chaptersData: Chapter[] = [
         audioSrc: '/1.1.mp3',
         text: `Hallo Nina!
 Hallo Niklas! Wie geht’s?
-Danke, sehr gut! [Und dir]?
+Danke, sehr gut! Und dir?
 [Ganz gut], danke.`,
       },
       {
@@ -24,10 +24,10 @@ Danke, sehr gut! [Und dir]?
         title: '1.2',
         audioSrc: '/1.2.mp3',
         text: `Hallo Nina!
-Hallo Julia! Wie geht’s dir?
+Hallo Julia! Wie [geht’s dir]?
 Danke, gut. [Und dir]?
-Auch gut, danke.
-Hallo, ich bin Julia. [Und du]? Wer [bist du]?
+[Auch gut], danke.
+Hallo, [ich bin] Julia. [Und du]? Wer [bist du]?
 Ich heiße Niklas.
 Entschuldigung, wie [heißt du]?
 Niklas`,
