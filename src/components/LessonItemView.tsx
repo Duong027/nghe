@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useRef } from 'react';
+import { Repeat } from 'lucide-react';
 import { LessonItem } from '../types';
 import { translateGermanToVietnamese } from '../services/translate';
 
@@ -13,12 +14,21 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
   const [translations, setTranslations] = useState<Record<number, string>>({});
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [playbackRate, setPlaybackRate] = useState<number>(1);
+  const [isLooping, setIsLooping] = useState<boolean>(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   const handleSetSpeed = (rate: number) => {
     setPlaybackRate(rate);
     if (audioRef.current) {
       audioRef.current.playbackRate = rate;
+    }
+  };
+
+  const handleToggleLoop = () => {
+    const nextLoop = !isLooping;
+    setIsLooping(nextLoop);
+    if (audioRef.current) {
+      audioRef.current.loop = nextLoop;
     }
   };
 
@@ -154,13 +164,14 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
         </div>
       )}
 
-      {/* Audio player gốc của trình duyệt */}
+      {/* Audio player gốc của trình duyệt và nút Lặp lại */}
       {lesson.audioSrc ? (
-        <div className="w-full max-w-lg">
+        <div className="flex items-center gap-2.5 w-full max-w-xl">
           <audio
             ref={audioRef}
             id={`audio-${lesson.id}`}
             controls
+            loop={isLooping}
             controlsList="nodownload"
             onContextMenu={(e) => e.preventDefault()}
             onError={() => {
@@ -169,8 +180,11 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
               }
             }}
             onPlay={() => {
-              if (audioRef.current && audioRef.current.playbackRate !== playbackRate) {
-                audioRef.current.playbackRate = playbackRate;
+              if (audioRef.current) {
+                if (audioRef.current.playbackRate !== playbackRate) {
+                  audioRef.current.playbackRate = playbackRate;
+                }
+                audioRef.current.loop = isLooping;
               }
             }}
             onRateChange={() => {
@@ -178,11 +192,27 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
                 setPlaybackRate(audioRef.current.playbackRate);
               }
             }}
-            className="w-full h-11 focus:outline-none"
+            className="flex-1 min-w-0 h-11 focus:outline-none"
             src={lesson.audioSrc}
           >
             Trình duyệt của bạn không hỗ trợ thẻ audio.
           </audio>
+
+          <button
+            id={`loop-${lesson.id}`}
+            type="button"
+            onClick={handleToggleLoop}
+            aria-pressed={isLooping}
+            title={isLooping ? 'Đang bật lặp lại liên tục (Bấm để tắt)' : 'Bật chế độ lặp lại liên tục'}
+            className={`inline-flex items-center gap-1.5 px-3 h-10 rounded-full text-xs font-medium transition-all shrink-0 cursor-pointer ${
+              isLooping
+                ? 'bg-emerald-600 text-white shadow-xs font-semibold ring-2 ring-emerald-600/30 dark:bg-emerald-500 dark:text-stone-950 dark:ring-emerald-400/30'
+                : 'bg-stone-100 hover:bg-stone-200 text-stone-600 dark:bg-stone-800 dark:hover:bg-stone-750 dark:text-stone-300 border border-stone-200 dark:border-stone-700'
+            }`}
+          >
+            <Repeat className={`w-3.5 h-3.5 ${isLooping ? 'stroke-[2.5]' : ''}`} />
+            <span>{isLooping ? 'Đang lặp' : 'Lặp lại'}</span>
+          </button>
         </div>
       ) : !hasContent ? (
         <p className="text-xs text-stone-400 dark:text-stone-500 italic">
