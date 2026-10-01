@@ -75,9 +75,9 @@ Frau Weber.
         title: '1.7',
         audioSrc: '/1.7.mp3',
         text: `Woher kommen Sie, Frau Lang?
-Ich komme aus Deutschland.
+Ich komme [aus Deutschland].
 Welche Sprachen sprechen Sie?
-Ich spreche Spanisch, Englisch und Deutsch.
+Ich spreche Spanisch, Englisch [und Deutsch].
 Wo wohnen Sie?
 Ich wohne in Frankfurt.`,
       },
@@ -93,11 +93,11 @@ Ich wohne in Frankfurt.`,
         audioSrc: '/1.9.mp3',
         text: `[Guten] Tag, Hotel Central.
 [Guten] Tag, Philip Klein. Ich möchte Frau Berg sprechen.
-Frau Berg [ist] [nicht da]. Kann sie zurückrufen?
+Frau Berg [ist nicht da]. Kann sie zurückrufen?
 Ja, bitte.
 Wie ist Ihre Nummer, bitte?
 0159 – 8234607.
-Also, 0159 – 8234607?
+Also, 0159 – 823460[7]?
 Ja, vielen Dank`,
       },
       {
@@ -106,12 +106,12 @@ Ja, vielen Dank`,
         audioSrc: '/1.10.mp3',
         text: `[Guten] Tag, Hotel Central.
 [Guten] Tag, Petra Groß. Ich möchte Frau Müller sprechen.
-Frau Müller [ist] [nicht da]. Kann sie zurückrufen?
+Frau Müller [ist nicht da]. Kann sie zurückrufen?
 Ja, bitte.
 Wie ist Ihre Telefonnummer, bitte?
 015[7] – 8316924.
 0157 – 8316924?
-Ja, das [ist] richtig. Vielen Dank.`,
+Ja, das [ist richtig]. Vielen Dank.`,
       },
       {
         id: 'k1-1.11',
@@ -123,14 +123,14 @@ Ja, das [ist] richtig. Vielen Dank.`,
         id: 'k1-1.12',
         title: '1.12',
         audioSrc: '/1.12.mp3',
-        text: `Wie [ist] deine E-Mail-Adresse?
+        text: `Wie [ist deine] E-Mail-Adresse?
 ruben-gonzalez@esweb.net.
-Wie bitte? Noch [mal] … Ruben …
+Wie bitte? Noch mal … Ruben …
 Ruben minus Gonzalez: G O N Z A L E Z @ E S W E B Punkt net.
-[Ist] das richtig so? Ruben minus Gonzalez [mit Z] @ esweb Punkt net?
-Ja, das stimmt. Und wie [ist] deine E-Mail-Adresse?
+[Ist das richtig] so? Ruben minus Gonzalez [mit Z] @ esweb Punkt net?
+Ja, [das stimmt]. [Und wie] [ist deine] E-Mail-Adresse?
 Maria_1811@inet.com.
-Bitte noch [mal]! [Kannst du] sie buchstabieren?
+Bitte noch mal! [Kannst du] sie buchstabieren?
 M A R I A Unterstrich achtzehn elf @ I N E T Punkt com.
 Danke.`,
       },
@@ -988,12 +988,12 @@ Weitere Infos natürlich im Internet unter www.hitradio.de.`,
         title: '2.1',
         audioSrc: '/2.1.mp3',
         text: `Gespräch 1
-Guten Morgen.
+[Guten Morgen].
 Morgen! Einen Kaffee zum Mitnehmen, bitte.
 Groß oder klein?
 Groß.
-Alles klar. Das macht dann 3,60 €.
-Hier bitte. Haben Sie keinen Zucker?
+Alles klar. Das [macht dann] 3,60 €.
+Hier bitte. [Haben] Sie [keinen] Zucker?
 Doch. Hier steht er.
 Ah, danke.`,
       },
@@ -1002,13 +1002,13 @@ Ah, danke.`,
         title: '2.2',
         audioSrc: '/2.2.mp3',
         text: `Gespräch 2
-Morgen, Adnan.
+[Morgen], Adnan.
 Hallo Laura. Wie geht‘s?
-Danke, gut. Und dir?
-Auch alles gut. Sehen wir uns später?
-Klar, wir haben einen Termin bei der Firma Pohl.
-Ja, stimmt. Um drei. Dann bis später!
-Bis dann, ich hole dich ab.
+Danke, gut. [Und dir]?
+Auch [alles gut]. Sehen wir [uns später]?
+Klar, wir [haben einen] Termin bei der Firma Pohl.
+Ja, stimmt. Um drei. Dann [bis später]!
+[Bis dann], ich hole dich ab.
 Super!`,
       },
       {
@@ -1017,12 +1017,12 @@ Super!`,
         audioSrc: '/2.3.mp3',
         text: `Gespräch 3
 Hallo!
-Guten Morgen. Sind Sie Herr Demir?
+[Guten Morgen]. [Sind Sie] Herr Demir?
 Ja, genau. Adnan Demir.
-Ich habe ein Paket für Sie. Können Sie bitte hier unterschreiben?
+Ich habe ein [Paket für] Sie. Können Sie bitte hier [unterschreiben]?
 Natürlich, gern.
-Und hier Ihr Paket.
-Danke schön. Und einen schönen Tag noch!
+[Und hier] Ihr Paket.
+Danke schön. Und [einen schönen] Tag noch!
 Tschüs.`,
       },
       {
@@ -1032,8 +1032,8 @@ Tschüs.`,
         text: `Gespräch 4
 Entschuldigung!
 Ja, bitte?
-Können Sie mir vielleicht helfen? Ich brauche ein Ticket zum Hauptbahnhof.
-Zum Hauptbahnhof. Sie brauchen ein Ticket für eine Zone. Das kostet 1,80 €.
+Können Sie mir [vielleicht helfen]? Ich brauche ein [Ticket zum] Hauptbahnhof.
+Zum Hauptbahnhof. Sie brauchen ein [Ticket für] eine Zone. Das kostet 1,80 €.
 Alles klar. Danke sehr!
 Bitte sehr!`,
       },
@@ -1042,34 +1042,34 @@ Bitte sehr!`,
         title: '2.5',
         audioSrc: '/2.5.mp3',
         text: `Hi Rita!
-Morgen, Adnan. Hallo Elias, komm rein.
-Du, Rita, ich hole Elias heute etwas später.
-Kein Problem. Wir haben ja bis sechs geöffnet.
-Super. Ich denke, ich bin so um fünf Uhr da.
-Alles klar, dann bis später!
+[Morgen], Adnan. Hallo Elias, komm rein.
+Du, Rita, ich hole Elias heute [etwas später].
+Kein Problem. Wir [haben] ja [bis sechs] geöffnet.
+Super. Ich denke, [ich bin] so um fünf Uhr da.
+Alles klar, dann [bis später]!
 Tschüs, Rita! Viel Spaß, Elias!`,
       },
       {
         id: 'k7-2.6',
         title: '2.6',
         audioSrc: '/2.6.mp3',
-        text: `Laura, möchtest du auch einen Kaffee trinken?
-Gern, dann kann ich auch gleich etwas fragen.
-Was hast du denn für Fragen?
-Also, ich möchte nächste Woche am Mittwoch frei haben. Was muss ich da machen?
-Du musst mit der Chefin sprechen. Warum möchtest du denn Urlaub nehmen?
-Ach, ich fahre mit einer Freundin und einem Freund zu einem Konzert nach Stuttgart. Wir fahren mit dem Auto und wollen dort übernachten.
+        text: `Laura, [möchtest du] auch [einen] Kaffee [trinken]?
+Gern, dann kann ich auch gleich etwas [fragen].
+Was [hast du] denn für [Fragen]?
+Also, ich möchte nächste Woche [am Mittwoch] frei [haben]. Was muss ich da machen?
+Du [musst mit der] Chefin sprechen. Warum [möchtest du] denn Urlaub [nehmen]?
+Ach, ich fahre mit einer Freundin und einem Freund zu einem [Konzert nach] Stuttgart. Wir fahren [mit dem] Auto [und wollen] dort [übernachten].
 Ah, schön.
 Kann ich am Dienstag auch schon um 15 Uhr gehen?
-Hm, das ist nicht so gut. Die Arbeitszeit ist eigentlich bis 16 Uhr. Aber sprich mit deinen Kollegen und mit der Chefin. Vielleicht ist es okay für sie.
-Hoffentlich. Und unsere Besprechung heute Nachmittag: Fahren wir mit U-Bahn oder mit dem Bus?
-Hm, gute Frage. Die Firma von dem Kunden ist nicht im Zentrum. Vielleicht fahren wir mit der U-Bahn und dann mit dem Taxi.
-Und mit wem sprechen wir da?
-Mit dem Chef, Herrn Palko, und mit einer Assistentin. Herr Palko ist sehr nett.
-Ich bin schon neugierig. Und dann noch eine Frage. Morgen habe ich Geburtstag.
+Hm, das [ist nicht so] gut. Die Arbeitszeit [ist eigentlich] bis 16 Uhr. Aber sprich [mit deinen Kollegen] [und mit der] Chefin. Vielleicht [ist es] okay für sie.
+Hoffentlich. Und unsere Besprechung heute Nachmittag: [Fahren] wir mit U-Bahn oder [mit dem] Bus?
+Hm, gute Frage. Die Firma von dem [Kunden ist nicht] im Zentrum. Vielleicht fahren wir [mit der] U-Bahn [und dann mit dem] Taxi.
+[Und mit wem] sprechen wir da?
+[Mit dem] Chef, Herrn Palko, [und mit] einer Assistentin. Herr Palko [ist sehr] nett.
+[Ich bin] schon neugierig. [Und dann noch] eine Frage. [Morgen] habe ich Geburtstag.
 Echt? Wie schön!
-Ja, und ich möchte gern mit allen Mitarbeitern feiern. Ich bringe einen Schokoladenkuchen mit.
-Super, dann können wir am Vormittag zusammen feiern.`,
+Ja, und ich möchte gern mit [allen] Mitarbeitern feiern. Ich bringe [einen] Schokoladenkuchen mit.
+Super, dann können wir am Vormittag [zusammen] feiern.`,
       },
       {
         id: 'k7-2.7',
@@ -1101,62 +1101,62 @@ Durst`,
         id: 'k7-2.9',
         title: '2.9',
         audioSrc: '/2.9.mp3',
-        text: `Hey, guten Morgen!
-Guten Morgen, Tom! Fährst du immer mit diesem Bus?
-Ja, aber du fährst doch eigentlich mit dem Fahrrad ins Büro, oder?
-Ja, das stimmt, aber heute ist das Wetter nicht so gut.
-Schön, dann können wir ja ein bisschen reden auf dem Weg in die Firma. Wo ist jetzt eigentlich dein neues Büro?
-Ich bin jetzt im 3. Stock, im Raum 318.
-Ah ja. Zusammen mit Marie?
-Ja, genau. Und wie läuft es bei dir?
-Ganz gut. Ich hatte viel Stress in den letzten Tagen, aber heute ist ein ruhiger Tag ohne Stress, glaube ich.
-Echt? Da hast du ja Glück.
-Ja, ich habe heute Vormittag nur einen Termin bei der Bank. Wir müssen über neue Projekte sprechen. Und dann can ich in Ruhe am Computer arbeiten: Mails schreiben und so weiter.
-Na, das klingt ja gut.
-Ja, der Termin dauert auch nur ungefähr eine Stunde. Das ist echt gut. Und du?
-Ach, heute ist auch ein ganz normaler Arbeitstag. Zuerst muss ich zur Post gehen, dann habe ich einen Kundentermin und dann muss ich zusammen mit Kollegen eine Präsentation planen.
+        text: `Hey, [guten Morgen]!
+[Guten Morgen], Tom! [Fährst du] immer [mit diesem] Bus?
+Ja, aber du [fährst doch eigentlich mit dem] Fahrrad [ins Büro], oder?
+Ja, [das stimmt], aber heute [ist das] Wetter [nicht so] gut.
+Schön, dann [können] wir ja ein bisschen reden [auf dem] Weg in die Firma. Wo [ist jetzt] [eigentlich dein neues Büro]?
+[Ich bin] jetzt im 3. Stock, im Raum 318.
+Ah ja. [Zusammen mit Marie]?
+Ja, genau. [Und wie] läuft [es bei] dir?
+[Ganz gut]. Ich hatte viel Stress in den [letzten Tagen], aber heute ist ein ruhiger Tag ohne Stress, glaube ich.
+Echt? Da [hast du] ja Glück.
+Ja, ich habe heute Vormittag nur [einen] Termin bei der Bank. Wir müssen über neue Projekte sprechen. [Und dann] kann ich in Ruhe am Computer [arbeiten]: [Mails schreiben] [und so] weiter.
+Na, das [klingt ja] gut.
+Ja, der Termin dauert auch nur ungefähr eine Stunde. Das ist [echt gut]. [Und du]?
+Ach, heute ist auch ein ganz normaler Arbeitstag. [Zuerst muss] ich zur Post [gehen], dann habe ich einen [Kundentermin] [und dann] muss ich zusammen [mit Kollegen] eine Präsentation [planen].
 Ah, für das große Meeting nächste Woche?
-Genau. Um 15 Uhr habe ich einen sehr wichtigen Termin mit dem Chef.
-Mit Herrn Schmidt?
-Ja. Und du kennst ihn ja …
-Und dann muss ich noch einen Bericht schreiben.
-Das klingt aber nach Stress. Da kannst du heute wahrscheinlich nicht um 17 Uhr nach Hause gehen.
-Ja, es wird wohl spät. Ah, wir sind ja schon da. Gehen wir noch zusammen bis zur Firma?
+Genau. Um 15 Uhr habe ich einen sehr [wichtigen] Termin [mit dem] Chef.
+[Mit Herrn] Schmidt?
+Ja. [Und du] kennst ihn ja …
+[Und dann] muss ich noch [einen Bericht schreiben].
+Das klingt aber nach Stress. Da [kannst du] heute wahrscheinlich nicht um 17 Uhr nach Hause [gehen].
+Ja, es wird wohl spät. Ah, wir [sind ja] schon da. Gehen wir noch [zusammen] bis zur Firma?
 Ja, klar.`,
       },
       {
         id: 'k7-2.10',
         title: '2.10',
         audioSrc: '/2.10.mp3',
-        text: `Gut gesagt: Probleme mit Medien
+        text: `[Gut gesagt]: Probleme [mit Medien]
 Ich habe kein Netz.
-Das WLAN ist so langsam.
-Ich bin seit Tagen offline.
-Mist, mein Akku ist leer.`,
+Das WLAN [ist so] langsam.
+[Ich bin seit Tagen] offline.
+Mist, mein Akku [ist leer].`,
       },
       {
         id: 'k7-2.11',
         title: '2.11',
         audioSrc: '/2.11.mp3',
         text: `1.
-Ist das wieder heiß heute, oder?
-Ja, das stimmt. Zum Arbeiten etwas zu heiß. Da möchte man lieber an den See oder ins Schwimmbad gehen.
-Oh ja, ein toller Sommer dieses Jahr. Also, einen schönen Tag noch!
+[Ist das] wieder heiß heute, oder?
+Ja, [das stimmt]. Zum [Arbeiten] etwas zu heiß. Da möchte man lieber an den See oder [ins Schwimmbad gehen].
+Oh ja, ein toller Sommer dieses Jahr. Also, [einen schönen] Tag noch!
 Danke, Ihnen auch!
 2.
 Alles klar?
-Ja, ja, alles gut. Sag mal, hast du gestern auch das Fußballspiel gesehen?
-Ja, das war echt spannend, oder?
-Zum Glück haben wir gewonnen. Das 3:2 war ja wichtig. Nächste Woche spielen wir dann gegen Stuttgart.
-Am Samstag, oder? Du, ich muss los. Bis später.
-Ja, bis dann.
+Ja, ja, [alles gut]. Sag mal, [hast du] gestern auch das Fußballspiel [gesehen]?
+Ja, das war [echt spannend], oder?
+Zum Glück [haben] wir [gewonnen]. Das 3:2 war ja wichtig. Nächste Woche spielen wir dann gegen Stuttgart.
+Am Samstag, oder? Du, ich muss los. [Bis später].
+Ja, [bis dann].
 3.
-Guten Morgen!
-Guten Morgen! Na, wie war das Wochenende?
-Sehr schön. Wir hatten Familienbesuch und das ist ja immer schön, aber auch ein bisschen anstrengend. Und bei Ihnen?
-Auch gut, danke. Wir waren in Berlin und haben Freunde besucht.
-Ah, das klingt auch gut.
-Ja, es war wirklich nett. Also, bis später.
+[Guten Morgen]!
+[Guten Morgen]! Na, wie war das Wochenende?
+Sehr schön. Wir [hatten] Familienbesuch [und das ist ja] immer schön, aber auch ein bisschen anstrengend. [Und bei] Ihnen?
+[Auch gut], danke. Wir waren in Berlin [und haben] Freunde besucht.
+Ah, das klingt [auch gut].
+Ja, es war wirklich nett. Also, [bis später].
 Tschüs.`,
       },
     ],
