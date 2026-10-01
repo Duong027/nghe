@@ -1171,45 +1171,45 @@ Tschüs.`,
         title: '2.12',
         audioSrc: '/2.12.mp3',
         text: `Nachricht 1
-Hi, Thomas hier. Du, ich finde dein Experiment okay – also, gesund … Aber ist es nicht langweilig? Du gehst jeden Abend früh ins Bett … Wir vermissen dich schon! Gesund leben ist ja okay, aber die Freunde vergessen? Das finde ich nicht okay. Also komm! Am Freitag gehen wir wieder ins „Nightlife“ – Wir warten auf dich!!!`,
+Hi, [Thomas hier]. Du, ich finde dein Experiment okay – also, gesund … Aber [ist es] [nicht langweilig]? Du [gehst jeden Abend] früh [ins Bett] … Wir vermissen dich schon! [Gesund leben ist ja] okay, aber die Freunde vergessen? Das finde ich nicht okay. Also komm! Am Freitag gehen wir wieder ins „Nightlife“ – Wir [warten auf dich]!!!`,
       },
       {
         id: 'k8-2.13',
         title: '2.13',
         audioSrc: '/2.13.mp3',
         text: `Nachricht 2
-Hallo Annika, ich bin’s, Claire. Na, wie geht’s dir? Ich finde dein Experiment echt gut! Du machst das super. Ich will auch mehr Sport machen, das ist so wichtig, aber alleine ist es langweilig … hm … Ich will heute schwimmen gehen. Hast du Lust? Bitte komm mit! Um halb sieben, okay? Tschüs.`,
+Hallo Annika, ich bin’s, Claire. Na, wie [geht’s dir]? Ich finde dein Experiment [echt gut]! Du [machst das super]. Ich will auch mehr [Sport machen], das [ist so] wichtig, aber alleine [ist es] langweilig … hm … Ich will heute [schwimmen gehen]. [Hast du] Lust? Bitte komm mit! Um halb [sieben], okay? Tschüs.`,
       },
       {
         id: 'k8-2.14',
         title: '2.14',
         audioSrc: '/2.14.mp3',
         text: `Nachricht 3
-Ja hallo, ich bin‘s, Mama. Wie geht es dir? Du isst ja jetzt so wenig und machst so viel Sport! Ich weiß nicht … Ist das wirklich gut für dich? Das ist gefährlich … Geht es dir gut? Hast du am Wochenende Zeit? Komm doch zu uns. Ich koche dir etwas. Dein Lieblingsessen! Melde dich.`,
+Ja hallo, ich bin‘s, Mama. Wie [geht es dir]? Du [isst ja jetzt so] wenig [und machst so] viel Sport! Ich weiß nicht … [Ist das wirklich] [gut für] dich? Das [ist gefährlich] … [Geht es dir] gut? [Hast du] am Wochenende Zeit? Komm doch zu uns. Ich koche dir etwas. Dein Lieblingsessen! Melde dich.`,
       },
       {
         id: 'k8-2.15',
         title: '2.15',
         audioSrc: '/2.15.mp3',
-        text: `Also, Svenja, wir machen jetzt einen Fitness-Test.
-Okay. Hoffentlich bin ich fit genug.
-Ich muss erst das Gerät einstellen. Wie alt bist du?
-Ich bin jetzt 27.
-Alles klar. Und wie groß bist du?
+        text: `Also, Svenja, wir machen jetzt [einen] Fitness-Test.
+Okay. Hoffentlich bin ich [fit genug].
+Ich muss [erst das Gerät einstellen]. Wie [alt bist du]?
+[Ich bin] [jetzt 27].
+Alles klar. [Und wie] [groß bist du]?
 1,75 m.
-Und dann brauche ich bitte noch dein Gewicht. Wie viel wiegst du?
-Oh, das möchte ich eigentlich nicht sagen.
+[Und dann] brauche [ich bitte] [noch dein] Gewicht. Wie viel [wiegst du]?
+Oh, das möchte ich [eigentlich nicht sagen].
 Entschuldige, aber das brauche ich für den Test.
 Also gut, ungefähr 73 kg.
-Gut, dann machen wir jetzt zuerst den Fitness-Test.`,
+Gut, dann machen wir [jetzt zuerst den] Fitness-Test.`,
       },
       {
         id: 'k8-2.16',
         title: '2.16',
         audioSrc: '/2.16.mp3',
-        text: `Kommen Sie zum neuen Fitness-Studio Bause in der Hauptstraße 27 in Buchheim. Trainieren Sie bei uns – mit Erfolg! 
-Wir haben ein neues Sommerprogramm für Sie – im Sportclub Tegel am Marktplatz in Dorfen. Kommen Sie zum Sportclub Tegel! 
-Nach dem Winter wieder fit werden – das geht ganz einfach im Fitness-Studio Karo. Sie finden uns in Kösnitz im Sportzentrum.`,
+        text: `Kommen Sie zum neuen Fitness-Studio Bause in der Hauptstraße 27 in Buchheim. Trainieren Sie bei uns – mit Erfolg!
+Wir [haben] ein [neues Sommerprogramm] für Sie – im Sportclub Tegel [am Marktplatz] in Dorfen. Kommen Sie zum Sportclub Tegel!
+[Nach dem] Winter wieder [fit werden] – [das geht ganz] einfach im Fitness-Studio Karo. Sie [finden] uns in Kösnitz im Sportzentrum.`,
       },
       {
         id: 'k8-2.17',
@@ -1227,71 +1227,71 @@ g: gut, joggen, gesund`,
         title: '2.18',
         audioSrc: '/2.18.mp3',
         text: `Frau Pohn, bitte.
-Guten Tag, Klimke.
-Guten Tag, Frau Doktor Klimke. Pohn.
-Was ist los, Frau Pohn?
-Ich hatte einen Unfall mit dem Fahrrad. Mein Knie tut weh.
-Legen Sie sich da hin, bitte. Tut das weh?
+[Guten] Tag, Klimke.
+[Guten] Tag, Frau Doktor Klimke. Pohn.
+Was [ist los], Frau Pohn?
+Ich hatte [einen] Unfall [mit dem] Fahrrad. Mein Knie [tut weh].
+Legen Sie [sich da] hin, bitte. [Tut das] weh?
 Ja, ein bisschen. Aua!
-Ich muss die Wunde sauber machen. Dann mache ich einen Verband.
-Wann muss ich den Verband wechseln?
-Immer morgens und abends. Bewegen Sie das Bein nur wenig. Ich gebe Ihnen auch ein Rezept für eine Salbe.
-Dann gehe ich gleich zur Apotheke und hole die Salbe. Muss ich noch einmal zur Kontrolle kommen?
-Nein, aber bei Problemen kommen Sie bitte gleich. Auf Wiedersehen und gute Besserung.
-Vielen Dank. Auf Wiedersehen.`,
+Ich muss die Wunde sauber machen. Dann [mache ich] [einen] Verband.
+Wann muss [ich den] Verband wechseln?
+Immer [morgens] und [abends]. [Bewegen] Sie [das Bein] nur wenig. Ich gebe [Ihnen] auch ein [Rezept für] eine Salbe.
+Dann [gehe ich] gleich zur Apotheke [und hole] die Salbe. Muss ich noch [einmal] zur Kontrolle [kommen]?
+Nein, aber bei [Problemen kommen] Sie bitte gleich. [Auf Wiedersehen] [und gute] Besserung.
+Vielen Dank. [Auf Wiedersehen].`,
       },
       {
         id: 'k8-2.19',
         title: '2.19',
         audioSrc: '/2.19.mp3',
-        text: `Gut gesagt: Das tut weh!
+        text: `[Gut gesagt]: Das [tut weh]!
 Au! Aua! Autsch! Ahh!`,
       },
       {
         id: 'k8-2.20',
         title: '2.20',
         audioSrc: '/2.20.mp3',
-        text: `Herr Doktor, ich habe Bauchschmerzen! Und mir ist so schlecht.
-Wo genau tut es denn weh?
+        text: `Herr Doktor, ich habe Bauchschmerzen! [Und mir] [ist so] schlecht.
+Wo genau [tut es denn] weh?
 Ja, hier. Da auch, überall.
-Wie lange haben Sie die Schmerzen schon?
-Seit gestern!
-Was haben Sie denn gestern Abend gegessen?
-Abendbrot, ganz normal, wie immer.
-Essen Sie heute nichts. Aber Sie dürfen viel trinken. Tee, Kamillentee ist gut. Sie müssen drei Tage zu Hause bleiben.
-Aber, ich muss arbeiten!
-Nein. Sie dürfen nicht arbeiten. Bleiben Sie zu Hause.
-Aber es ist so wichtig.`,
+Wie lange [haben] Sie die Schmerzen schon?
+[Seit gestern]!
+Was [haben] Sie denn gestern [Abend] gegessen?
+[Abendbrot], ganz normal, wie immer.
+Essen Sie heute nichts. Aber Sie dürfen viel trinken. Tee, Kamillentee [ist gut]. Sie müssen drei Tage zu Hause [bleiben].
+Aber, ich muss [arbeiten]!
+Nein. Sie dürfen nicht [arbeiten]. [Bleiben] Sie zu Hause.
+Aber es [ist so] wichtig.`,
       },
       {
         id: 'k8-2.21',
         title: '2.21',
         audioSrc: '/2.21.mp3',
-        text: `Wie lange sind Sie schon krank?
+        text: `Wie lange [sind Sie] schon krank?
 Schon drei Tage.
-Setzen Sie sich. Ich muss Sie untersuchen. Sagen Sie “Aah”.
-“Ooooh”. 
-Haben Sie auch Fieber?
-Ja. Heute Morgen hatte ich 38,6.
-Und husten? Müssen Sie oft husten?
+Setzen Sie sich. Ich muss Sie untersuchen. [Sagen] Sie “Aah”.
+“Ooooh”.
+[Haben] Sie auch Fieber?
+Ja. Heute [Morgen] hatte ich 38,6.
+[Und husten]? Müssen Sie [oft husten]?
 Ja.
-Das ist eine Erkältung, alle sind im Moment erkältet. Ich gebe Ihnen ein Rezept für Hustensaft. Den müssen Sie abends nehmen.
-Darf ich baden?
-Nein. Mit Fieber dürfen Sie nicht baden oder Ihre Haare waschen. Kurz duschen, das geht. Und rauchen Sie nicht!
-Und wie lange darf …?`,
+Das ist eine Erkältung, alle [sind im Moment] erkältet. Ich gebe Ihnen ein [Rezept für] [Hustensaft]. Den müssen Sie [abends] nehmen.
+Darf ich [baden]?
+Nein. [Mit Fieber] dürfen Sie [nicht baden] oder Ihre Haare waschen. [Kurz duschen], [das geht]. [Und rauchen] Sie nicht!
+[Und wie] lange darf …?`,
       },
       {
         id: 'k8-2.22',
         title: '2.22',
         audioSrc: '/2.22.mp3',
-        text: `Was ist das Problem, Herr Köck?
-Mein Arm tut weh, ich kann ihn nicht richtig bewegen.
-Legen Sie sich mal hin, bitte. Ich nehme mal Ihren Arm. Tut das weh?
+        text: `Was [ist das] Problem, Herr Köck?
+Mein Arm [tut weh], ich kann [ihn nicht richtig] bewegen.
+Legen Sie sich [mal] hin, bitte. Ich nehme [mal] Ihren Arm. [Tut das] weh?
 Ja, ein bisschen.
-Und diese Bewegung? Geht das?
-Aua! Das tut so weh.
-Ich muss Sie ins Krankenhaus schicken. Sie bekommen eine Überweisung. Ich gebe Ihnen auch noch ein Rezept. Nehmen Sie zwei Mal pro Tag eine Tablette gegen die Schmerzen.
-Okay, dann gehe ich gleich ins Krankenhaus.`,
+[Und diese] Bewegung? [Geht das]?
+Aua! [Das tut so] weh.
+Ich [muss Sie] ins [Krankenhaus schicken]. Sie [bekommen] eine Überweisung. Ich gebe Ihnen auch noch ein Rezept. Nehmen Sie zwei [Mal] pro Tag eine Tablette gegen die Schmerzen.
+Okay, dann gehe ich gleich ins [Krankenhaus].`,
       },
     ],
   },
