@@ -1304,31 +1304,31 @@ Okay, dann gehe ich gleich ins [Krankenhaus].`,
         id: 'k9-2.23',
         title: '2.23',
         audioSrc: '/2.23.mp3',
-        text: `1. Tja, ich bin Journalistin. Wenn ich zu Hause bin, bin ich da eigentlich die meiste Zeit im…. Ich arbeite da am Computer, schreibe E-Mails, recherchiere Informationen im Internet und schreibe die Texte für die Zeitung. 
-2. Also, die ganze Familie sitzt da jeden Abend zusammen. Wir kochen, essen etwas Gutes, sitzen alle an einem großen Tisch und erzählen. Die …. ist eigentlich das Zentrum unserer Wohnung. 
-3. Nach einem langen Tag an der Uni entspanne ich total gern in meinem …. Es ist sehr klein, aber schön. Ich habe ein sehr bequemes Sofa, da kann man gut lesen oder Filme sehen. 
-4. Im Sommer bin ich besonders oft und gern auf dem ….. Also, natürlich nur, wenn das Wetter schön ist. Man kann in der Sonne sitzen, lesen, Kaffee trinken. Und am Wochenende grillen wir oft.`,
+        text: `1. Tja, [ich bin] Journalistin. Wenn ich zu Hause bin, bin [ich da eigentlich] die meiste Zeit im…. Ich arbeite da am Computer, schreibe E-Mails, recherchiere Informationen im [Internet und schreibe] die Texte für die Zeitung.
+2. Also, die ganze Familie [sitzt da jeden Abend zusammen]. Wir kochen, essen [etwas Gutes], sitzen alle an einem großen Tisch und [erzählen]. Die …. [ist eigentlich das] Zentrum unserer Wohnung.
+3. Nach einem langen Tag an der Uni entspanne ich total gern in meinem …. Es [ist sehr] klein, aber schön. Ich habe ein sehr [bequemes Sofa], da kann man [gut lesen] oder Filme [sehen].
+4. Im Sommer bin ich besonders oft [und gern] [auf dem] ….. Also, natürlich nur, wenn das Wetter schön ist. Man kann in der Sonne sitzen, lesen, Kaffee trinken. Und am Wochenende grillen wir oft.`,
       },
       {
         id: 'k9-2.24',
         title: '2.24',
         audioSrc: '/2.24.mp3',
-        text: `Schau mal hier, das klingt gut. Elegante Wohnung im Zentrum mit Balkon, 6. Stock mit Aufzug. Das ist doch super, oder?
-Ja, aber lies mal weiter: 950 Euro Miete!
-Oh, stimmt, die ist zu teuer. Hmh, und die hier ...`,
+        text: `Schau mal hier, das [klingt gut]. Elegante Wohnung im Zentrum [mit Balkon], 6. Stock mit Aufzug. Das [ist doch] super, oder?
+Ja, aber lies [mal] weiter: 950 Euro Miete!
+Oh, stimmt, die [ist zu] teuer. Hmh, [und die] hier ...`,
       },
       {
         id: 'k9-2.25',
         title: '2.25',
         audioSrc: '/2.25.mp3',
-        text: `So, wie machen wir das jetzt? Hmh, ich denke, den Computer, den stellen wir in die Küche. Da ist es schön hell, da kann ich gut arbeiten.
-In die Küche? Mensch, Carla, jetzt haben wir endlich ein Arbeitszimmer. Und der Computer kommt natürlich ins Arbeitszimmer.
-Findest du? Na gut. Aber den Fernseher stellen wir ins Schlafzimmer. Da kann ich im Bett fernsehen. Das ist doch sehr gemütlich!
-Was? Also wirklich nicht. Der Fernseher muss natürlich ins Wohnzimmer! Wir haben doch ein neues Sofa, da kann man super fernsehen!
-Aber dann stellen wir die Lampe ins Wohnzimmer. Neben das Sofa.
-Die Lampe? Nein, die brauche ich im Schlafzimmer. Ich will am Abend noch lesen. Aber dieses Regal hier stellen wir in den Flur. Da ist viel Platz.
-Das Regal? Auf keinen Fall! Das Regal stellen wir ins Arbeitszimmer. Das ist viel zu groß für den Flur. Aber den Kühlschrank können wir in den Flur stellen. Dann haben wir in der Küche mehr Platz.
-Den Kühlschrank in den Flur? Warum das denn? Den Kühlschrank stellen wir natürlich in die Küche! Kühlschränke stehen immer in der Küche.
+        text: `So, wie machen wir das jetzt? Hmh, ich denke, den Computer, den stellen wir in die Küche. Da [ist es schön] hell, da kann ich gut [arbeiten].
+In die Küche? Mensch, Carla, jetzt [haben] wir endlich ein Arbeitszimmer. [Und der] Computer [kommt natürlich] ins Arbeitszimmer.
+[Findest du]? Na gut. Aber den Fernseher stellen wir [ins Schlafzimmer]. Da kann ich im Bett [fernsehen]. Das [ist doch] sehr gemütlich!
+Was? Also wirklich nicht. Der Fernseher muss natürlich ins Wohnzimmer! Wir [haben] doch [ein neues Sofa], da kann man super [fernsehen]!
+Aber dann stellen wir die Lampe ins Wohnzimmer. [Neben das Sofa].
+Die Lampe? Nein, die brauche ich im Schlafzimmer. Ich will am [Abend] noch lesen. Aber dieses Regal hier stellen wir in den Flur. Da [ist viel] Platz.
+Das Regal? Auf [keinen] Fall! Das Regal stellen wir ins Arbeitszimmer. Das [ist viel] zu groß für den Flur. Aber den Kühlschrank [können] wir in den Flur [stellen]. Dann [haben] wir in der Küche mehr Platz.
+Den Kühlschrank in den Flur? Warum [das denn]? Den Kühlschrank stellen wir natürlich in die Küche! Kühlschränke [stehen] immer in der Küche.
 Mensch, Alex, du bist immer so langweilig.
 Also, Carla, wirklich!`,
       },
@@ -1337,45 +1337,45 @@ Also, Carla, wirklich!`,
         title: '2.26',
         audioSrc: '/2.26.mp3',
         text: `Carla Schneider.
-Hallo Carla, hier ist Vanessa.
-Ach, hallo Vanessa, wie geht’s dir?
+Hallo Carla, hier [ist Vanessa].
+Ach, hallo Vanessa, wie [geht’s dir]?
 Ja, gut. Du, vielen Dank für die Einladung zu eurer Party.
 Gerne. Ich hoffe, du kommst?
-Ja, natürlich. Aber an welchem Samstag ist die Feier denn? In der Einladung steht gar kein Datum.
+Ja, natürlich. Aber an welchem Samstag [ist die] Feier denn? In der Einladung [steht gar] kein Datum.
 Oh nein, wirklich? Also, am 3. Juni.
 Und um wie viel Uhr?
-Oh Mann! Steht das auch nicht in der Nachricht? Also, um 19 Uhr.
-Super. Dann sehen wir uns am Samstag. Du, sag mal, …`,
+Oh Mann! [Steht das] auch nicht in der Nachricht? Also, um 19 Uhr.
+Super. Dann sehen wir uns am Samstag. Du, sag [mal], …`,
       },
       {
         id: 'k9-2.27',
         title: '2.27',
         audioSrc: '/2.27.mp3',
         text: `Hallo Philipp, hallo Vanessa, schön, dass ihr da seid!
-Hallo Carla, danke für die Einladung. Hier, das ist ein Geschenk für euch.
-Danke, das ist aber nett! Kommt rein!
-Super, hier ist ja schon richtig was los.
-Soll ich euch mal die Wohnung zeigen?
-Oh ja, gern. Komm Philipp, Carla zeigt uns die Wohnung.
+Hallo Carla, danke für die Einladung. Hier, das ist ein [Geschenk für] euch.
+Danke, das ist aber nett! [Kommt rein]!
+Super, hier [ist ja] schon [richtig was] los.
+Soll ich euch [mal] die Wohnung [zeigen]?
+Oh ja, gern. Komm Philipp, Carla zeigt [uns die] Wohnung.
 Echt? Ah, gut ...
-Das Wohnzimmer ist ja super und die Küche auch. Toll, das ist alles so hell. Die Wohnung ist wirklich schön!
-Ja, uns gefällt es hier auch gut. Na ja, die Lampe hier in der Küche finde ich nicht so schön. Da suchen wir noch was anderes.
+Das Wohnzimmer [ist ja] super [und die] Küche auch. Toll, das ist alles so hell. Die Wohnung [ist wirklich] schön!
+Ja, [uns gefällt es] hier [auch gut]. Na ja, die Lampe hier in der Küche finde ich [nicht so] schön. Da suchen wir noch was anderes.
 Also, ich finde die Lampe lustig.
-Ach, die Lampe ist doch toll, sie ist nicht langweilig.
-Stimmt, sie ist nicht langweilig, aber hässlich. Na ja, wir suchen noch eine. Viele Lampen sind zu teuer. Und hier ist unser Schlafzimmer. Es ist sehr groß und hell.
-Das stimmt. Und das Bild über dem Fernseher sieht schön aus.
-Findest du? Das Bild ist von Alex. Ich mag es nicht besonders, aber Alex findet es toll. So, und hier geht es dann auf die Terrasse. Die ist klein, aber fein.
-Ui, das ist ja schön. Habt ihr hier auch Sonne?
+Ach, die Lampe [ist doch] toll, sie [ist nicht langweilig].
+Stimmt, sie [ist nicht langweilig], aber hässlich. Na ja, wir suchen noch eine. Viele [Lampen sind zu] teuer. [Und hier] ist unser Schlafzimmer. Es [ist sehr] groß [und hell].
+[Das stimmt]. [Und das Bild] über dem Fernseher sieht schön aus.
+[Findest du]? [Das Bild ist von] Alex. Ich mag es [nicht besonders], aber Alex findet es toll. So, [und hier] [geht es dann] auf die Terrasse. Die [ist klein], aber fein.
+Ui, das [ist ja] schön. Habt ihr hier auch Sonne?
 Ach, nett. – Schön, die Terrasse.
-Ja, das ist Südwesten. Da haben wir ab zwei Uhr Sonne – bis abends. Die Terrasse ist wirklich super. Wir brauchen noch neue Möbel für die Terrasse. Der Tisch hier ist nicht mehr schön. Der ist schon so alt und auch kaputt. Aber die Sachen kaufen wir erst später.
-Ja, klar. Ach, die Terrasse ist ganz toll. Findest du nicht, Philipp?
-Doch, doch, die Terrasse ist echt schön.
-Ja, dann gehen wir mal wieder rein …
-So, das war noch das Badezimmer. Jetzt kennt ihr die Wohnung.
+Ja, das [ist Südwesten]. Da [haben] wir [ab zwei] Uhr Sonne – bis [abends]. Die Terrasse [ist wirklich super]. Wir brauchen noch neue Möbel für die Terrasse. Der Tisch hier [ist nicht mehr] schön. Der [ist schon] so [alt und] auch kaputt. Aber die Sachen kaufen wir [erst später].
+Ja, klar. Ach, die Terrasse [ist ganz] toll. [Findest du] nicht, Philipp?
+Doch, doch, die Terrasse ist [echt schön].
+Ja, dann gehen wir [mal] wieder rein …
+So, das war noch [das Badezimmer]. [Jetzt kennt] ihr die Wohnung.
 Super, sehr schön! Ich finde die Wohnung echt gemütlich.
-Ja, schön ist es hier.
-Danke! So, hier ist das Büfett. Bitte, nehmt euch was zu essen und zu trinken.
-Vielen Dank. Das sieht ja lecker aus.`,
+Ja, schön [ist es] hier.
+Danke! So, hier [ist das Büfett]. Bitte, nehmt euch was zu essen [und zu trinken].
+Vielen Dank. [Das sieht ja] lecker aus.`,
       },
       {
         id: 'k9-2.28',
