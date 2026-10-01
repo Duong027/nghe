@@ -1381,11 +1381,11 @@ Vielen Dank. [Das sieht ja] lecker aus.`,
         id: 'k9-2.28',
         title: '2.28',
         audioSrc: '/2.28.mp3',
-        text: `Gut gesagt: Begeisterung ausdrücken
-Das ist ganz toll.
-Ich finde das echt super.
+        text: `[Gut gesagt]: Begeisterung ausdrücken
+Das [ist ganz] toll.
+Ich finde das [echt super].
 Das finde ich wirklich schön.
-Das sieht total gut aus.`,
+[Das sieht total] gut aus.`,
       },
       {
         id: 'k9-2.29',
@@ -1408,30 +1408,30 @@ Das sieht total gut aus.`,
         id: 'k9-2.30',
         title: '2.30',
         audioSrc: '/2.30.mp3',
-        text: `Der Student wohnt in einem Apartment im Zentrum.
-Der Herd steht neben dem Regal.
-Der Sessel ist gemütlich. Er steht vor dem Fenster.`,
+        text: `Der [Student wohnt] in einem Apartment im Zentrum.
+Der [Herd steht neben] dem Regal.
+Der Sessel [ist gemütlich]. Er [steht vor] dem Fenster.`,
       },
       {
         id: 'k9-2.31',
         title: '2.31',
         audioSrc: '/2.31.mp3',
         text: `1. Im Hochhaus zu Hause
-Ich wollte nie in einem Hochhaus wohnen, aber jetzt finde ich es echt toll. Man kann über die ganze Stadt sehen. Die Zimmer sind hell. Das ist super! Was nicht so gut ist? Hier wohnen so viele Menschen. Meine Nachbarn kenne ich leider nicht, das finde ich nicht so schön.`,
+Ich wollte nie in einem Hochhaus wohnen, aber [jetzt finde] ich es [echt toll]. Man kann über die ganze [Stadt sehen]. Die Zimmer [sind hell]. Das [ist super]! Was [nicht so] gut ist? Hier wohnen so viele Menschen. Meine Nachbarn kenne ich leider nicht, das finde ich [nicht so] schön.`,
       },
       {
         id: 'k9-2.32',
         title: '2.32',
         audioSrc: '/2.32.mp3',
         text: `2. Cool – wohnen im Loft
-Ich liebe meine Wohnung – ich wohne in einem Loft. Der Raum ist wirklich groß und die Fenster auch. Ich finde das wirklich cool! Ich habe so viel Platz hier und alles ist hell. Eigentlich ist alles super ... Na ja, okay, im Winter ist die Wohnung oft kalt. Das ist eben so.`,
+Ich liebe meine Wohnung – ich wohne in einem Loft. Der Raum [ist wirklich] groß [und die] Fenster auch. Ich finde das wirklich cool! Ich habe so viel [Platz hier] und alles [ist hell]. [Eigentlich] ist [alles super] ... Na ja, okay, im Winter [ist die] Wohnung [oft kalt]. Das ist eben so.`,
       },
       {
         id: 'k9-2.33',
         title: '2.33',
         audioSrc: '/2.33.mp3',
         text: `3 Hallo Herr Nachbar!
-Wir haben jetzt endlich unser Haus! Gut, es ist ein Reihenhaus, aber es ist ein Haus mit Garten. Der Garten ist klein, aber die Kinder können dort spielen und wir können grillen – das ist super. Was ist nicht so gut? Na ja, die Häuser sehen alle gleich aus, das ist ein bisschen langweilig. Und noch etwas ist nicht gut: Im Garten ist man nie wirklich allein. Manchmal mag ich das nicht.`,
+Wir [haben] jetzt endlich unser Haus! Gut, es ist ein Reihenhaus, aber es ist ein Haus [mit Garten]. Der [Garten ist klein], aber die Kinder [können dort spielen] [und wir können grillen] – das [ist super]. Was [ist nicht so] gut? Na ja, die Häuser [sehen] alle gleich aus, das ist ein bisschen langweilig. [Und noch] etwas [ist nicht gut]: Im [Garten ist man nie] wirklich allein. Manchmal [mag ich das] nicht.`,
       },
       {
         id: 'k9-2.34',
