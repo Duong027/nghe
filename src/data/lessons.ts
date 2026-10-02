@@ -7174,37 +7174,85 @@ Jetzt muss ich aber los! Wir telefonieren mal, tschüss!
         title: 'Hören – Teil 4',
         audioSrc: '/b1_de2_teil4.mp3',
         text: `Die Moderatorin der Radiosendung “Kontakte” diskutiert mit den Journalisten Günther Ernst und Wolfgang Walther über das Thema “Freundschaft”.
-**Moderatorin:** Liebe Hörerinnen und Hörer ich heiße Sie bei unserer Sendung “Kontakte” herzlich willkommen. Unser Thema ist heute die Freundschaft. Dazu haben wir Herrn Günther Ernst und Herrn Wolfgang Walther eingeladen. Sie arbeiten als Journalisten in der gleichen Zeitung und behaupten, enge Freunde zu sein. Herr Ernst, würden Sie Herrn Walther als Ihren Freund bezeichnen?
+**Moderatorin:** Liebe Hörerinnen und Hörer ich heiße Sie bei unserer Sendung “Kontakte” herzlich willkommen.
+Unser Thema ist heute die Freundschaft.
+Dazu haben wir Herrn Günther Ernst und Herrn Wolfgang Walther eingeladen.
+Sie arbeiten als Journalisten in der gleichen Zeitung und behaupten, enge Freunde zu sein.
+Herr Ernst, würden Sie Herrn Walther als Ihren Freund bezeichnen?
 **Ernst:** Aber natürlich!
 **Moderatorin:** Das sagen Sie so leicht.
-**Ernst:** Überhaupt nicht. Wenn ich Herrn Walther als meinen Freund bezeichne, dann ist das das größte Kompliment, das ich zu vergeben habe. Echte Freundschaft fordert von mir ein Maximum an Leistungen.
+**Ernst:** Überhaupt nicht.
+Wenn ich Herrn Walther als meinen Freund bezeichne, dann ist das das größte Kompliment, das ich zu vergeben habe.
+Echte Freundschaft fordert von mir ein Maximum an Leistungen.
 **Moderatorin:** Zum Beispiel?
-**Ernst:** Was Walther angeht, muss ich für ihn immer da sein, wenn er Sorgen hat und Hilfe braucht und immer aufpassen, dass es ihm gut geht. Aus diesem Grund habe ich selbst nur sehr wenige Freunde, weil nur sehr wenige Menschen eine so absolute Vorstellung von Freundschaft haben. Außerdem ist es in meinem Alter fast unmöglich, neue Freunde zu gewinnen. Aber auch die alten Freundschaften zu erhalten ist sehr schwer.
-**Walther:** Es ist nicht leicht, mein Freund zu werden. Herr Ernst hat Recht. Ich erwarte sehr viel von einem Freund. Ich muss mich zu 100 Prozent auf ihn verlassen können. Ich muss ihn zu jeder Tages- und Nachtzeit anrufen können, wenn ich Hilfe brauche. Und ich würde erwarten, in speziellen Situationen den Rat zu bekommen, den ich brauche.
+**Ernst:** Was Walther angeht, muss ich für ihn immer da sein, wenn er Sorgen hat und Hilfe braucht und immer aufpassen, dass es ihm gut geht.
+Aus diesem Grund habe ich selbst nur sehr wenige Freunde, weil nur sehr wenige Menschen eine so absolute Vorstellung von Freundschaft haben.
+Außerdem ist es in meinem Alter fast unmöglich, neue Freunde zu gewinnen.
+Aber auch die alten Freundschaften zu erhalten ist sehr schwer.
+**Walther:** Es ist nicht leicht, mein Freund zu werden.
+Herr Ernst hat Recht. Ich erwarte sehr viel von einem Freund.
+Ich muss mich zu 100 Prozent auf ihn verlassen können.
+Ich muss ihn zu jeder Tages- und Nachtzeit anrufen können, wenn ich Hilfe brauche.
+Und ich würde erwarten, in speziellen Situationen den Rat zu bekommen, den ich brauche.
 **Moderatorin:** Im Gegensatz zu Herrn Walther scheinen Sie viel offener zu sein.
-**Ernst:** Ich bin ein eher kommunikativer Typ, der keine Angst hat, Menschen kennen zu lernen. Aber eine Freundschaft kann nicht daraus entstehen, dass man zu hohe Ansprüche stellt.
-**Walther:** Wir sind beide schwierig. Ich könnte allerdings auch keine Freundschaft mit einem Menschen haben, der nicht schwierig ist. Die Beziehung zwischen Freunden ist wie die Beziehung zwischen Ehepartnern. Außer der Familie ist der Freund derjenige, der mir am nächsten steht und deshalb ist er auch im gewissen Sinne Partner.
-**Moderatorin:** Wie oft leben Sie ihre Freundschaft? Wie oft telefonieren Sie miteinander? Wie oft sehen Sie sich?
-**Ernst:** Wenn wir nichts anderes zu tun haben, treffen wir uns oft. Im Moment sehen wir uns nur während unserer gemeinsamen Zeiten in der Redaktion oder bei gemeinsamen Terminen wie diesem.
-**Walther:** Im Augenblick ist es ein bisschen schwierig, mich überhaupt am Telefon zu erreichen. Ich habe ja zurzeit einiges im Ausland zu tun. Aber das muss ja nicht so bleiben.
-**Moderatorin:** Glauben Sie, dass Ihre Freundschaft für alle Zeiten besteht? Würden Sie sich gegenseitig beispielsweise finanziell aus der Not helfen? Man sagt ja, dass beim Geld die Freundschaft aufhöre.
-**Ernst:** Eine echte Freundschaft kann von nichts gestört werden. Ich glaube das eigentlich nicht, aber ich kann es wirklich nicht wissen.
-**Walther:** Wenn es finanzielle Probleme gäbe, würde ich erwarten, dass mein Freund mit mir darüber spricht. Wenn es eine Möglichkeit gäbe zu helfen, dann empfinde ich es als ganz normal, das auch zu tun. Im Übrigen würde ein Freund seinen Freund nicht in Schwierigkeiten bringen. Aber wenn ich bei extremen Situationen eine Hilfe bräuchte, würde ich schon meinen Freund fragen.
+**Ernst:** Ich bin ein eher kommunikativer Typ, der keine Angst hat, Menschen kennen zu lernen.
+Aber eine Freundschaft kann nicht daraus entstehen, dass man zu hohe Ansprüche stellt.
+**Walther:** Wir sind beide schwierig.
+Ich könnte allerdings auch keine Freundschaft mit einem Menschen haben, der nicht schwierig ist.
+Die Beziehung zwischen Freunden ist wie die Beziehung zwischen Ehepartnern.
+Außer der Familie ist der Freund derjenige, der mir am nächsten steht und deshalb ist er auch im gewissen Sinne Partner.
+**Moderatorin:** Wie oft leben Sie ihre Freundschaft?
+Wie oft telefonieren Sie miteinander?
+Wie oft sehen Sie sich?
+**Ernst:** Wenn wir nichts anderes zu tun haben, treffen wir uns oft.
+Im Moment sehen wir uns nur während unserer gemeinsamen Zeiten in der Redaktion oder bei gemeinsamen Terminen wie diesem.
+**Walther:** Im Augenblick ist es ein bisschen schwierig, mich überhaupt am Telefon zu erreichen.
+Ich habe ja zurzeit einiges im Ausland zu tun.
+Aber das muss ja nicht so bleiben.
+**Moderatorin:** Glauben Sie, dass Ihre Freundschaft für alle Zeiten besteht?
+Würden Sie sich gegenseitig beispielsweise finanziell aus der Not helfen?
+Man sagt ja, dass beim Geld die Freundschaft aufhöre.
+**Ernst:** Eine echte Freundschaft kann von nichts gestört werden.
+Ich glaube das eigentlich nicht, aber ich kann es wirklich nicht wissen.
+**Walther:** Wenn es finanzielle Probleme gäbe, würde ich erwarten, dass mein Freund mit mir darüber spricht.
+Wenn es eine Möglichkeit gäbe zu helfen, dann empfinde ich es als ganz normal, das auch zu tun.
+Im Übrigen würde ein Freund seinen Freund nicht in Schwierigkeiten bringen.
+Aber wenn ich bei extremen Situationen eine Hilfe bräuchte, würde ich schon meinen Freund fragen.
 **Moderatorin:** Gibt es Momente der Konkurrenz zwischen Familie und Freund?
-**Ernst:** Das halte ich durchaus für möglich. Bei uns ist es aber nicht so. Meine Frau weiß, dass Freunde die Dinge auf eine andere Weise besprechen und hält Abstand von uns.
-**Walther:** Den Fall, dass ich etwa meiner Frau hätte sagen müssen, bleib mal bitte draußen, ich möchte mit meinem Freund etwas besprechen, den gab es noch nicht und wird es auch nicht geben. Ich finde es sehr wichtig, dass meine Frau alle meine Seiten kennt. Ich würde mich ungern anders verhalten, wenn mein Freund da ist.
+**Ernst:** Das halte ich durchaus für möglich.
+Bei uns ist es aber nicht so. Meine Frau weiß, dass Freunde die Dinge auf eine andere Weise besprechen und hält Abstand von uns.
+**Walther:** Den Fall, dass ich etwa meiner Frau hätte sagen müssen, bleib mal bitte draußen, ich möchte mit meinem Freund etwas besprechen, den gab es noch nicht und wird es auch nicht geben.
+Ich finde es sehr wichtig, dass meine Frau alle meine Seiten kennt.
+Ich würde mich ungern anders verhalten, wenn mein Freund da ist.
 **Moderatorin:** Kann man Freundschaft lernen?
-**Ernst:** Ich glaube nicht. Man kann Dinge nicht lernen, die mit dem Gefühl zusammenhängen. Das Gefühl ist die Basis einer Freundschaft und Unterricht über Freundschaft kann nicht funktionieren. Das glaube ich mindestens.
+**Ernst:** Ich glaube nicht.
+Man kann Dinge nicht lernen, die mit dem Gefühl zusammenhängen.
+Das Gefühl ist die Basis einer Freundschaft und Unterricht über Freundschaft kann nicht funktionieren.
+Das glaube ich mindestens.
 **Moderatorin:** Wie ähnlich sind Sie sich?
-**Ernst:** Wir sind zum Beispiel sehr konservativ. Ich schätze Werte, die ich von zu Haus mitbekommen habe, die heute allerdings ein wenig aus der Mode sind.
-**Walther:** Ich glaube nicht, dass ich konservativ bin. Aber trotzdem sind wir uns sehr ähnlich. Ich habe sehr viel von meinem Elternhaus mitbekommen, was ich noch gut finde. Wir unterscheiden uns nur darin, dass ich sehr gerne lange diskutiere.
-**Ernst:** Sie glauben nicht, wie lange Walther über ein Thema diskutieren kann. Das verstehe ich wirklich nicht, dass man einfach nicht aufhört zu reden.
-**Moderatorin:** Sie arbeiten auch zusammen. Könnte eine berufliche schwierige Situation für Ihre Freundschaft gefährlich werden?
-**Walther:** Ich sage nein. Aber ich würde meine Arbeit nicht verlieren, um die Freundschaft zu retten. Wir sind beide Profis. Wenn wir uns mal trennen würden, dann hat das mit unserem Leben als Freunde nichts zu tun.
-**Ernst:** Selbst wenn wir unterschiedlicher Meinung wären, würden wir eine gute Lösung finden. Ich glaube nicht, dass berufliche Probleme unsere Freundschaft in Gefahr setzen könnten.
-**Moderatorin:** An erster Stelle steht für mich meine Familie. Ich könnte sicher auch ohne Freunde leben. In wieweit geht es bei Ihnen ohne Freundschaft?
-**Walther:** Auch für mich ist die Familie das höchste Gut, aber ich kann mir das Leben ohne die Freundschaft von Herrn Walther nicht vorstellen. Diese Freundschaft gibt mir eine höhere Lebensqualität. Wenn ich keinen Freund hätte, dann wäre ich sicher nicht so, wie ich heute bin.
-**Moderatorin:** Herr Ernst, Herr Walther, ich bedanke mich für Ihre Zeit und dass Sie uns Ihre Meinung zum Thema Freundschaft gesagt haben. Liebe Zuhörerinnen, liebe Zuhörer, ich wünsche Ihnen noch einen schönen Abend!`,
+**Ernst:** Wir sind zum Beispiel sehr konservativ.
+Ich schätze Werte, die ich von zu Haus mitbekommen habe, die heute allerdings ein wenig aus der Mode sind.
+**Walther:** Ich glaube nicht, dass ich konservativ bin.
+Aber trotzdem sind wir uns sehr ähnlich.
+Ich habe sehr viel von meinem Elternhaus mitbekommen, was ich noch gut finde.
+Wir unterscheiden uns nur darin, dass ich sehr gerne lange diskutiere.
+**Ernst:** Sie glauben nicht, wie lange Walther über ein Thema diskutieren kann.
+Das verstehe ich wirklich nicht, dass man einfach nicht aufhört zu reden.
+**Moderatorin:** Sie arbeiten auch zusammen.
+Könnte eine berufliche schwierige Situation für Ihre Freundschaft gefährlich werden?
+**Walther:** Ich sage nein.
+Aber ich würde meine Arbeit nicht verlieren, um die Freundschaft zu retten.
+Wir sind beide Profis.
+Wenn wir uns mal trennen würden, dann hat das mit unserem Leben als Freunde nichts zu tun.
+**Ernst:** Selbst wenn wir unterschiedlicher Meinung wären, würden wir eine gute Lösung finden.
+Ich glaube nicht, dass berufliche Probleme unsere Freundschaft in Gefahr setzen könnten.
+**Moderatorin:** An erster Stelle steht für mich meine Familie. Ich könnte sicher auch ohne Freunde leben.
+In wieweit geht es bei Ihnen ohne Freundschaft?
+**Walther:** Auch für mich ist die Familie das höchste Gut, aber ich kann mir das Leben ohne die Freundschaft von Herrn Walther nicht vorstellen.
+Diese Freundschaft gibt mir eine höhere Lebensqualität.
+Wenn ich keinen Freund hätte, dann wäre ich sicher nicht so, wie ich heute bin.
+**Moderatorin:** Herr Ernst, Herr Walther, ich bedanke mich für Ihre Zeit und dass Sie uns Ihre Meinung zum Thema Freundschaft gesagt haben.
+Liebe Zuhörerinnen, liebe Zuhörer, ich wünsche Ihnen noch einen schönen Abend!`,
       },
     ],
   },
