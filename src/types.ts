@@ -12,7 +12,8 @@ export interface Chapter {
   title: string;
   lessons: LessonItem[];
   level?: string; // Ví dụ: 'A1.1', 'A1.2', etc.
-  category?: string; // Ví dụ: 'Đề thi A1'
+  category?: string; // Ví dụ: 'Đề thi A1', 'Đề thi B1'
+  subCategory?: string; // Ví dụ: 'Đề B1 Module'
 }
 
 export interface StudentWhitelistItem {

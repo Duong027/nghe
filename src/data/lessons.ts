@@ -6768,5 +6768,176 @@ Frau Gundlach bitte zum Informationsschalter in der Ankunftshalle C.`,
     category: 'Đề thi A1',
     lessons: [],
   },
+  {
+    id: 'de-thi-b1-module-1',
+    title: 'Đề số 1',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [
+      {
+        id: 'de-thi-b1-module-1-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de1_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Am Freitag, 29. Juni um 18.00 fand bei herrlichem Wetter die Eröffnung der Freizeitanlage Weichstetten statt.
+Gestartet wurde mit einem Beachvolleyball-Turnier.
+Gleichzeitig mit dem Bau des neuen Kindergartens in Weichstetten wurde als Ersatz für den alten Sportplatz eine neue Freizeitanlage gegenüber vom Friedhof errichtet.
+Auch der Jugend-Container, der neben der Kirche Weichstetten stand, wurde auf Wunsch der Jugendlichen zum Beachvolleyballplatz verlegt.
+In seiner Ansprache zur Eröffnung dankte der Bürgermeister ganz besonders den “Conti-Kids” und dem mobilen Jugendbetreuer Sascha Reischl, die beim Umzug des Containers tolle Leistungen erbracht haben.`,
+      },
+      {
+        id: 'de-thi-b1-module-1-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de1_teil1_1.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Die Bundespolizei sucht Zeugen zu einem Unfall, der sich am Montag, den 3. September, ereignet hat.
+Gegen 9 Uhr war eine etwa 65-jährige Frau im Bahnhof Oftersheim gerade dabei, aus einer Regionalbahn (RB 38824) in Richtung Mannheim auszusteigen, als sich plötzlich die Türen des Zuges schlossen.
+Nur mit viel Mühe konnte die Frau ihren Arm noch aus der Tür des anfahrenden Zuges herausziehen.
+Die Bundespolizeiinspektion Karlsruhe bittet die betroffene Frau und Zeugen des Unfalls, sich unter der Nummer 0721/12 01 60 zu melden.`,
+      },
+      {
+        id: 'de-thi-b1-module-1-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de1_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Bea, hier ist Ulli.
+Wie geht's dir denn so?
+Ich habe gestern mit Iris telefoniert und sie hat mir erzählt, dass sie dich auch zu ihrer Hochzeit eingeladen hat.
+Weißt du schon, was du ihr schenken willst?
+Ich dachte, wir könnten vielleicht zusammen ein Hochzeitsgeschenk für sie aussuchen und kaufen.
+Ich meine, wenn wir zu zweit etwas kaufen, ist das doch besser, weil wir dann mehr Geld für was richtig Schönes ausgeben können.
+Was meinst du?
+Ruf mich an!`,
+      },
+      {
+        id: 'de-thi-b1-module-1-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de1_teil1_3.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag Frau Scherwinkel, hier ist Alexander Hanke von der Volkshochschule.
+Ich hatte Ihnen doch versprochen, Sie wegen dem Französischkurs anzurufen.
+In dem Dienstags-Donnerstags-Kurs ist leider kein Platz mehr freigeworden, aber in dem am Samstagvormittag hat ganz kurzfristig jemand abgesagt.
+Ich kann Ihnen den Platz freihalten, aber Sie müssten mir bis spätestens heute Abend gegen sieben Bescheid sagen, ob Sie teilnehmen wollen.
+Es gibt nämlich noch andere Interessenten.
+Also, ich warte auf Ihren Anruf.
+Schönen Tag noch!`,
+      },
+      {
+        id: 'de-thi-b1-module-1-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de1_teil1_4.mp3',
+        text: `Sie hören eine Durchsage im Supermarkt.
+Sehr verehrte Kundinnen und Kunden, diese Woche im Sonderangebot bei Ihrem Maxi-Markt:
+Bifi - die Minisalami im Fünfer-Pack statt 1,89 nur 1,49! Heinz Tomatenketchup, die Riesen-1170 ml-Flasche zum Aktionspreis von 1,99. Rotkäppchen-Sekt, in weiß oder rosé, jetzt nur 2,99, Sie sparen bei jeder Flasche einen Euro.
+Und außerdem noch ein Super-Knüller.
+Bei jedem Einkauf über 10 Euro nehmen Sie an unserem großen Gewinnspiel teil.
+Zu gewinnen gibt es 20 Einkaufsgutscheine im Wert von je 50 Euro und als Hauptgewinn eine Espresso-Maschine von De Longhi im Wert von 350 Euro.`,
+      },
+      {
+        id: 'de-thi-b1-module-1-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de1_teil1_5.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Mit einem Sieg von 3:0 gegen die TuS Koblenz hat gestern der SFV Mainz in der Regionalliga für die erste Überraschung der Saison gesorgt.
+Die gesamte Mannschaft von Trainer Max Schleifer zeigte sich in Bestform und hatte leichtes Spiel gegen die Kicker aus Mainz, die ohne den verletzten Landau antreten mussten.
+Die ersten beiden Tore fielen in der 19. und 25. Minute durch Hansen und nach der Halbzeit gelang Hassel nach einem Foul an seinem Kollegen Brahms ein weiterer Treffer.`,
+      },
+    ],
+  },
+  {
+    id: 'de-thi-b1-module-2',
+    title: 'Đề số 2',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-3',
+    title: 'Đề số 3',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-4',
+    title: 'Đề số 4',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-5',
+    title: 'Đề số 5',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-6',
+    title: 'Đề số 6',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-7',
+    title: 'Đề số 7',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-8',
+    title: 'Đề số 8',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-9',
+    title: 'Đề số 9',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-10',
+    title: 'Đề số 10',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-11',
+    title: 'Đề số 11',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
+  {
+    id: 'de-thi-b1-module-12',
+    title: 'Đề số 12',
+    level: 'Đề thi',
+    category: 'Đề thi B1',
+    subCategory: 'Đề B1 Module',
+    lessons: [],
+  },
 ];
 

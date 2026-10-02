@@ -7,7 +7,9 @@ interface ChapterSectionProps {
 }
 
 export const ChapterSection: React.FC<ChapterSectionProps> = ({ chapter }) => {
-  const displayTitle = chapter.category
+  const displayTitle = chapter.subCategory
+    ? `${chapter.category} — ${chapter.subCategory} — ${chapter.title}`
+    : chapter.category
     ? `${chapter.category} — ${chapter.title}`
     : chapter.title;
 

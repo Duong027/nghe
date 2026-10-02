@@ -40,6 +40,7 @@ export default function App() {
   const [activeLevel, setActiveLevel] = useState<Level>('A1.1');
   const [activeChapterId, setActiveChapterId] = useState<string>('kapitel-1');
   const [activeExamCategory, setActiveExamCategory] = useState<string>('Đề thi A1');
+  const [activeExamSubCategory, setActiveExamSubCategory] = useState<string>('Đề B1 Module');
 
   // Auth & Access States
   const [currentUser, setCurrentUser] = useState<User | null>(null);
@@ -126,7 +127,7 @@ export default function App() {
     (chapter) => getChapterLevel(chapter) === activeLevel
   );
 
-  // Danh mục đề thi trong cấp độ 'Đề thi' (ví dụ: 'Đề thi A1')
+  // Danh mục đề thi trong cấp độ 'Đề thi' (ví dụ: 'Đề thi A1', 'Đề thi B1')
   const examCategories = Array.from(
     new Set(
       chaptersForSelectedLevel
@@ -138,10 +139,38 @@ export default function App() {
     ? activeExamCategory
     : (examCategories[0] || 'Đề thi A1');
 
-  // Danh sách các đề trong danh mục đang chọn (ví dụ: Đề số 1, Đề số 2, ...)
-  const examsForCurrentCategory = activeLevel === 'Đề thi'
-    ? chaptersForSelectedLevel.filter((c) => (c.category || 'Đề thi A1') === currentExamCategory)
-    : [];
+  // Các chương thuộc danh mục đề thi đang chọn
+  const chaptersForCurrentExamCategory =
+    activeLevel === 'Đề thi'
+      ? chaptersForSelectedLevel.filter(
+          (c) => (c.category || 'Đề thi A1') === currentExamCategory
+        )
+      : [];
+
+  // Danh mục phụ (subCategory, ví dụ: 'Đề B1 Module' trong 'Đề thi B1')
+  const examSubCategories = Array.from(
+    new Set(
+      chaptersForCurrentExamCategory
+        .map((c) => c.subCategory)
+        .filter((sub): sub is string => Boolean(sub))
+    )
+  );
+  const currentExamSubCategory =
+    examSubCategories.length > 0
+      ? examSubCategories.includes(activeExamSubCategory)
+        ? activeExamSubCategory
+        : examSubCategories[0]
+      : '';
+
+  // Danh sách các đề trong danh mục (và danh mục phụ nếu có) đang chọn (ví dụ: Đề số 1, Đề số 2, ...)
+  const examsForCurrentCategory =
+    activeLevel === 'Đề thi'
+      ? examSubCategories.length > 0
+        ? chaptersForCurrentExamCategory.filter(
+            (c) => c.subCategory === currentExamSubCategory
+          )
+        : chaptersForCurrentExamCategory
+      : [];
 
   // Xác định chương đang active
   const activeChapter =
@@ -179,8 +208,34 @@ export default function App() {
     const examsInCat = chaptersForSelectedLevel.filter(
       (c) => (c.category || 'Đề thi A1') === category
     );
-    if (examsInCat.length > 0) {
+    const subCats = Array.from(
+      new Set(
+        examsInCat
+          .map((c) => c.subCategory)
+          .filter((sub): sub is string => Boolean(sub))
+      )
+    );
+    if (subCats.length > 0) {
+      const targetSub = subCats.includes(activeExamSubCategory)
+        ? activeExamSubCategory
+        : subCats[0];
+      setActiveExamSubCategory(targetSub);
+      const examsInSub = examsInCat.filter((c) => c.subCategory === targetSub);
+      if (examsInSub.length > 0) {
+        setActiveChapterId(examsInSub[0].id);
+      }
+    } else if (examsInCat.length > 0) {
       setActiveChapterId(examsInCat[0].id);
+    }
+  };
+
+  const handleExamSubCategoryChange = (subCategory: string) => {
+    setActiveExamSubCategory(subCategory);
+    const examsInSub = chaptersForCurrentExamCategory.filter(
+      (c) => c.subCategory === subCategory
+    );
+    if (examsInSub.length > 0) {
+      setActiveChapterId(examsInSub[0].id);
     }
   };
 
@@ -351,7 +406,7 @@ export default function App() {
           {/* Thanh chuyển Kapitel con hoặc cấp tab của Đề thi */}
           {activeLevel === 'Đề thi' ? (
             <div className="space-y-2 pt-1">
-              {/* Cấp tab 1: Danh mục đề thi (ví dụ: Đề thi A1) */}
+              {/* Cấp tab 1: Danh mục đề thi (ví dụ: Đề thi A1, Đề thi B1) */}
               {examCategories.length > 0 && (
                 <div className="flex flex-wrap justify-center gap-1.5">
                   {examCategories.map((cat) => {
@@ -373,7 +428,29 @@ export default function App() {
                 </div>
               )}
 
-              {/* Cấp tab 2: Các đề thi con (Đề số 1, Đề số 2, Đề số 3, Đề số 4, Đề số 5) */}
+              {/* Cấp tab 2 (nếu có subCategory): ví dụ Đề B1 Module */}
+              {examSubCategories.length > 0 && (
+                <div className="flex flex-wrap justify-center gap-1.5 pt-0.5">
+                  {examSubCategories.map((subCat) => {
+                    const isActive = subCat === currentExamSubCategory;
+                    return (
+                      <button
+                        key={subCat}
+                        onClick={() => handleExamSubCategoryChange(subCat)}
+                        className={`min-h-8.5 px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-semibold transition-all cursor-pointer border ${
+                          isActive
+                            ? 'bg-indigo-600 text-white border-indigo-600 dark:bg-indigo-500 dark:text-white dark:border-indigo-500 shadow-xs'
+                            : 'bg-white text-stone-600 border-stone-200 dark:bg-stone-900 dark:text-stone-300 dark:border-stone-800 hover:bg-stone-50 dark:hover:bg-stone-850'
+                        }`}
+                      >
+                        {subCat}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+
+              {/* Cấp tab đề thi con (Đề số 1, Đề số 2, ...) */}
               {examsForCurrentCategory.length > 0 && (
                 <div className="flex flex-wrap justify-center gap-1.5 pt-0.5">
                   {examsForCurrentCategory.map((chapter) => {
