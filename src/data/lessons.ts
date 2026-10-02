@@ -6885,6 +6885,62 @@ Das war also nur ein Vorgeschmack.
 Alles andere werden Sie mit allen Sinnen erleben können!
 Ich hoffe, es gefällt Ihnen in Mainz! Gehen wir jetzt zur Haltestelle, um auf den Bus zu warten.`,
       },
+      {
+        id: 'de-thi-b1-module-1-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de1_teil3.mp3',
+        text: `Sie sitzen in einem Café und hören, wie zwei Frauen sich über einen Kochkurs unterhalten.
+**Susanne:** Hallo Christina!
+Das ist aber eine Überraschung, dich hier im Café zu treffen!
+**Christina:** Hallo Susanne!
+Wie geht's Dir?
+**Susanne:** Gut, danke.
+Dir auch?
+**Christina:** Ja, prima.
+Bist du allein hier?
+**Susanne:** Ja. Wartest du auf jemanden?
+**Christina:** Nein, setz dich zu mir.
+Ich habe noch ein bisschen Zeit. Um 7.00 Uhr fängt mein Kochkurs an.
+**Susanne:** Was?
+Du machst einen Kochkurs?
+Das habe ich nicht gewusst.
+**Christina:** Das war so eine Blitzidee.
+Ich hatte die Nase voll, abends immer zu Haus rumzusitzen.
+Weißt du, ich komme von der Arbeit, zieh mir was Bequemes an und mach es mir für den Rest des Abends auf der Couch gemütlich.
+Und dann kriege ich natürlich Hunger, aber in der Küche finde ich nur Brot, Wurst oder ein Fertiggericht.
+Schluss damit!
+Ich habe beschlossen, endlich ordentlich kochen zu lernen.
+**Susanne:** Und da hast du dich für den Kochkurs angemeldet.
+**Christina:** Genau.
+Du, der ist gar nicht so teuer, nur 80 Euro.
+Zuerst besucht man einen Kurs für Anfänger.
+Da lernt man die Grundlagen des Kochens, also zum Beispiel alles über die Zutaten oder auch, worauf man beim Einkauf von Lebensmitteln achten muss.
+Ja, und dann lernt man natürlich, einfache Gerichte zu kochen.
+**Susanne:** Hört sich interessant an.
+Erzähl doch mal, was ihr da genau macht!
+**Christina:** Wir bekommen eine Mappe mit Rezepten.
+Die Teilnehmer werden in eine große Küche geführt.
+Jeder bekommt das nötige Geschirr und die Zutaten für sein jeweiliges Gericht, und dann fangen wir unter der Aufsicht eines Kochs mit der Zubereitung an.
+Er zeigt uns, wie alles gemacht wird und beantwortet auch alle Fragen.
+Am Ende jeder Stunde werden die Gerichte gekostet und wir sagen, wie sie uns schmecken.
+**Susanne:** Genügt denn so ein Anfängerkurs?
+**Christina:** Na ja, aber die meisten machen sowieso weiter, weil sie während des Kurses erst richtig Lust bekommen.
+Sie nehmen dann am Feinschmecker-Kurs teil oder an Kursen für ausländische Küche, wie z.B. spanische oder asiatische Küche.
+Wir kochen zwar noch nicht lange zusammen, aber wir haben schon ein ganz gutes Gefühl dafür bekommen, was es heißt, richtig und gut zu kochen.
+Es macht wirklich Spaß.
+**Susanne:** Man lernt dort sicher auch viele nette Leute kennen.
+**Christina:** Na klar!
+Wir sind eine ziemlich gemischte Gruppe.
+Es ist lustig, wenn junge Leute, alte Leute, Leute aus ganz verschiedenen Umfeldern und Kulturen zusammenkommen.
+Aber das Gemeinsame bei allen ist der Sinn fürs gute Essen.
+Und wir sind immer ganz stolz, wenn wir allein ein Gericht von Anfang bis Ende zubereiten können.
+**Susanne:** Also, jetzt bin ich richtig neugierig geworden.
+Kann man da vielleicht einen Schnupperkurs machen?
+**Christina:** Ja, natürlich kannst du mal eine Probestunde machen.
+Am Donnerstag habe ich wieder Unterricht. Wenn du willst, kommst du einfach mit!
+**Susanne:** Ja, ich rufe dich an! Bis dann!
+**Christina:** Ok, tschüss.`,
+      },
     ],
   },
   {

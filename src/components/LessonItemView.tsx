@@ -39,13 +39,16 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
   // Tách text thành các dòng/câu dựa trên dấu xuống dòng \n
   const rawLines = hasText ? lesson.text!.split('\n') : [];
 
-  // Helper để hiển thị text, nếu có phần nằm trong dấu [...] thì làm nổi bật bằng chữ màu xanh lá và khung viền màu xanh lá
+  // Helper để hiển thị text, nếu có phần nằm trong dấu [...] thì làm nổi bật bằng chữ màu xanh lá và khung viền màu xanh lá, nếu nằm trong **...** thì in đậm
   const renderFormattedLine = (lineText: string): React.ReactNode => {
-    if (!lineText.includes('[') || !lineText.includes(']')) {
+    if (
+      (!lineText.includes('[') || !lineText.includes(']')) &&
+      !lineText.includes('**')
+    ) {
       return lineText;
     }
 
-    const parts = lineText.split(/(\[[^\]]+\])/g);
+    const parts = lineText.split(/(\[[^\]]+\]|\*\*[^*]+\*\*)/g);
     return parts.map((part, index) => {
       if (part.startsWith('[') && part.endsWith(']')) {
         const highlighted = part.slice(1, -1);
@@ -56,6 +59,14 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
           >
             {highlighted}
           </span>
+        );
+      }
+      if (part.startsWith('**') && part.endsWith('**')) {
+        const boldText = part.slice(2, -2);
+        return (
+          <strong key={index} className="font-bold text-stone-950 dark:text-white">
+            {boldText}
+          </strong>
         );
       }
       return <React.Fragment key={index}>{part}</React.Fragment>;
@@ -81,7 +92,7 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
 
     if (hasText) {
       const promises = rawLines.map(async (lineStr, i) => {
-        const line = lineStr.replace(/[\[\]]/g, '').trim();
+        const line = lineStr.replace(/[\[\]]|\*\*/g, '').trim();
         if (line) {
           const translated = await translateGermanToVietnamese(line);
           if (translated) {
@@ -95,7 +106,7 @@ export const LessonItemView: React.FC<LessonItemViewProps> = ({ lesson }) => {
         if (item.vi) {
           newTranslations[i] = item.vi;
         } else if (item.de) {
-          const cleanDe = item.de.replace(/[\[\]]/g, '').trim();
+          const cleanDe = item.de.replace(/[\[\]]|\*\*/g, '').trim();
           const translated = await translateGermanToVietnamese(cleanDe);
           if (translated) {
             newTranslations[i] = translated;
