@@ -7089,6 +7089,86 @@ Schnallen Sie sich jetzt an und ziehen Sie Ihren Sitzgurt fest.
 Aus Sicherheitsgründen empfehlen wir Ihnen, während des gesamten Fluges angeschnallt zu bleiben.
 Wir möchten noch darauf hinweisen, dass das Rauchen auf allen unseren Flügen verboten ist.`,
       },
+      {
+        id: 'de-thi-b1-module-2-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de2_teil2.mp3',
+        text: `Sie hören die Begrüßung einer Gruppe von Junior-Rangern in einem Nationalpark.
+Hallo liebe Freunde!
+Ihr seid hier, weil ihr die Wildnis entdecken wollt, gemeinsam mit Jungs und Mädchen eures Alters jede Menge Spaß haben wollt, Nistkästen für Vögel bauen oder eine Nacht ganz ohne Schlafsack, Zelt und Essen in der Natur verbringen wollt?
+Wenn ihr all diese Fragen mit JA beantworten könnt, seid ihr hier gerade richtig und gehört schon zu unserer nächsten Junior-Ranger-Gruppe!
+Ich heiße Lila Thomas und leite den Nationalpark.
+Ich freue mich besonders, euch heute hier zu empfangen.
+Ihr seid die nächste Gruppe, die am Lehrgang “Junior Ranger” teilnimmt.
+Ranger sind die Leute, die den Park überwachen und ständig kontrollieren, ob sich Pflanzen und Tiere in ordentlichem Zustand befinden.
+Euer Aufenthalt bei uns wird zwei Wochen dauern und ihr werdet vieles erleben und lernen. Ihr werdet den Wald kennen und die Umwelt schützen lernen.
+Der Lehrgang findet in Camps im Wald statt.
+Ihr lernt Tiere und Pflanzen kennen und erfahrt dabei, warum sie für unser Leben so wichtig sind und wie wir ihre Existenz sichern können.
+Die Natur braucht jeden, der für ihre Rettung arbeitet.
+Wie ihr wisst, gibt es viele verschiedene Programme, darunter auch solche, an denen Kinder und Jugendliche mit Behinderung teilnehmen können.
+Sie alle werden von ihrer Arbeit für die Natur und den Nationalpark ihr Leben lang profitieren.
+Am vergangenen Donnerstag wurde im Nationalpark eine Führung von Kindern für Kinder angeboten.
+Ihr hättet mal sehen sollen, wie die Junior-Rangers des Nationalparks sich gefreut haben, anderen Kindern und Jugendlichen auf einer zweieinhalbstündigen Wanderung ihren Wald zu zeigen.
+Es hat ihnen solchen Spaß gemacht, ihr Wissen über Tier- und Pflanzenwelt im Nationalpark spielerisch an die Gleichaltrigen weiterzugeben, und sie konnten sicher und ohne Angst auf alle Fragen antworten.
+Die Besucher fühlen sich sofort wohl unter gleichaltrigen Führern und es fällt ihnen viel leichter, alle möglichen Fragen zu stellen.
+“Kann man das wirklich essen?”, fragt zum Beispiel jemand den Führer und traut sich schließlich eine Brennnessel zu probieren.
+Nach dem Ende des Lehrgangs werdet auch ihr in der Lage sein, anderen alles Wichtige über den Wald zu erzählen.
+Morgen beginnt ihr mit eurer Ausbildung im Nationalpark und in anderen Waldgebieten.
+Ihr werdet auch Ausstellungen und Museen für den Waldschutz besuchen.
+Nach Abschluss eurer Ausbildung bekommt ihr ein Zertifikat.
+Jetzt bleibt mir nur noch, euch herzlich willkommen zu heißen und euch einen schönen Aufenthalt und viel Erfolg zu wünschen.
+So, und jetzt machen wir alle zusammen einen kleinen Spaziergang im Nationalpark, wo ihr das harmonische Zusammenleben von Tieren und Pflanzen beobachten könnt.
+Danach könnt ihr euch dann von euren Eltern verabschieden.`,
+      },
+      {
+        id: 'de-thi-b1-module-2-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de2_teil3.mp3',
+        text: `Sie sind im Park und hören, wie ein Mann und eine Frau sich über einen Ausflug unterhalten.
+**Andreas:** Hallo Miriam!
+**Miriam:** Hey, Andreas, wie geht's dir denn so?
+**Andreas:** Gut, und dir?
+Sag mal, wo warst du denn gestern den ganzen Tag!
+Ich hab ein paar Mal bei dir angerufen, aber du bist nicht drangegangen.
+**Miriam:** Ja, gestern war ich den ganzen Tag weg, ich hab einen Tagesausflug zum Schloss Neuschwanstein gemacht und bin jetzt ein bisschen kaputt.
+**Andreas:** Das ist ziemlich weit weg von München, oder?
+**Miriam:** Na ja, so weit ist es nicht.
+Bis Schwangau fährt man so anderthalb Stunden.
+Das Schloss ist ganz in der Nähe und man kann entweder mit dem Bus oder der Pferdekutsche hinfahren, man kann aber auch zu Fuß gehen.
+Ich bin mit einer Pferdekutsche gefahren, weil ich das sehr romantisch finde.
+Außerdem kann man von der Kutsche aus die schöne Landschaft sehr gut genießen.
+Vorher habe ich in Schwangau ein Ticket für eine Führung im Schloss gekauft.
+**Andreas:** Kann man denn im Schloss keine Tickets kaufen?
+**Miriam:** Das ist so: Um das Innere des Schlosses zu besichtigen, muss man ein Ticket für eine Führung im Ort Schwangau kaufen.
+Die Tickets haben eine Nummer und eine Uhrzeit aufgedruckt - erst wenn die jeweilige Nummer angezeigt wird, kann man an der Führung teilnehmen.
+**Andreas:** Komisches System.
+Warum machen die das?
+**Miriam:** Der Grund ist, dass unheimlich viele Leute das Schloss besuchen.
+Mit der Uhrzeit wird erreicht, dass die nicht alle gleichzeitig reingehen.
+**Andreas:** Ah, ich verstehe.
+Das ist natürlich sinnvoll.
+Was kann man denn machen, bis man reingelassen wird?
+**Miriam:** Man kann im Schlossgarten spazieren gehen und sich das eine oder andere anschauen z.B. Springbrunnen, Statuen, verschiedene Pflanzenarten usw.
+**Andreas:** Und wie ist das Innere des Schlosses?
+**Miriam:** Ganz toll.
+Alles ist so prächtig!
+Die Möbel und die vielen Gemälde an den Wänden!
+Alles ist nach den Plänen und Wünschen von König Ludwig Il gestaltet worden.
+Die Wandmalereien sind stark von seinem christlichen Glauben, der deutschen Märchenwelt und der Geschichte beeinflusst.
+**Andreas:** Er war auch großer Anhänger von Richard Wagner.
+**Miriam:** Ja, der Sängersaal ist der größte und wichtigste Raum des ganzen Schlosses.
+**Andreas:** Wie lange dauert die Führung?
+**Miriam:** Ungefähr 35 Minuten.
+Man startet im ersten Obergeschoss mit den Dienerzimmern, dann geht man in den Thronsaal, ins Speisezimmer, ins Schlafzimmer, Arbeitszimmer und zum Schluss in den Sängersaal.
+**Andreas:** Die Führung ist aber sicher zu kurz, um so vieles auf einmal anzusehen und zu verstehen.
+**Miriam:** Eigentlich schon, aber ich hatte mir vorher ein Buch über das Schloss gekauft und habe alles ausführlich gelesen.
+Ich war also vorbereitet.
+Außerdem darf man im Schloss weder Fotos machen noch filmen.
+**Andreas:** Ich war noch nie da, kannst du dir das vorstellen.
+Ich muss unbedingt mal hinfahren.
+Jetzt muss ich aber los! Wir telefonieren mal, tschüss!
+**Miriam:** Ja, gerne, tschüss!`,
+      },
     ],
   },
   {
