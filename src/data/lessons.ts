@@ -6941,6 +6941,66 @@ Am Donnerstag habe ich wieder Unterricht. Wenn du willst, kommst du einfach mit!
 **Susanne:** Ja, ich rufe dich an! Bis dann!
 **Christina:** Ok, tschüss.`,
       },
+      {
+        id: 'de-thi-b1-module-1-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de1_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Frage und Antwort” diskutiert mit der Studentin Monika Breitner und dem Auszubildenden Werner Wild über das Thema “Studium oder Ausbildung”.
+**Moderator:** Liebe Zuhörer und Zuhörerinnen, ich heiße Sie bei unser Radiosendung “Frage und Antwort” willkommen.
+Unser Thema ist heute “Studium oder Ausbildung”.
+Dazu haben wir auf der einen Seite Frau Monika Breitner heute zu Gast. Sie studiert Schulpädagogik und will später als Lehrerin in der Grund- und Hauptschule arbeiten.
+Unser zweiter Studiogast ist Werner Wild, er hat nach seinem Abitur eine Berufsausbildung zum Bootsbauer angefangen.
+Frau Breitner, Sie haben sich für ein Studium entschieden. Warum nicht für eine Ausbildung?
+**Breitner:** Hm, Sie wissen ja, wovon viele Mädchen träumen.
+Sie wollen vor einer Klasse stehen und Kinder unterrichten. Ich bin meinem Traum nachgegangen und habe gleich nach dem Abitur begonnen, Pädagogik zu studieren.
+Meine Wahl war klar.
+Hinzu kommt, das mir mein Studium großen Spaß macht, ich entwickle mich weiter, sowohl persönlich als auch intellektuell.
+Das ist eine wunderbare Erfahrung
+**Moderator:** Herr Wild, Sie haben eine Ausbildung angefangen, obwohl Sie das Gymnasium absolviert und das Abitur mit einer guten Note gemacht haben.
+**Wild:** Meine Eltern wollten, dass ich aufs Gymnasium gehe, das war für sie der einzige Weg.
+Ich wusste schon im Gymnasium, was ich werden wollte.
+Ich konnte es kaum abwarten, das Abi endlich hinter mir zu haben, um meine Handwerksausbildung zum Bootsbauer anzufangen.
+**Breitner:** Aber mit dem Abitur konnten Sie doch Schiffbauingenieur studieren, was ich viel interessanter finde.
+Außerdem verdient man damit später viel mehr Geld.
+Und sicher genießt ein Schiffbauingenieur mehr Prestige.
+**Wild:** Das soziale Ansehen und der Verdienst kommen bei mir an zweiter Stelle.
+Meine Ausbildung macht mir Spaß, außerdem bleibt mir der Weg zum Studium nach Abschluss der Ausbildung immer noch offen, wenn ich es für meine berufliche Laufbahn für richtig halte.
+**Moderator:** Frau Breitner, Sie sind also der Ansicht, wer einen guten Job haben will, muss studieren.
+Natürlich dauert ein Studium viel länger als eine Ausbildung und kostet auch mehr Geld.
+**Breitner:** Viele Berufe setzen ein Studium voraus, die Berufswahl hängt mit den eigenen Wünschen, Vorstellungen und Fähigkeiten zusammen.
+Herr Wild hat sich für die Bootsbauer-Ausbildung entschieden, weil ihm das genau liegt und ihn auch die Ausbildung an sich sehr interessiert.
+Ich habe mich für den Lehrerberuf entschieden, weil diese Tätigkeit sehr abwechslungsreich und interessant ist.
+**Wild:** Wichtig ist, dass man das, was man tut, gerne macht.
+Natürlich gibt es Studiengänge, die höhere Gehälter und bessere Berufschancen versprechen.
+Wer allerdings nur an die Karriere denkt, wenn er studiert, wird sicher irgendwann unglücklich.
+**Moderator:** Die Ausbildung ist nicht einfach, erstens braucht man einen Ausbildungsplatz und muss neben guten schulischen Leistungen auch noch handwerkliche Fähigkeiten mitbringen.
+**Wild:** Und Teamfähigkeit muss auch unbedingt vorhanden sein.
+Deshalb müssen Auszubildende zwei Wochen lang ein Praktikum in der Bootshalle leisten, bevor der Ausbildungsvertrag unterschrieben wird.
+Eine gute Berufsausbildung dauert ziemlich lang.
+Drei bis dreieinhalb Jahre und es ist eine Mischung aus Theorie und Praxis, was ich eigentlich super finde.
+**Moderator:** Frau Breitner, finden Sie ein Studium interessanter und wichtiger für das Berufsleben als eine Ausbildung?
+**Breitner:** Nein, das würde ich nicht behaupten. Alle Berufe sind wichtig und werden gebraucht.
+Wer studiert, arbeitet mehr wissenschaftlich, aber auch für die eher praktischen Arbeiten sind Leute mit einer guten Ausbildung gefragt.
+**Moderator:** Außerdem haben diejenigen, die eine Ausbildung abgeschlossen haben, in vielen Berufen bessere Aussichten eine Arbeit zu bekommen als Absolventen der Uni.
+**Wild:** Ja, viele werden nach Abschluss der Ausbildung vom Betrieb übernommen, in dem die Ausbildung stattgefunden hat.
+Ein Bootsbauer hat auch im Ausland gute Verdienstmöglichkeiten.
+Deutsche Handwerker und Fachleute finden leicht eine Arbeit im Ausland.
+Außerdem dürfen wir nicht vergessen, dass viele deutsche Firmen im Ausland produzieren und dort werden Leute mit guter Ausbildung gebraucht.
+**Moderator:** Frau Breitner, waren Ihre Eltern mit Ihrer Wahl, Lehrerin zu werden, einverstanden?
+**Breitner:** Für meine Eltern war es immer wichtig, dass ich einen anständigen Beruf habe, der mir sichere Arbeit garantiert, und ich glaube, dass sie sich über diesen Entschluss sehr gefreut haben.
+**Moderator:** Und wie sieht es bei Ihnen aus?
+**Wild:** Bei mir war es ganz anders.
+Da meine Eltern studierte Leute sind, wollten sie unbedingt dass ich studiere, und aus diesem Grund bin ich auch aufs Gymnasium gegangen.
+Als ich ihnen gesagt habe, dass ich Bootsbauer werden will, hat es großen Ärger gegeben.
+Zum Schluss haben sie aber nachgegeben und mir viel Glück gewünscht!
+**Moderator:** Wichtig ist vor allem, dass einem der erlernte Beruf Spaß macht, oder?
+**Wild:** Richtig!
+Aber das reicht nicht.
+Ein Beruf muss einem auch gute Arbeitsbedingungen, Verdienstmöglichkeiten und eine gute Karriere ermöglichen.
+**Breitner:** Ich würde auf keinen Fall einen langweiligen Bürojob machen, der mich nicht immer wieder aufs Neue fordert.
+**Moderator:** Herr Wild, Frau Breitner ich bedanke mich für Ihre Zeit.
+Liebe Zuhörerinnen und Zuhörer, ich wünsche Ihnen einen schönen Tag und warte auf Ihre Fragen bei unserer nächsten Diskussion “Frage und Antwort”.`,
+      },
     ],
   },
   {
