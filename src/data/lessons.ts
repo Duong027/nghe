@@ -7009,7 +7009,87 @@ Liebe Zuhörerinnen und Zuhörer, ich wünsche Ihnen einen schönen Tag und wart
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-2-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de2_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Eine geführte Radtour mit Einkehr bietet der Allgemeine Deutsche Fahrrad-Club am Samstag, 8. September, an.
+Los geht es um 8.44 Uhr am Mannheimer Hauptbahnhof am Gleis 1.
+Die etwa 50 kilometer lange Ausfahrt auf Asphalt und Waldwegen wird mit einem Tempo von 16 bis 20 Kilometern pro Stunde gefahren.
+Auf der Strecke sind 300 Meter Höhenunterschied zu überwinden Der ADFC empfiehlt die Teilnahme mit einem Tourenrad.
+Weitere Auskünfte und Anmeldung gibt es beim Tourenleiter Thomas Schuff unter der Nummer 0151/10 63 77 60.`,
+      },
+      {
+        id: 'de-thi-b1-module-2-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de2_teil1_1.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Das Mannheimer Schloss bietet in dieser Woche mehrere Führungen rund um das Thema “Höfisches Leben” an.
+Am Samstag, 1. September, 10.30 Uhr, erleben Kinder ab acht Jahren ein Stück barocker Festkultur - mit Kostümen, Musik und Tanz.
+Um 14.30 Uhr erhalten Interessierte bei einem Rundgang durch die wieder eingerichteten Räume einen Einblick in die besten Zeiten des Mannheimer Schlosses.
+Am Sonntag, 2. September, 14.30 Uhr, lädt das Schloss dann ein, die Feste der Barockzeit und die passenden Schlossräume kennen zu lernen. Anmelden kann man sich für alle Führungen unter 06221/658880.`,
+      },
+      {
+        id: 'de-thi-b1-module-2-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de2_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Alexandra, hier ist Florian aus deiner alten Klasse!
+Wie geht's dir denn so?
+Ist dir klar, dass unser Abi jetzt schon fast 5 Jahre her ist?
+Höchste Zeit für unser erstes Klassentreffen!
+Ich hab mich mit einigen von der alten Truppe zusammengetan und wir versuchen im Moment, Adressen und Telefonnummern zu aktualisieren.
+Meld dich doch mal bei mir und sag mir, mit welchen Leuten du noch Kontakt hast.
+Wenn wir die Namen alle zusammenhaben, überlegen wir, wann und wo wir das Treffen organisieren.
+Tschüss!`,
+      },
+      {
+        id: 'de-thi-b1-module-2-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de2_teil1_3.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo, Herr Helbig, hier ist die Kronen-Apotheke.
+Wir rufen wegen des Blutdruckmessers an, den Sie bei uns bestellt haben.
+Das Modell, das Sie haben wollen, gibt es leider nicht mit einer extra großen Manschette für starke Arme.
+Sie müssten dann doch das andere Gerät nehmen, über das wir schon gesprochen haben, das heißt das Omron i-Q142.
+Es kostet allerdings 189 Euro, also 30 Euro mehr als das andere.
+Wäre das in Ordnung?
+Bitte rufen Sie uns zurück! Danke!`,
+      },
+      {
+        id: 'de-thi-b1-module-2-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de2_teil1_4.mp3',
+        text: `Sie hören eine Durchsage auf einem Sportfest.
+Liebe Kinder, liebe Eltern, nur noch kurze Zeit und die lang erwarteten Sommerferien sind da.
+Endlich!
+Also ausschlafen, keine Hausaufgaben, einfach Sommer, Sonne, erste Sahne!
+Um Euch die Ferien noch schöner zu machen, haben einige örtliche Vereine und Organisationen für Euch erstmals ein spannendes, vielfältiges und interessantes Ferienprogramm zusammengestellt.
+Schaut einfach mal rein und sucht euch die passenden Aktionen raus.
+Also, viel Spaß dabei wünscht euch das “Ferienprogramm-Organisationsteam” des SSC Straßkirchen!`,
+      },
+      {
+        id: 'de-thi-b1-module-2-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de2_teil1_5.mp3',
+        text: `Sie hören eine Durchsage im Flugzeug.
+Herzlich Willkommen an Bord Ihres German-Wings-Fluges nach Athen.
+Die Flugzeit wird etwa 2 Stunden und 45 Minuten betragen.
+Bitte sorgen Sie dafür, dass großes und schweres Handgepäck sicher unter Ihrem Vordersitz platziert ist.
+Für kleinere Handgepäckstücke und Garderobe nutzen Sie bitte die Gepäckfächer über Ihnen.
+Schnallen Sie sich jetzt an und ziehen Sie Ihren Sitzgurt fest.
+Aus Sicherheitsgründen empfehlen wir Ihnen, während des gesamten Fluges angeschnallt zu bleiben.
+Wir möchten noch darauf hinweisen, dass das Rauchen auf allen unseren Flügen verboten ist.`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-3',
