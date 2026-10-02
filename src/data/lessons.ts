@@ -6849,6 +6849,42 @@ Mit einem Sieg von 3:0 gegen die TuS Koblenz hat gestern der SFV Mainz in der Re
 Die gesamte Mannschaft von Trainer Max Schleifer zeigte sich in Bestform und hatte leichtes Spiel gegen die Kicker aus Mainz, die ohne den verletzten Landau antreten mussten.
 Die ersten beiden Tore fielen in der 19. und 25. Minute durch Hansen und nach der Halbzeit gelang Hassel nach einem Foul an seinem Kollegen Brahms ein weiterer Treffer.`,
       },
+      {
+        id: 'de-thi-b1-module-1-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de1_teil2.mp3',
+        text: `Sie sind mit einer Busreisegruppe in Mainz und wollen die Stadt besichtigen.
+Guten Morgen alle zusammen!
+Ich hoffe, dass Sie sich von unserer gestrigen langen Busreise erholt haben.
+Wie Sie schon gesehen haben, ist die Rhein-Main-Jugendherberge sehr modern und gemütlich eingerichtet.
+Sie bietet allen Komfort, und Sie können sich bestimmt nicht beschweren.
+Jetzt ein paar Worte zu Mainz. Es ist natürlich keine Weltstadt, aber es hat doch einige Sehenswürdigkeiten zu bieten und ist dabei noch wahnsinnig sympathisch.
+Wir starten am besten den Tag mit einem ordentlichen Frühstück in der Stadt.
+Mit dem Bus sind wir in ein paar Minuten direkt in der Stadt.
+Zum Frühstück haben wir eine große Auswahl.
+Wer viel und gut essen will, geht ins Eisgrub-Bräu.
+Die Brauerei bietet neben dem selbst gemachten Bier auch ein riesiges Frühstücks-Buffet für wenig Geld.
+Während Sie frühstücken, können Sie sogar bei der Bierherstellung zuschauen.
+Wenn Sie aber morgens noch kein Bier trinken wollen, können wir auch in eins der unzähligen preiswerten Cafés gehen.
+Besonders nett ist die Bücherbar Lomo, in der man nicht nur leckeres Frühstück und köstlichen Kaffee bekommt, sondern sich auch bei den vielen Büchern bedienen kann, die in großen Regalen herumstehen.
+Danach gehen wir auf jeden Fall zu Fuß zur Kirche St. Stephan.
+Keine Angst, die ist alles andere als langweilig.
+Der berühmte Maler Marc Chagall hat dort nämlich einige Fenster nicht nur sehr schön gestaltet, sondern auch dafür gesorgt, dass der Innenraum eine ganz besondere Atmosphäre bekommt.
+Die ganze Kirche scheint mit einem blauen Licht gefüllt zu sein.
+Wenn Sie dann noch mehr Kultur erleben wollen, gehen wir in den riesigen Mainzer Dom.
+Der Weg dorthin führt durch die hübsche Altstadt.
+Da gibt es für Shoppingfreunde viele Möglichkeiten, Souvenirs preisgünstig zu kaufen.
+Nach dem vielen Schauen und Laufen ist eine kurze Pause im Café Annabatterie in der Neustadt ein Muss. Neben einem Heißgetränk bekommt man dort leckere Snacks.
+Unbedingt die Focaccia probieren.
+Danach fahren wir noch mal gemütlich zur Jugendherberge, um etwas Energie für das Nachtleben zu tanken - denn das beginnt in Mainz relativ spät.
+In der Nacht haben Sie viele Möglichkeiten zur Unterhaltung.
+Der Club Schön Schön ist auf jeden Fall zu empfehlen.
+Außerdem befindet sich ein sehr hübscher kleiner, sehr beliebter Club namens Red Cat direkt am Schillerplatz im Stadtzentrum.
+Vom einen Club zum anderen zu gehen, ist gar kein Problem, denn in Mainz ist alles Wichtige zu Fuß zu erreichen.
+Das war also nur ein Vorgeschmack.
+Alles andere werden Sie mit allen Sinnen erleben können!
+Ich hoffe, es gefällt Ihnen in Mainz! Gehen wir jetzt zur Haltestelle, um auf den Bus zu warten.`,
+      },
     ],
   },
   {
