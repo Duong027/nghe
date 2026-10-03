@@ -7262,7 +7262,268 @@ Liebe Zuhörerinnen, liebe Zuhörer, ich wünsche Ihnen noch einen schönen Aben
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-3-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de3_teil1_beispiel.mp3',
+        text: `Sie hören eine Durchsage auf einer Autoausstellung.
+Sehr geehrte Besucher, wir bitten um Ihre Aufmerksamkeit!
+In Kürze beginnt das Highlight dieses Tages, die Präsentation eines der schönsten Sportwagen der Welt, des lange erwarteten Alfa 8C Spider.
+Das neue Modell der Firma Alfa Romeo erwartet Sie zusammen mit einer Reihe prominenter Gäste im hinteren Bereich des Ausstellungsgeländes.
+Außerdem möchten wir Sie auf eine Programmänderung am Nachmittag hinweisen.
+Der Runde Tisch zum Thema “Mobilitätskonzepte der Zukunft” wird nicht wie angekündigt um 15 Uhr, sondern um 17.00 Uhr in Saal 2 stattfinden.`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de3_teil1_1.mp3',
+        text: `Sie hören eine Durchsage in einem Vergnügungspark.
+Meine Damen und Herren, wir bitten einen Augenblick um Ihre Aufmerksamkeit!
+Ein kleiner Junge hat sich verlaufen und seine Eltern verloren.
+Er ist etwa vier Jahre alt, hat kurze blonde Haare und trägt einen hellblauen Jogging-Anzug mit einem roten Anorak und weißen PumaTurnschuhen.
+Er spricht kein Deutsch.
+Er scheint große Angst zu haben und weint.
+Die Eltern bzw. Begleiter des Jungen werden gebeten, zur Information neben dem Restaurant zu kommen und ihn dort abzuholen.`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de3_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Judith, ich bin's, Christian.
+Wollte mich nur kurz zurückmelden.
+Vorgestern bin ich aus dem Urlaub zurückgekommen.
+Ich habe zwar einen ganz schrecklichen Sonnenbrand, aber es war trotzdem ganz toll!
+Du, ich hab ziemlich viele Fotos gemacht und wollte dir ein paar schicken, aber irgendwie geht es einfach nicht, irgendwas stimmt mit deiner E-Mail nicht.
+Oder funktioniert das ganze Internet bei dir nicht?
+Ach ja, ich hab dir auch ein hübsches Souvenir mitgebracht!
+Ruf mich an! Bussi.`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de3_teil1_3.mp3',
+        text: `Sie hören eine Durchsage im Radio.
+Und hier ist wieder die Stauprognose des ADAC.
+Auch am kommenden Wochenende müssen Autofahrer besonders im Süden des Landes wieder mit vollen Autobahnen rechnen.
+Insgesamt wird der Verkehr auf den Autobahnen zwar deutlich geringer sein als in den Vorwochen, auf einzelnen Strecken muss allerdings trotzdem mit Staus gerechnet werden.
+Die Zahl der Herbstbaustellen steigt jetzt stetig an.
+Zusätzlich trifft man auf viele Späturlauber und Ausflügler, die zum Bergwandern in Richtung Alpen unterwegs sein werden.
+Dadurch bleiben vor allem die Straßen in Süddeutschland belastet.`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de3_teil1_4.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Meine Damen und Herren, Sie sind verbunden mit dem Anrufbeantworter des Spielzeugmuseums Marenbach.
+Unser Museum ist zurzeit wegen Renovierungsarbeiten geschlossen.
+Die Wiedereröffnung findet am Montag, den 15. November statt.
+Am selben Tag beginnt auch unsere Sonderausstellung mit dem Thema “Bärenstark! Tiere in der Spielzeugwelt” mit zahlreichen Objekten von der Antike bis zur Gegenwart, die das ganz besondere Verhältnis zwischen Kind und Tier thematisieren.
+Während der Ausstellung bieten wir für Kinder ab fünf Jahren an insgesamt zehn Samstagen abwechslungsreiche Mitmachaktionen rund um das Thema Tiere an.`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de3_teil1_5.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Karin, ich bin's, Johanna.
+Du, ich muss dir unbedingt was erzählen!
+Stell dir vor, bei uns im Geschäft ist gestern Nacht eingebrochen worden!
+Die Diebe haben ganz genau gewusst, was sie wollten, die haben nur die richtig teuren Sachen mitgenommen, du weißt schon, Brillantschmuck, goldene Uhren und so.
+Echte Experten, sag ich dir!
+Die Polizei hat uns alle befragt, ob wir vielleicht in letzter Zeit irgendwas Verdächtiges bemerkt haben.
+So eine Aufregung!
+Komm heute Nachmittag mal vorbei, dann erzähl ich dir alles ausführlich.
+Bye bye!`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de3_teil2.mp3',
+        text: `Sie nehmen an einer Informationsveranstaltung über den Wohnungsmarkt für Studenten in München teil.
+Nun habt ihr euch ins erste Semester eingeschrieben und bald fangt ihr mit eurem Studium an.
+Ich begrüße euch alle recht herzlich und hoffe, dass euch der Start leicht fällt.
+Eins der größten Probleme in unserer Stadt ist die Suche nach Wohnung oder Zimmer.
+Damit ihr die Situation versteht, erzähle ich euch, was ich alles erlebt habe, als ich hier vor vier Jahren angefangen habe zu studieren.
+Die Wohnungssuche hat lange gedauert und war eine Qual.
+Und bis heute hat sich an der Lage nicht viel geändert.
+“München? Na dann viel Spaß beim Suchen!” sagten mir Bekannte und Freunde, als ich ihnen erzählte, wo ich einen Studienplatz bekommen hatte.
+Ich habe sie nicht ernst genommen, bin sofort auf die Suche nach einer Wohnmöglichkeit gegangen und war sicher, dass ich bald Erfolg haben würde.
+Da ich Schwierigkeiten hatte, ein Einzelzimmer oder eine kleine Wohnung zu mieten, habe ich mich mit zwei anderen Mitstudenten zusammengetan, um gemeinsam etwas Größeres zu mieten und die Kosten zu teilen.
+Wir hatten auch das ein oder andere gute Angebot aus den Immobilienseiten der Zeitung, doch mündliche Zusagen und sogar ausgefüllte Mietverträge sind wertlos, wenn dem Vermieter einfällt, dass ihm eine Wohngemeinschaft irgendwie doch etwas verdächtig ist.
+Und solche Vermieter gibt es leider in großer Menge.
+Sie verbinden das Wort “Wohngemeinschaft” mit lauten Partys, wütenden Nachbarn und verspäteter Mietzahlung.
+Nach diesen Erfahrungen habe ich dann Zettel ans schwarze Brett gehängt und Inserate im Internet aufgegeben.
+Außerdem habe ich natürlich Freunden und Bekannten von meinen Problemen erzählt und sie gebeten, mir Bescheid zu sagen, falls jemand “zufällig” von einer freien Wohnung oder einem leeren Zimmer hören sollte.
+Trotz all dieser Bemühungen war einfach nichts zu finden und ich hatte schon fast die Hoffnung aufgegeben.
+Ihr könnt euch gar nicht vorstellen, was ich mir alles angeschaut habe!
+Wählerisch war ich schon lange nicht mehr, Hauptsache ein Dach über dem Kopf!
+Nach zwei Monaten voller Anstrengung habe ich dann endlich ein Zimmer in einer Wohngemeinschaft gefunden.
+Ich hatte endlich mein eigenes Zimmer, allerdings mit einem Mitbewohner, der jeden Tag stundenlang Cello spielt.
+Warum es ausgerechnet mit dieser Wohnung geklappt hat, weiß ich bis heute nicht.
+Wir waren über 150 Interessenten und ich habe alles genauso gemacht, wie bei den erfolglosen Versuchen davor.
+Doch diesmal war ich aus irgendwelchen Gründen der Glückliche.
+Und nun kann ich euch mit auf den Weg geben: Geduld und fest am Ball bleiben, dann klappt es irgendwie mit der Wohnungssuche.
+Das Wichtigste ist: Plant viel Zeit ein!
+Es kann Monate dauern, bis ihr was gefunden habt.`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de3_teil3.mp3',
+        text: `Sie sitzen auf einer Bank im Park und hören, wie sich ein Mann und eine Frau über die Ferien unterhalten.
+**Rainer:** Hallo, Sonja! Schön, dich wiederzusehen!
+**Sonja:** Hallo Rainer, wie geht' s?
+**Rainer:** Gut, und dir?
+Du siehst so schön braun aus.
+Du hast bestimmt noch Ferien!
+**Sonja:** Na ja, ich bin vorgestern zurückgekommen.
+Montag muss ich wieder arbeiten.
+**Rainer:** Warst du im Ausland?
+**Sonja:** Nein, an der Nordsee und ich muss sagen, dass ich diesmal viel Glück hatte.
+Das Wetter war wunderschön.
+Wir hatten die ganze Zeit Sonne und es war windstill.
+Nur das Wasser war etwas kühl, das hat mich ein bisschen gestört.
+**Rainer:** Konntest du bei der Kälte ins Wasser gehen?
+**Sonja:** Ach, ja!
+Natürlich nicht ganz früh am Morgen, aber später dann schon.
+Man gewöhnt sich schnell an die Kälte und genießt es, wenn man aus dem Wasser kommt und die Sonne brennt.
+Du legst dich auf deinen Liegestuhl und schaust dir das Meer an.
+Die reine Erholung, sage ich dir!
+**Rainer:** Was, wird dir denn nicht langweilig, den ganzen Tag nur herumzuliegen und nichts tun?
+**Sonja:** Na ja, so wie du es dir vorstellst, also nur rumliegen, war es eigentlich nicht.
+Ich habe zwischendurch Bücher gelesen, bin geschwommen.
+Außerdem hab ich lange Spaziergänge die Küste entlang unternommen, habe mich sehr nett mit anderen Urlaubern und Einheimischen unterhalten und mich sogar mit einigen angefreundet.
+**Rainer:** Gibt es dort nichts zu besichtigen?
+**Sonja:** Doch, doch!
+Es gibt interessante Orte, Kirchen und kleine Museen.
+Diesmal habe ich aber Erholungsurlaub gemacht.
+Du weißt ja, wie stressig meine Arbeit ist.
+**Rainer:** Ja, das verstehe ich natürlich.
+Deine Tätigkeit ist sehr anspruchsvoll und mit viel Verantwortung und Druck verbunden.
+Da brauchst du einfach ab und zu Erholung, sonst fällst du irgendwann um.
+**Sonja:** Genau, so ist es.
+Und du?
+Was hast du in den Ferien gemacht?
+**Rainer:** Eigentlich nicht viel.
+Ich habe meinen Urlaub für unseren Umzug genutzt.
+**Sonja:** Ah ja, stimmt, ihr seid ja umgezogen.
+Das hast du vor dem Sommer mal kurz erwähnt, aber mir war nicht klar, dass ihr wirklich fest entschlossen wart.
+**Rainer:** Wir haben eine gute Wohnung angeboten bekommen.
+Die Lage ist schön und die Miete sehr günstig.
+Sag mal, wie ist denn so die Unterhaltung an der Nordsee?
+**Sonja:** Es gibt gemütliche Restaurants, Cafés, Bier- und Weinlokale.
+Generell habe ich den Eindruck, dass die Nordsee von Leuten vorgezogen wird, die eher Erholung als Unterhaltung suchen.
+**Rainer:** Dann ist das also nichts für junge Leute, die Abenteuer und Spannung suchen.
+**Sonja:** Sagen wir lieber, die meisten jungen Menschen.
+Es gibt schon junge Menschen, die an der Nordsee Urlaub machen.
+Ach, jetzt ist der Sommer leider vorbei und es dauert wieder furchtbar lange bis zum nächsten Urlaub!
+Also, ich hoffe, dass diese Zeit schnell vergeht, und wir uns bald wieder auf das nächste Urlaubsziel freuen können!!
+**Rainer:** O ja, das wünsche ich mir auch!`,
+      },
+      {
+        id: 'de-thi-b1-module-3-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de3_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Welt der Arbeit” diskutiert mit den Chefsekretärinnen Rebekka Brandt und Corinna Zöllner über ihre Aufgaben in den berühmten Chefbüros.
+**Moderator:** Liebe Zuhörerinnen, liebe Zuhörer, ich heiße Sie bei unserer Sendung über die Arbeit willkommen.
+Unser Thema heute “Chefsekretärinnen und ihre Aufgaben”.
+Dazu haben wir Frau Rebekka Brandt und Frau Corinna Zöllner eingeladen.
+Sie arbeiten als Chefsekretärinnen in derselben Firma und wir werden erfahren, wie Ihr Alltag abläuft.
+Ihr Beruf ist mit vielen Klischees verbunden.
+Frau Brandt, welches fällt Ihnen sofort ein?
+**Brandt:** Dem Chef Kaffee kochen und bringen.
+**Zöllner:** Dabei ist das nur ein kleiner Teil unserer Arbeit.
+Es geht darum, den Chef bei seiner Arbeit zu unterstützen.
+Und dazu gehört auch mal Kaffee kochen oder kopieren.
+Aber das ist nicht unsere Hauptaufgabe.
+**Moderator:** Noch ein Klischee: Sie müssen die Post erledigen.
+Bekommen Sie viele E-Mails am Tag?
+**Zöllner:** Jeden Tag kommen Hunderte von E-Mails rein, die werden sortiert und in die verschiedenen Abteilungen weitergeleitet.
+Jede Abteilung dient einem bestimmten Zweck und erledigt die E-Mails, für die sie zuständig ist.
+Zu mir kommen etwa 100 E-Mails, die oft mit konkreten Terminen zu tun haben.
+**Brandt:** Etwa 80 sind an meinen Chef direkt geschrieben und noch mal 80 an mich.
+Viele Leute wissen ja, dass die E-Mails eh über meinen Tisch gehen, also schicken sie ihre Schreiben an mich.
+Ich lese alle E-Mails und Briefe und sortiere sie: Was ist wichtig? Was muss mein Chef sofort bekommen?
+Es geht so weit, dass ich ganz wichtige Dinge ausdrucke und ihm auf den Tisch lege, mit der kurzen Bemerkung “dringend!”.
+**Moderator:** Wie muss eine E-Mail formuliert sein, damit sie noch am gleichen Tag vom Chef gelesen wird?
+**Brandt:** Ich lese zuerst die letzten Zeilen, denn da steht, was der Absender eigentlich will: “Können wir uns mal treffen”? zum Beispiel.
+Und wenn ich Formulierungen lese wie: “Falls Sie Interesse haben…” dann weiß ich: Okay, das eilt nicht so.
+Das kann auch später bearbeitet werden.
+**Moderator:** Frau Zöllner, wie formuliert man eine freundliche Absage?
+**Zöllner:** “Aufgrund seiner vielen Termine…” solche Sachen schreibe ich.
+Oder “Wir wünschen trotzdem viel Erfolg”.
+Meine Antwort hängt von der Situation ab und ist immer höflich und interessant.
+**Moderator:** Und am Telefon, wie weist man da jemanden freundlich ab?
+**Brandt:** Also, keine von uns ist unhöflich, aber nicht alle Anrufer können natürlich gleich und direkt mit dem Chef verbunden werden.
+Ich höre mir an, was der Anrufer zu sagen hat.
+Viele Anrufe betreffen Dinge, für die mein Chef nicht zuständig ist.
+Ich sage dann: Tut mir leid, der Chef hat im Moment viel zu tun, und verbinde die Leute mit der zuständigen Fachabteilung.
+**Moderator:** Kann man trotzdem die Nummer des Chefs direkt wählen?
+**Brandt:** Nein, die Anrufe gehen bei uns im Vorzimmer ein.
+Der Chef hat schon mal den Hörer persönlich abgenommen, wenn ich mal kurz aus dem Büro war.
+Da habe ich ihm empfohlen, dass er es nicht macht.
+Es gibt ein paar Leute, die immer wieder anrufen und nichts mit unserer Arbeit zu tun haben.
+Man weiß ja nie, wer das ist und warum er das tut.
+**Moderator:** Während Ihrer Arbeit passieren ab und zu bestimmt auch Fehler.
+Vor welchen Fehlern haben Sie besonders Angst?
+**Zöllner:** Jeder Fehler ist während meiner Arbeit schlimm.
+Ich kann mich daran erinnern, dass mein Chef mal einen wichtigen Termin hatte.
+Es wurde mir mitgeteilt, dass er eine Stunde früher zum Termin eintreffen sollte.
+Ich habe vergessen, es ihm zu sagen.
+Das war natürlich sehr peinlich.
+**Brandt:** Ich habe immer sehr viel Angst bei vertraulichen E-Mails.
+Wenn es zum Beispiel um Personalsachen geht, um Mitarbeiter.
+Diese E-Mails darf ich auf keinen Fall an den falschen Empfänger schicken.
+Bisher ist mir das Gott sei Dank noch nicht passiert.
+Bei einer Reise habe ich mal die Abflugszeit und die Ankunftszeit verwechselt, da musste der Fahrer stundenlang am Flughafen warten.
+Zum Glück nur er und nicht der Chef.
+**Moderator:** Gibt es in Ihrem Büro einen Schrank für Notfälle, in dem Kopfschmerztabletten oder eine saubere Krawatte für Ihren Chef liegen?
+**Brandt:** Kopfschmerztabletten gibt es in Mengen, aber Kleidung nicht.
+Da würde der Fahrer vom Chef schnell eine Krawatte besorgen.
+**Moderator:** Und Sie, besorgen Sie für Ihren Chef auch ein Ticket für ein Fußballspiel oder Karten für die Oper?
+**Zöllner:** Na ja, also Karten für die Oper habe ich schon mal besorgt, obwohl die Oper ausverkauft war!
+Allerdings nicht für meinen jetzigen Chef, sondern für einen früheren.
+Fußballwünsche würde ich an andere Leute weiterleiten.
+**Moderator:** Wie kriegt man noch Karten für eine ausverkaufte Oper?
+Das würde mich jetzt interessieren.
+**Zöllner:** Man setzt alle in Bewegung.
+Jeden anrufen, den man kennt, alle Reisebüros, die haben manchmal Restkarten.
+**Moderator:** Bei welchen privaten Sachen haben Sie Ihrem Chef geholfen, Frau Brandt?
+**Brandt:** Als er aus Amerika nach Deutschland kam und die Führung unseres Betriebs übernahm, ist auch seine Familie nach Deutschland gezogen.
+Ich habe beim Ausfüllen deutscher Formulare geholfen und Formalitäten mit den Schulen für seine Kinder erledigt.
+Seine Frau konnte damals nicht so gut Deutsch. Heute erledigt sie alles selbst.
+**Moderator:** Möchten Sie manchmal die Position Ihres Chefs übernehmen?
+**Brandt:** Nein, ich würde es nicht machen wollen.
+Man ist ständig unterwegs, dauernd unter Stress und trägt große Verantwortung.
+So was wie freie Wochenenden kennt mein Chef eigentlich gar nicht.
+**Moderator:** Haben Sie das Gefühl, dass Sie als Sekretärinnen genügend akzeptiert werden?
+**Zöllner:** Wenn ich alte Schulfreundinnen treffe und ihnen erzähle, was ich jetzt mache, fragen die schon: “Was, Sekretärin, aber du hast doch studiert?!”
+Die können sich nicht vorstellen, dass dieser Job auch spannend und anspruchsvoll ist.
+Innerhalb der Firma ist es ganz anders.
+Die sagen alle: Okay, wenn sie für den Chef arbeitet, kann sie nicht so blöd sein.
+**Moderator:** Es gibt in Deutschland etwa 500.000 Menschen, die in diesem Beruf arbeiten. Nur etwa 3,5 Prozent davon sind Männer: Woran liegt das?
+**Zöllner:** Es ist einfach so, dass man immer noch komisch schaut, wenn sich im Sekretariat ein Mann am Telefon meldet.
+Man erwartet eben keinen Mann im Vorzimmer.
+Das ist schade, wenn ein Beruf so einseitig ist.
+**Moderator:** Was stört Sie am meisten an Ihrem Beruf?
+**Brandt:** Dass die Arbeit mein Leben bestimmt.
+Die Arbeiten, die ich zu erledigen habe, sind einfach zu erledigen.
+Da muss sich das Privatleben anpassen.
+**Zöllner:** Ich muss immer zu jeder Zeit, an Wochenenden an Feiertagen, rund um die Uhr erreichbar sein und arbeiten, wenn mein Chef wichtige Termine hat.
+**Moderator:** Ich hätte noch viele Fragen, und unser Publikum sicher auch!
+Aber leider ist unsere Sendung bald zu Ende!
+Ich bedanke mich recht herzlich für dieses interessante Gespräch!`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-4',
