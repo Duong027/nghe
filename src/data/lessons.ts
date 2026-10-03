@@ -7531,7 +7531,267 @@ Ich bedanke mich recht herzlich für dieses interessante Gespräch!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-4-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de4_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Im Rahmen der Schmiedeberger Sporttage findet am Samstag, den 19.06. und am Sonntag, den 20.06. wieder ein offenes Tennisturnier statt.
+Alle Tennisinteressierten sind hiermit recht herzlich eingeladen, daran teilzunehmen.
+Dieses Jahr können zum ersten Mal auch Jugendliche ab 14 Jahren teilnehmen.
+Beginn des Turniers ist am Samstag, 10:00 Uhr.
+Das Finale findet am Sonntag ab 11:00 Uhr statt.
+Wer Interesse hat, am Turnier teilzunehmen, meldet sich am Samstag zwischen 09:00 und 09:30 Uhr auf dem Tennisplatz in Schmiedeberg, um sich anzumelden.`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de4_teil1_1.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Gehören Sie zu den Menschen, die gerne anderen helfen wollen, aber nicht wissen, wo Ihr Geld wirklich gebraucht wird?
+Zum Glück gibt es den Verein “Aktion Hilfe für Kinder”.
+Er hilft da, wo Hilfe dringend nötig ist, und zwar unbürokratisch und schnell.
+Helfen Sie jetzt mit einer Spende!
+Der Verein wurde im Jahr 2010 gegründet und hat es sich zur Aufgabe gemacht, körperlich und geistig behinderte Kinder und Jugendliche zu unterstützen, um ihnen ein Stück Lebensqualität zurückzugeben.
+Spendenkonto: Konto 421421, BLZ 25120510, Bank für Sozialwirtschaft.`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de4_teil1_2.mp3',
+        text: `Sie hören den Wetterbericht im Radio.
+Heute zeigt sich im Norden wieder die Sonne, in der Mitte und im Süden ziehen dichtere Wolken durch, teils gibt es aber auch größere Wolkenlücken.
+Nur vereinzelt regnet es dort etwas.
+Nur südlich der Donau können sich Schauer und Gewitter entwickeln.
+Die Tageshöchsttemperaturen erreichen 19 bis 24, im Südwesten bis 25 Grad.
+In der Nacht zum Donnerstag ist es vor allem im Norden und in der Mitte vielfach gering bewölkt oder klar.
+Im Süden ist es teils dichter bewölkt.
+Die Temperaturen sinken auf Werte zwischen 7 und 15 Grad.`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de4_teil1_3.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Franzi!
+Hier ist Stefanie.
+Du, wegen der Party morgen Abend bei Lukas: Ich hab's mir überlegt und komme doch mit!
+Eigentlich wollte ich ja nicht, aber das ist doch Unsinn.
+Ich meine, nur weil Bastian auch da ist, muss ich doch nicht zu Hause bleiben, oder?
+Das würde ja aussehen, als ob ich ihm nicht begegnen wollte.
+Könntest du mich vielleicht mitnehmen?
+Bitte meld dich und sag mir, um wie viel Uhr ich bei dir vorbeikommen soll!
+Bis dann!`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de4_teil1_4.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag Herr Schreiner!
+Ich bin Klara Steinkamp und rufe von der Sieg-Reha an.
+Es geht um Ihren Kurs.
+Wir haben da ein kleines Problem mit Ihrer Krankenkasse.
+Die wollen Ihre Wassergymnastik nicht bezahlen, weil sie schon mal an so einem Kurs teilgenommen haben, und ein zweites Mal wird das nur unter ganz bestimmten Voraussetzungen genehmigt.
+Ich möchte Sie bitten, noch mal mit Ihrem Arzt zu sprechen, damit der einen neuen Antrag macht.
+Er wird schon wissen, was er da reinschreiben muss.
+Vielen Dank.
+Auf Wiederhören.`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de4_teil1_5.mp3',
+        text: `Sie hören eine Durchsage auf einem Straßenfest.
+Liebe Besucher! Unser Verein für herrenlose Hunde und Katzen braucht Geld!
+Unterstützen Sie uns und machen Sie mit bei unserer großen Tombola!
+Dank unserer Sponsoren - ein großes Dankeschön an dieser Stelle an Elektro Siebert, das Reisebüro Klein und Jonas und Co. - gibt es viele tolle Preise zu gewinnen, zum Beispiel Gutscheine für Bücher und CDs, einen Fernseher und als ersten Preis eine Reise nach Spanien!
+Kaufen Sie Lose, je mehr desto besser!
+Ein Los zwei Euro, 10 Stück 8 Euro.`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de4_teil2.mp3',
+        text: `Bei einer Info-Veranstaltung der Arbeitsagentur hören Sie den Erfahrungsbericht einer Krankenschwester-Praktikantin.
+Ich freue mich, dass ich eingeladen worden bin, um ein bisschen über meine Erfahrungen während meines Krankenschwester-Praktikums zu sprechen.
+Ich habe ein sechswöchiges Praktikum auf einer Station gemacht, auf der Diabetiker liegen, meistens Patienten, die am Fuß oder Bein operiert werden müssen.
+Größtenteils sind es ältere Leute, da diabetische Wunden erst im Alter, bei langer ungesunder Ernährung auftreten.
+Aber auch Nichtdiabetiker werden manchmal auf der Station untergebracht, wenn nämlich auf anderen Stationen kein Bett mehr frei ist oder wenn Verwandte der Patienten auf unserer Station liegen.
+Die Station besteht aus 6 Doppel- und 2 Einzelzimmern.
+Es gibt außerdem ein Schwesternzimmer, eine Küche, einen großen Abstellraum, ein großes Bad und einen Schrankraum.
+Zu meinen typischen Aufgaben gehört das Essenaustragen, Geschirr einsammeln, den Patienten bei allem zu helfen, was sie nicht alleine können, Mobiliar zu reinigen, bei Verbandswechseln zu helfen, Patienten zu den Untersuchungsräumen zu bringen, Wäsche ein- sowie aufzuräumen und Kaffee zu kochen.
+Ich kann sagen, dass mein Tagesablauf gut geplant, aber immer sehr hektisch war.
+Es war schwer, eine Aufgabe ohne Unterbrechung durchzuführen.
+Daran konnte ich mich bis zum Schluss nicht gewöhnen.
+Was habe ich im Einzelnen gemacht?
+Ich durfte bei Untersuchungen dabei sein und habe dadurch viel gelernt.
+So kann ich jetzt Fieber, Blutdruck und -zucker messen, Infusionen machen und Verbände wechseln und habe einige Erfahrungen in erster Hilfe.
+Aber selbst die Routineaufgaben waren nie unangenehm oder langweilig für mich, was für mich selbst überraschend war.
+Ich glaube, das liegt daran, dass jede Tätigkeit im Krankenhaus nicht nur mit den Aufgaben, sondern auch mit den Patienten zusammenhängt:
+Es gibt einen aufgabenorientierten und einen patientenorientierten Aspekt.
+So war es zum Beispiel nie langweilig, das Essen auszutragen, weil ich dabei immer im Gespräch mit den Patienten war.
+Ich habe festgestellt, dass ich für manche Patienten, besonders für diejenigen, die nicht oft Besuch bekamen, wie eine Brücke zur Außenwelt war.
+Sie suchten das Gespräch mit mir und schienen sich darüber zu freuen, dass sie jemanden zum Sprechen hatten.
+Mir ist aufgefallen, dass sie selbst für kleine Dinge wie ein Lächeln dankbar waren und oft sogar zurückgelächelt haben.
+Ich habe mir gedacht, dass das für eine Krankenschwester ein schönes Gefühl sein muss, obwohl ich in meinem Fall fragen muss, ob ich auf Dauer nicht zu sehr mit den Patienten leiden würde.
+Mir wurde erklärt, dass man nach einigen Jahren lernen kann, den Schmerz der Patienten auszuhalten und Mitleid zu zeigen, ohne selber mitzuleiden.
+Das kann ich mir allerdings nur schwer vorstellen.`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de4_teil3.mp3',
+        text: `Sie sind in einem Geschäft und hören, wie ein Mann und eine Frau sich über die Probleme ausländischer Kinder in Deutschland unterhalten.
+**Caroline:** Hallo Lukas!
+**Lukas:** Grüß dich, Caroline!
+Wie geht's?
+**Caroline:** Gut, danke, und dir?
+**Lukas:** Prima!
+Sag mal, was hast du denn da gekauft?
+Wozu brauchst du denn Luftballons?
+**Caroline:** Ach, die brauche ich für das Jugendzentrum.
+Wir machen da am Samstag eine Party.
+**Lukas:** Stimmt, du arbeitest ja da, also, ich meine ehrenamtlich.
+**Caroline:** Ja, ich gehe da nur in meiner Freizeit hin und Geld bekomme ich auch nicht dafür.
+**Lukas:** Und was genau machst du da?
+**Caroline:** Ich helfe ausländischen Kindern und Jugendlichen dabei, richtig gut Deutsch zu lernen.
+Außerdem helfen wir ihnen bei den Hausaufgaben.
+**Lukas:** Ich verstehe.
+Wenn sie nicht gut Deutsch können, haben sie Probleme, die Aufgaben zu verstehen.
+**Caroline:** Genau.
+Die Eltern sind aus verschiedenen Gründen in Deutschland und die Kinder können oft kein Deutsch, aber sie müssen in die Schule gehen.
+Natürlich hilft ihnen der Staat, aber das ist meistens nicht genug.
+Und da haben sich einige deutsche Eltern zusammengetan, um den Kindern zu helfen.
+Dabei helfen auch deutsche Klassenkameraden, die nachmittags ins Jugendzentrum kommen.
+**Lukas:** Das finde ich wirklich toll.
+Davon haben alle was, auch die Deutschen in der Klasse.
+So gibt es generell viel weniger Probleme im Unterricht. Helft ihr den Kindern nur bei den Schulfächern?
+**Caroline:** Nein, wir machen auch noch paar andere Sachen.
+Zum Beispiel Treffen an den Wochenenden, bei denen deutsche und ausländische Kinder zusammen sind.
+So lernen sich die Kinder besser kennen und verstehen.
+Ich habe z.B. eine Gruppe unter meiner Aufsicht, die sich für Theater interessiert und oft mit großem Erfolg auftritt.
+Die Stadt unterstützt uns bei unseren Bemühungen und ich glaube, dass wir in den letzten Jahren vieles erreicht haben.
+**Lukas:** Eure Arbeit ist wirklich sehr wichtig.
+Ich finde, man muss alles tun, damit diese Kinder sich nicht von der Gesellschaft ausgeschlossen fühlen.
+**Caroline:** Richtig.
+Die meisten unserer Kinder schaffen es, Kontakt zu deutschen Kindern zu finden und Freundschaften zu schließen.
+**Lukas:** Und du bringst ihnen also Deutsch bei.
+**Caroline:** Ja, ich unterrichte sie in Deutsch und erzähle ihnen gleichzeitig etwas von der deutschen Geschichte und Kultur.
+Natürlich lernen sie auch in der Schule vieles über Deutschland, aber das ist alles viel zu theoretisch.
+Ich mache es anders.
+Ich erzähle ihnen viele deutsche Märchen und singe mit ihnen zusammen deutsche Lieder.
+Das macht ihnen riesigen Spaß.
+**Lukas:** Braucht ihr vielleicht noch Leute?
+**Caroline:** Natürlich brauchen wir immer Leute.
+Hast du nachmittags oder am Wochenende Zeit?
+**Lukas:** Unter der Woche habe ich leider wenig Zeit.
+Ich könnte ab und zu am Wochenende kommen.
+Wir können Besichtigungen in Museen oder Ausflüge aufs Land organisieren.
+**Caroline:** Das ist eine ganz prima Idee.
+Komm mal vorbei und wir besprechen alles ausführlich und in Ruhe.
+**Lukas:** Ok, das mache ich.
+Also bis dann!
+**Caroline:** Tschüss!`,
+      },
+      {
+        id: 'de-thi-b1-module-4-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de4_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Treffpunkt” diskutiert mit Gerd Steiner und Silke Braun über das Thema “Freizeit, Hobbys, Lebensstil”.
+**Moderator:** Liebe Zuhörerinnen, liebe Zuhörer!
+Ich heiße Sie bei unserer Sendung willkommen.
+Unser Thema heute ist “Freizeit, Hobbys und Lebensstil”.
+Dazu haben wir Frau Silke Braun eingeladen.
+Sie arbeitet als Sekretärin.
+Unser zweiter Gast ist Herr Gerd Steiner.
+Er hat eine eigene Autowerkstatt.
+Frau Braun, Ihre Arbeit ist sicher anstrengend.
+Kein Mensch kann immer nur arbeiten oder für die Uni, die Schule oder sonst welche Ausbildung lernen.
+Jeder muss sich mal ausruhen.
+Dann spricht man von Freizeit.
+Was verstehen Sie denn darunter?
+**Braun:** Unter Freizeit verstehe ich jene Zeit, in der ich nicht bei der Arbeit sein oder nicht im Haushalt arbeiten muss.
+**Moderator:** Und Sie Herr, Steiner?
+Was verstehen Sie unter dem Begriff Freizeit?
+**Steiner:** Die Zeit, in der ich machen kann, was mir Spaß macht, und mich gleichzeitig ausruhen kann.
+**Moderator:** Man hört oft, dass die Leute sagen, sie hätten keine Zeit.
+Sie müssen Überstunden machen, weil manche Arbeiten zu einem bestimmten Termin erledigt sein müssen.
+Fast jeder kennt die Situation, zu viel zu arbeiten und zu wenig Zeit für sich selbst zu haben.
+Wie ist es bei Ihnen, Herr Steiner?
+**Steiner:** Hm, das stimmt, aber man muss Grenzen setzen, wenn man etwas vom Leben haben will und nicht krank werden möchte.
+Es ist wichtig, dass man Freizeit für sich, seine Familie und seine Freunde hat.
+Dann kann man in seiner Arbeit auch besser sein bzw. neue Ideen haben, kreativer sein.
+**Braun:** Ja genau, so sehe ich das auch.
+Man kann schon Zeit für sich und seine Gesundheit einplanen.
+Ab und zu muss ich auch länger arbeiten, aber das bedeutet nicht, dass ich nur an die Arbeit denke und auf meine Freizeit verzichte.
+Jeder Mensch braucht Freizeit, die er nutzen kann, wie es ihm passt.
+**Moderator:** Heute gibt es viele Freizeitmöglichkeiten.
+Die meisten Leute haben ein oder mehrere Hobbys und Interessen.
+Es kann ein Hobby sein, das mit dem eigenen Beruf zu tun hat oder etwas ganz anderes.
+Wie verbringen die Leute in Ihrer Umgebung ihre Freizeit, Frau Braun?
+**Braun:** Ganz unterschiedlich.
+Ich habe zum Beispiel gemerkt, die Leute, die keine handwerklichen Arbeiten, sondern geistige machen, haben oft leichtere Hobbys, bei denen sie ihr Gehirn nicht gebrauchen müssen.
+Z.B. Sport, Musik, Mode, Sammeln.
+Dagegen haben Leute, die eher handwerklich arbeiten, öfter Hobbys, die nicht mit körperlicher Bewegung zu tun haben.
+**Moderator:** Würden Sie auch einfaches Faulenzen als Hobby betrachten, Herr Steiner?
+**Steiner:** Warum nicht?
+Jedenfalls ist es sehr beliebt.
+Man kann im Bett, in der Natur oder im Garten einfach nichts tun, herumliegen, also faulenzen.
+Dabei hört man gleichzeitig Musik oder man sieht fern.
+**Moderator:** Das geschieht doch sicher vor allem unter der Woche.
+Am Wochenende ist die Freizeit länger, und man kann mehr unternehmen.
+Gilt das für alle, Frau Braun?
+**Braun:** Seinen Hobbys kann man sowohl unter der Woche als auch am Wochenende nachgehen.
+Das Wochenende nutzen viele Leute dafür, einen Ausflug zu machen, in den Bergen zu wandern oder im Garten zu arbeiten.
+Ich arbeite auch gern im Garten.
+Dort haben wir Blumen und Gemüse, drei Obstbäume und ein kleines Glashaus, in dem ich gern sitze und einen Kaffee trinke.
+**Moderator:** Nun, das gefällt vielen Erwachsenen.
+Die jungen Leute haben eher andere Interessen und unternehmen viel in ihrer Freizeit.
+Herr Steiner, glauben Sie, dass die Freizeit für die jungen Leute mehr bedeutet als für die Älteren?
+**Steiner:** Nein, das glaube ich nicht.
+Freizeit ist nicht wichtiger für junge Leute als für Erwachsene.
+Sie nutzen ihre Freizeit einfach anders.
+Junge Leute sitzen zu viel am Computer.
+Andere besuchen Tanzkurse oder eine Musikschule und lernen ein Musikinstrument.
+Es gibt viele Sportler unter den jungen Leuten.
+Sie müssen täglich intensiv trainieren, da sie oft am Wochenende Wettkämpfe oder Turniere haben.
+**Moderator:** Frau Braun, gibt es Hobbys, die sowohl bei jungen Leuten als auch bei Erwachsenen beliebt sind?
+**Braun:** Ich denke schon, eine ganze Menge.
+Am beliebtesten sind Sammeln und Modellbau.
+Man sammelt Briefmarken, Ansichtskarten, Münzen und viele andere Sachen.
+Modellbau ist aber ein Hobby, das viel Zeit, Geduld und Geschick erfordert.
+Man baut Eisenbahnen, Flugzeuge, Autos, Schiffe und vieles mehr.
+**Moderator:** Viele Jugendliche verdienen in ihrer Freizeit eigenes Geld.
+Sie passen auf Kinder auf oder machen leichtere Arbeiten im Supermarkt oder bei einer Tankstelle.
+Wie stehen Sie dazu?
+**Braun:** Hm, eigentlich bin ich dagegen, weil ich der Meinung bin, dass die Freizeit auch für Jugendliche zur Erholung da ist.
+Wenn es aber einem jungen Menschen Spaß macht, ein bisschen Geld zu verdienen, ist es nicht schlimm.
+Er kommt schon mal in Kontakt mit der Arbeitswelt, die ihn erwartet.
+**Steiner:** Viele Jugendliche wollen etwas Geld verdienen, weil sie ihre Familie mit ihren Hobbys nicht belasten wollen.
+Das zeigt, dass sie an ihre Familie denken und sie respektieren.
+Z.B. sind Sammeln und Modellbau Hobbys, die viel Geld kosten.
+**Moderator:** Das stimmt.
+Die Eltern können die teuren Hobbys ihrer Kinder nicht immer bezahlen.
+Kommen wir noch mal zurück zu den Erwachsenen.
+Feierabend und Wochenende sind wichtige Ruhe-Oasen.
+Sollte man sie bewusst nutzen?
+Wie schafft man das, Frau Braun?
+**Braun:** Für mich ist das ganz einfach.
+Nach der Arbeit laufe ich mit Freundinnen durch die Stadt, wir schauen uns die Schaufenster an und unterhalten uns über alles außer Arbeit.
+Zu Haus informiere ich mich über Kino, Theater und Veranstaltungen.
+Am besten fühle ich mich, wenn ich meine nächsten Ferien plane und davon träume.
+**Moderator:** Leider drängt die Zeit, wir müssen hier Schluss machen!
+Vielen Dank für das interessante Gespräch über Freizeit und Hobbys.`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-5',
@@ -7539,7 +7799,240 @@ Ich bedanke mich recht herzlich für dieses interessante Gespräch!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-5-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de5_teil1_beispiel.mp3',
+        text: `Sie hören eine Durchsage in der U-Bahnstation.
+Sehr verehrte Fahrgäste, wir bitten um Ihre Aufmerksamkeit.
+Wegen Renovierungsarbeiten ist die U-Bahnstation Löwentor zurzeit in beiden Richtungen außer Betrieb.
+Fahrgäste, die von der Linie 5 in die Linie 8 umsteigen wollen, müssen deshalb an der Station Frankenwall aussteigen und von dort die Linie 2 bis zur Station Stadion benutzen, um von dort aus mit der Linie 8 weiterzufahren.
+Die Renovierungsarbeiten werden voraussichtlich noch bis Ende Januar dauern.
+Wir danken Ihnen für Ihr Verständnis.`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de5_teil1_1.mp3',
+        text: `Sie hören eine Durchsage auf einem Ausflugsschiff.
+Liebe Gäste an Bord, herzlich willkommen auf der MS Westfalen zu unserer zweistündigen Fahrt über den Biggesee.
+Zunächst ein paar Informationen über den See:
+Die Talsperre wurde von 1956 bis 1965 gebaut, der Biggesee wurde aufgestaut und überflutete dabei die alten Ortschaften im Biggetal.
+Rund 2000 Menschen mussten damals ihre Heimat verlassen und in neu gebaute Orte umziehen.
+Der Biggesee ist der größte Stausee in Nordrhein-Westfalen und lockt jedes Jahr viele Touristen an.
+Wir wünschen Ihnen einen angenehmen Aufenthalt!`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de5_teil1_2.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Gesang, Kabarett und Tanz erwarten die Besucher des Luisenparks und des Herzogenriedparks in den kommenden Tagen.
+Ob Stress im Haushalt oder Schönheitswahn, die “Kessen Motten” singen über Themen, die jede Frau kennt.
+Mit bekannten und neuen Melodien treten die drei Neckarauer Damen am Sonntag, den 2. September, um 15 Uhr auf der Bühne am See im Luisenpark auf.
+Am Mittwoch, den 5. September, laden die Edinger Chöre dort zum Volksliedersingen ein.
+Der Chor präsentiert traditionelle Lieder um 15.30 Uhr.
+Für die kostenlose Veranstaltung ist lediglich der Parkeintritt zu bezahlen.`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de5_teil1_3.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Buona sera Klaus, hier ist Teresa vom Italienischkurs.
+Ich sollte dir doch sagen, was wir im Unterricht gemacht haben und was wir aufhaben.
+Also, heute hat die Hälfte der Leute gefehlt und da haben wir nur ein bisschen die unregelmäßigen Verben wiederholt und den Rest der Stunde mündlich geübt.
+Im Buch sind wir nur bis Seite 78 gekommen und Silvio hat gesagt, wir sollen die Dialoge auf Seite 77 fürs nächste Mal gut vorbereiten, sonst nichts.
+Alles klar?
+Arrivederci!`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de5_teil1_4.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Auch in diesem Jahr finden in der Kölner Innenstadt wieder Weihnachtsmärkte auf unterschiedlichen Plätzen statt.
+Die Polizei Köln rechnet mit einer großen Zahl von Besuchern und damit auch mit einer steigenden Anzahl an Taschendiebstählen.
+Um dieser negativen Tendenz zu begegnen, ist die Polizei mit starken Kräften im Einsatz.
+Mit Ausnahme der Weihnachtstage steht vom 21.11. bis zum 30.12. ein Infomobil der Polizei auf dem Wallraffplatz.
+Hier können Bürgerinnen und Bürger sich beraten lassen, wie sie sich wirkungsvoll vor Taschendieben schützen können.`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de5_teil1_5.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Herr Sibelius, hier spricht Kerstin Frank von der Zahnarztpraxis.
+Wir müssen leider Ihren Termin am Mittwoch um 3 Uhr absagen.
+Der Doktor hat eine schwere Grippe und die Praxis bleibt deshalb mindestens bis Ende der Woche geschlossen.
+Wenn Sie wollen, machen wir für nächste Woche einen neuen Termin, aber wenn Sie Schmerzen haben und nicht so lange warten können, sollten Sie sich besser mit der Praxis von Doktor Lukas in Verbindung setzen.
+Wir bitten um Entschuldigung.
+Auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de5_teil2.mp3',
+        text: `Sie sind mit einer Reisegruppe in München und wollen das Deutsche Museum besuchen.
+Ich freue mich, Sie heute ins Deutsche Museum begleiten zu dürfen und hoffe, dass Ihnen unser Rundgang durch das Museum gut gefallen wird.
+Mein Name ist Simon Becker und ich werde mich bemühen, Ihnen alle Fragen zu beantworten.
+Wir werden mit der S-Bahn ins Museum fahren.
+Von hier, wo wir sind, können wir alle S-Bahn-Linien nehmen, wir müssen nur in die richtige Richtung fahren.
+Durch das Museum können wir alle gemeinsam als Gruppe laufen, wer aber will, kann den Rundgang auch alleine unternehmen.
+An den Kassen des Museums bekommen Sie eine kostenlose Broschüre mit einem Übersichtsplan des Museums sowie einem Zeitplan für verschiedene Vorführungen.
+Eine Vorführung würde ich auf jeden Fall empfehlen, denn dadurch bekommt man mehr Informationen.
+Man kann zwar überall Beschreibungen lesen, aber wenn man es erzählt bekommt und gleichzeitig die entsprechenden Ausstellungsstücke vor sich hat, ist es doch wesentlich besser zu verstehen.
+Jeder von Ihnen findet sicher etwas, was ihn besonders interessiert.
+Die Sammlungen des Deutschen Museums umfassen über 100.000 Objekte aus den Bereichen der Naturwissenschaft und Technik.
+Es ist eins der bedeutendsten naturwissenschaftlichen Museen weltweit.
+Die Sammlungen sind dabei nicht auf einen speziellen Themenbereich begrenzt und stammen aus verschiedenen Zeiten.
+Auch heute noch gehört das Sammeln historisch bedeutender Objekte zu den Aufgaben des Museums, so dass die Sammlung ständig größer wird.
+Ich gebe Ihnen zunächst einen kurzen Einblick.
+Im ersten großen Raum können Sie Schiffe und Boote aller möglichen Völker im Original oder als Modell besichtigen.
+In den übrigen Räumen werden wichtige Erfindungen aus Naturwissenschaft und Technik vorgestellt und Sie erhalten wichtige Informationen dazu.
+Zu den besonderen Objekten des Deutschen Museums zählen das erste Motorflugzeug der Gebrüder Wright, das U-Boot Ul, der Dieselmotor, das erste Auto von Karl Benz und die Dampfmaschine von James Watt.
+Die Broschüren “Meisterwerke aus dem Deutschen Museum” stellen einige dieser herausragenden Erfindungen aus Naturwissenschaft und Technik vor.
+Denjenigen, die sich allein durch das Museum bewegen wollen, empfehle ich, sich für heute nur diese Meisterwerke vorzunehmen, damit Sie einen Überblick haben.
+Das Museum ist viel zu groß, um alles zu besichtigen.
+Denjenigen, die mir zu einer Gruppenführung folgen, werde ich ebenfalls nur die wichtigsten Objekte vorstellen.
+Außerdem zeige ich Ihnen das Wichtigste aus den Bereichen Verkehr, Kraftmaschinen, Werkzeugmaschinen und Ausschnitte aus den Sammlungen Musikinstrumente, Medizintechnik und Haushaltsgeräte.
+Bitte achten Sie auf unseren Zeitplan; um 17.00 Uhr treffen wir uns wieder in der Eingangshalle und gehen alle zusammen zu Fuß ins Wirtshaus in der Au und essen dort bayrisch.
+Danach kann jeder sein weiteres Programm individuell gestalten.`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de5_teil3.mp3',
+        text: `Sie stehen vor dem Schaufenster eines Sportgeschäfts und hören, wie zwei Freunde sich über Sport unterhalten.
+**Jens:** Hallo Daniel!
+Wie geht es dir?
+**Daniel:** Gut, danke!
+Und dir?
+**Jens:** Danke, auch gut.
+Wo kommst du her?
+**Daniel:** Aus dem Fitness-Studio.
+Da tobe ich mich dreimal in der Woche so richtig aus.
+Wenn man jeden Tag so viel Stress und Ärger abbekommt wie ich, muss man ihn irgendwo wieder loswerden.
+So ein Studio ist der ideale Ort dafür.
+Ich tue was für meinen Körper und die Gesundheit und gleichzeitig vergesse ich die Sorgen des Alltags.
+**Jens:** Das wäre nichts für mich.
+Ich fühle mich im Fitness-Studio irgendwie begrenzt, eingeengt.
+Ich gehe lieber im Wald spazieren oder spiele Tischtennis im Freien, wenn natürlich ein Freund dazu bereit ist.
+**Daniel:** Ja, das kann ich verstehen.
+Das ist der Nachteil der Studios.
+Aber mir ist es trotzdem lieber, weil da die Gymnastik nach einem bestimmten Plan und unter Aufsicht eines Sportlehrers getrieben wird.
+Wir müssen ein Programm mit gezielten körperlichen Übungen und viel Bewegung ausführen, damit wir elastisch und beweglich werden.
+**Jens:** Ist es nicht sehr anstrengend?
+**Daniel:** Hm, ein bisschen schon, aber man gewöhnt sich daran.
+Man lernt dort auch viele Leute kennen, die fit sein wollen, und das motiviert einen zum Weitermachen.
+Das ist eine Herausforderung, wenn du siehst, dass andere es schaffen.
+**Jens:** Und was kostet der ganze Spaß?
+**Daniel:** Ganz billig ist es nicht, 60 Euro im Monat.
+Aber wenn man sich für ein ganzes Jahr anmeldet, hat man 30 Prozent Ermäßigung.
+**Jens:** Na klar!
+Das machen sie, damit die Leute nicht aufhören.
+Wer für das ganze Jahr bezahlt, geht auch hin.
+Und selbst wenn man nicht mehr erscheint, kriegt man sein Geld nicht zurück, weil das so im Vertrag steht.
+Ist das Studio eigentlich den ganzen Tag über offen?
+**Daniel:** Ja, von 6 Uhr morgens bis 12 Uhr in der Nacht.
+Und es ist immer fast voll, weil sie dort sehr gute Arbeit leisten.
+Der Trainer ist wirklich hilfsbereit und erklärt einem alles sehr gut.
+**Jens:** Ist ja auch seine Pflicht, dafür wird er schließlich bezahlt.
+Und wenn man bezahlt, will man als Kunde auch was dafür bekommen.
+**Daniel:** Richtig, aber es gibt große Unterschiede von Studio zu Studio.
+Ein gutes Studio hat auch gute Geräte und gut ausgebildetes Fachpersonal.
+Also wirklich, mein Studio kann ich nur jedem empfehlen.
+**Jens:** Muss man auch etwas bei der Einschreibung bezahlen?
+**Daniel:** Nein, du gehst einfach rein und wenn noch Plätze frei sind, sprichst du mit einem Trainer, der dir gezielte Fragen stellt und dich berät.
+Du musst auch unbedingt eventuelle Gesundheitsprobleme angeben.
+Wenn mit dir alles ok ist, stellt der Trainer ein Programm für dich zusammen.
+Dann bezahlst du den ersten Monatsbeitrag oder Jahresbeitrag, je nachdem.
+Ach, und vergiss nicht, Sportanzug und Sportschuhe mitzunehmen.
+**Jens:** Ich lass es mir mal durch den Kopf gehen!
+Vielleicht komme ich nächstes Mal mit!`,
+      },
+      {
+        id: 'de-thi-b1-module-5-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de5_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Treffpunkt” diskutiert mit den Jugendlichen Nina Schwan und Leopold Wolf über das Thema “Der Weg ins eigene Leben”.
+**Moderator:** Liebe Zuhörerinnen, liebe Zuhörer, ich heiße Sie willkommen bei unserer Sendung “Treffpunkt”.
+Unser Thema heute ist “Der Weg ins eigene Leben” und es betrifft Jugendliche, die langsam erwachsen werden und sich auf den eigenen Weg vorbereiten.
+Dazu haben wir zwei junge Leute eingeladen.
+Nina Schwan, 18 Jahre alt, und Leopold Wolf, 19 Jahre alt.
+Es ist klar, dass man seine Eltern braucht, egal wie alt man ist.
+Doch wie viel Hilfe brauchen wir eigentlich?
+Wo liegt die Grenze?
+**Leopold:** In und neben der Schule habe ich schon immer viel gemacht, vor allem Sport und Musik.
+Meine Eltern haben mir von Anfang an gesagt:
+Wenn du das alles machen möchtest, musst du auch schauen, dass du das irgendwie allein schaffst.
+Bestimmte Dinge sollte man selbst regeln - auch als Schüler.
+Genauso wichtig finde ich aber auf der anderen Seite auch, dass man als Jugendlicher zu Haus eine gewisse Hilfe bekommt und in Notsituationen immer jemand für einen da ist.
+**Moderator:** Findest du zu Haus von deinen Eltern Hilfe, Nina?
+**Nina:** Ganz sicher!
+Als meine Eltern sich vor einigen Jahren haben scheiden lassen, bin ich bei meinem Vater geblieben.
+Meine Mutter ist wegen ihrer Arbeit in eine andere Stadt gezogen, und auch wenn es aus der Ferne nicht einfach ist, ist sie für mich immer da, wenn ich ihre Unterstützung brauche.
+**Moderator:** Nach dem, was ihr mir erzählt, könnt ihr euch im Notfall auf eure Eltern verlassen.
+Das bedeutet aber nicht, dass das Verhältnis zu euren Eltern auch unbedingt gut sein muss. Nina, wie sieht es denn bei dir aus?
+**Nina:** Zu meinem Vater habe ich ein enges Verhältnis.
+Ich würde sogar sagen, er ist mein bester Freund.
+Da wir uns sehr gut kennen und uns aufeinander verlassen können, ist es bei uns zu Haus eher wie in einer guten Wohngemeinschaft als in einer typischen Vater-Tochter-Beziehung.
+**Moderator:** Die Unterstützung der Eltern hat aber nicht nur Vorteile, sondern kann womöglich sogar schaden.
+Was würdest du dazu sagen, Leopold?
+**Leopold:** Schüler, die sich nur auf die Hilfe ihrer Eltern verlassen, bekommen oft Schwierigkeiten, wenn sie mal etwas allein machen müssen.
+Ich glaube, viele von ihnen würden gern selbstständiger sein, wissen aber nicht, wie sie das erreichen können, weil sie es nun mal gewöhnt sind, dass sich andere um alles kümmern.
+**Nina:** Moment mal, das stimmt nicht allgemein.
+Mein Vater unterstützt mich bei allen, auch was schulische Sachen betrifft.
+Manche finden, dass ich zu sehr verwöhnt werde und sagen:
+Dein Papa macht alles für dich! Ich habe das leider damals nicht geschätzt.
+Aber obwohl er mir immer sehr geholfen hat, kann ich mich heute auch allein um mich kümmern.
+**Moderator:** Oft sind die Eltern nicht mit allem einverstanden, was die Kinder vorhaben oder unternehmen.
+Dann gibt es zu Hause Ärger.
+Hast du, Nina, so etwas schon erlebt?
+**Nina:** Als ich 14 Jahre alt war, hatte ich eine schwierige Phase und keine Lust zu lernen.
+Meine Noten waren so schlecht, dass ich das Schuljahr wiederholen musste.
+In dieser Zeit habe ich zu wenig Rücksicht auf meinen Vater genommen und habe mit Ärger gerechnet.
+Er blieb ruhig und stand trotz allem hinter mir.
+**Leopold:** In den meisten Fällen reagieren die Eltern ganz anders als dein Vater.
+Der Krach ist dann an der Tagesordnung.
+Ärger hatte ich und habe ich heute noch oft mit meinen Eltern.
+Wenn meinen Eltern etwas nicht passt, sagen sie mir natürlich: “Jetzt ist aber Schluss”.
+Auf der anderen Seite würden sie mir nichts verbieten, wovon sie wissen, dass es mir am Herzen liegt.
+Ich habe immer gewusst und weiß genau, was erlaubt oder verboten ist.
+**Moderator:** Viele Jugendliche versuchen so selbstständig wie möglich zu sein und ihre Schul- und Freizeitprojekte allein zu tragen.
+Was würdest du dazu sagen, Leopold?
+**Leopold:** Wenn man das richtig machen will, braucht man natürlich Selbstvertrauen.
+Das lernt man mit der Zeit.
+Denn Selbstvertrauen bekommt man dann, wenn man etwas selbstständig machen darf und dabei Erfolg hat.
+Je mehr Vertrauen man gewinnt, desto mehr erledigt man selber seine Sachen und macht somit positive Erfahrungen.
+**Nina:** Na ja!
+Ganz selbstständig ist man nicht, solange man mit den Eltern zusammen ist. Je älter man wird, desto selbstständiger will man sein.
+Erwachsen werden heißt auch unabhängiger von den Eltern werden.
+Das muss gelernt werden.
+Wenn ich allein unterwegs bin, lässt mir mein Vater alle Freiheiten, die man nur haben kann.
+Er sagt, er habe dann zwar Angst um mich, möchte aber, dass ich ausgehe.
+**Moderator:** Ihr seid beide Einzelkinder in der Familie.
+Es gibt Familien mit mehr Kindern, und beide Eltern müssen arbeiten.
+In diesem Fall sind die Kinder sicher selbstständiger, weil sich die Eltern nicht um jedes Kind getrennt kümmern können.
+Nina, kennst du so einen Fall?
+**Nina:** Meine Freundin ist die zweite von fünf Kindern.
+Sie hat von klein an gelernt selbstständig zu sein.
+Der Vater hat sich große Sorgen um seine Kinder gemacht und wollte immer wissen, was sie tun, wo sie sind, mit wem sie ausgehen.
+Die Mutter dagegen hat mehr Wert auf die Selbstständigkeit der Kinder gelegt.
+Die Kinder waren oft allein zu Hause und mussten sich um sich selbst kümmern.
+**Leopold:** Das geht aber nicht immer gut.
+Ich kenne Kinder, die auf dem falschen Weg sind, weil ihnen die Unterstützung der Eltern gefehlt hat.
+**Moderator:** Darüber werden wir separat in einer anderen Sendung diskutieren, denn leider ist unsere Zeit jetzt um.
+Herzlichen Dank an euch beide, dass ihr uns über eure Erfahrungen berichtet habt.`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-6',
@@ -7547,7 +8040,259 @@ Ich bedanke mich recht herzlich für dieses interessante Gespräch!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-6-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de6_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Gerd, hier ist dein Nachbar Arnold.
+Ich will zwar keinen Streit mit dir, aber ich muss mich wirklich mal bei dir beschweren.
+Es geht um deinen Hund.
+Der ist schon wieder in meinem Garten gewesen und hat mir alles kaputt gemacht, zum Beispiel hat er meine ganzen Kartoffeln ausgegraben.
+Außerdem weißt du ganz genau, dass die Kinder Angst vor ihm haben.
+Sie wollen schon gar nicht mehr draußen spielen!
+Also, pass bitte demnächst besser auf ihn auf!
+Schönen Tag noch.`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de6_teil1_1.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Schatz! Du, ich hab total vergessen, dir zu sagen, dass du heute einkaufen musst.
+Vor halb neun bin ich nämlich bestimmt nicht zu Hause.
+Also, das musst du alles mitbringen: 1 Liter Vollmilch, ein Pfund Schwarzbrot, 6 Eier, ein paar Äpfel, und einen Kasten Bier, ganz wichtig!
+Und wenn's irgendwie geht, geh doch auch in der Apotheke vorbei und bring eine Flasche Hustensaft mit.
+Und macht's dir was aus, wenn wir heute nicht kochen, sondern was beim Chinesen bestellen?
+Tschüss dann, bis heute Abend!`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de6_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag, Frau Schubert, hier ist Sandmann vom Reisebüro.
+Ich habe leider eine schlechte Nachricht für Sie: Die Rundreise durch Kappadokien, die Sie gebucht haben, findet leider an dem Termin, den Sie wollten, nicht statt.
+Da haben sich nicht genug Teilnehmer angemeldet.
+Es sieht aber so aus, als ob für den Termin 2 Wochen später, das heißt also am 20. Juli, genügend Anmeldungen zusammenkommen.
+Bitte geben Sie mir Bescheid, ob ich Sie für diesen Termin anmelden soll.
+Vielen Dank und auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de6_teil1_3.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+“Wer Müll sammelt, wirft selbst keinen weg.”
+Unter diesem Motto lädt der Stadtjugendring Schönberg auch dieses Jahr wieder zur Müllsammelaktion ein.
+Beginn ist am Sonnabend, dem 24. März, um 9.30 Uhr.
+Treffpunkt ist der Kirchplatz.
+Willkommen sind alle Kinder, Jugendlichen und Erwachsenen.
+Arbeitshandschuhe sind mitzubringen.
+Zum Abschluss der Aktion gegen Mittag wird ein kleiner Imbiss für die fleißigen Helfer gereicht, den die Pfadfinder in ihrem Pfadiheim vorbereiten werden.
+Eine Anmeldung von einzelnen Teilnehmern ist nicht erforderlich, Gruppen sollten sich jedoch per E-Mail unter audiokultur@gmx.de anmelden.`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de6_teil1_4.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Mannheim. Die Stadt veranstaltet in diesem Jahr zum vorletzten Mal einen Inline-Lauf in Mannheim.
+Die Skater starten um 12.45 Uhr an den Kapuzinerplanken.
+Von dort geht es auf der 27,5 Kilometer langen “Feudenheim-Route” über Feudenheim, Wallstadt, Vogelstang und Käfertal zurück in die Innenstadt.
+Die Teilnahme ist kostenlos.
+Der letzte Lauf findet am 19. September statt.
+Für den Lauf müssen die Straßen entlang der Route abschnittweise gesperrt und teilweise Umleitungen eingerichtet werden.
+Einzelheiten zu den Sperrungen und Umleitungen werden noch bekannt gegeben.`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de6_teil1_5.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Heute ist in Paris das deutsche Filmfestival mit der Tragikomödie Jan Oles “Oh Boy” eröffnet worden.
+Der Film wurde bereits auf mehreren Festivals mit Preisen ausgezeichnet.
+Er erzählt die Geschichte eines jungen Berliners, der sein Studium abgebrochen hat und auf der Suche nach sich selbst und dem Sinn des Lebens ist.
+Bei der Eröffnung war neben dem Regisseur auch Hauptdarsteller Tom Schilling anwesend.
+Der komplett in Schwarz-Weiß gedrehte Film kommt am 1. November in die deutschen Kinos.`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de6_teil2.mp3',
+        text: `Sie hören den Erfahrungsbericht eines Teilnehmers bei einem Sommerkurs an der Universität von Bayreuth.
+Ich habe ein Stipendium von BAYHOST erhalten und war vom 3. bis 30. August bei einem internationalen Sommerkurs an der Universität in Bayreuth.
+Die Zeit, die ich in Bayreuth verbracht habe, war wunderbar!
+Meine Reise nach Bayreuth war sehr gemütlich und angenehm.
+Am 2. August habe ich einen Bus von Zagreb nach München genommen.
+Ich war schon um halb 5 in München.
+Sofort habe ich mir ein Ferien-Bayern-Ticket gekauft.
+Das ist eine supertolle Möglichkeit für 33 Euro für Schüler und Studenten aus der ganzen Welt.
+Leider wissen die meisten nichts von diesem Angebot.
+Man kann damit durch ganz Bayern mit der Bahn reisen.
+Das Ticket ist den ganzen Sommer lang gültig.
+Ich würde es allen Leuten empfehlen!
+Bald war ich in Nürnberg und um 8 Uhr war ich schon in Bayreuth.
+Die Organisation war perfekt.
+Ich habe unser Kursbüro ohne Probleme gefunden.
+Sehr schön war auch, dass alle Leute dort nett und sympathisch waren.
+Sie haben mir die Schlüssel für meine Wohngemeinschaft gegeben und mich sogar dort hingefahren.
+Obwohl ich am Anfang etwas ängstlich war, mit welchen Leuten ich in meiner Wohngemeinschaft wohnen würde, war ich am Ende sicher, dass die Idee mit der Wohngemeinschaft viel, viel besser war, als in ein Studentenwohnheim zu gehen.
+Die Wohnung war mitten im Zentrum der Stadt: eine riesengroße Wohnung mit sechs Zimmern, Küche, Toilette und Bad.
+Meine Mitbewohner waren zwei Jungs und ein Mädchen aus Deutschland und noch zwei Leute von der Sommeruni: David aus Amerika, Lorena aus Spanien und ich aus Kroatien.
+Die Küche war unser Treffpunkt.
+Man konnte dort immer jemanden treffen.
+Eigentlich waren wir, obwohl in unserer Wohnung nur 6 Leute sein sollten, immer mindestens zu zehnt.
+Unsere Wohngemeinschaft war eine Gemeinschaft im wahrsten Sinne des Wortes.
+Ich habe so viel von diesen Leuten gelernt.
+Wir haben stundenlang auf Deutsch über unsere Länder, über Arbeit, das Leben und die Liebe und alles Mögliche andere geredet.
+Einmal sind wir zusammen zu einer Höhle gefahren und haben dort einen Geburtstag gefeiert und einen Ausflug nach Nürnberg haben wir auch gemacht.
+Die Zeit, die ich mit meinen Mitbewohnern verbracht habe, war wirklich die schönste Zeit für mich in Bayreuth.
+Ich könnte jetzt noch stundenlang davon erzählen, aber ich denke, dass ihr schon einen Eindruck bekommen habt, wie toll meine Wohngemeinschaft war.
+Meine Mitbewohner und ich haben gestern Abend noch mal zusammen gesessen und von der schönen Zeit erzählt, die wir zusammen verbracht haben.
+Wir sind alle traurig, dass unser Aufenthalt zu Ende ist, aber wir haben uns versprochen, dass wir in Kontakt bleiben und uns bald wieder treffen wollen.`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de6_teil3.mp3',
+        text: `Sie sitzen im Krankenhauscafé und hören, wie sich am Nebentisch ein Mann und eine Frau über einen Unfall unterhalten.
+**Conny:** Hallo, Benno!
+Was machst du denn hier?
+Ist alles in Ordnung mit dir?
+**Benno:** Hallo, Conny, mir geht es gut, aber meine Freundin liegt seit gestern hier im Krankenhaus.
+**Conny:** Was?
+Laura ist hier?
+Was ist denn passiert?
+**Benno:** Sie hatte einen Unfall.
+Sie ist gestern Nachmittag mit dem Rad zum Einkaufen gefahren.
+Sie hatte Grün und wollte über die Kreuzung und da ist es passiert.
+Ein Autofahrer hat nicht aufgepasst und ist bei Rot über die Kreuzung gefahren.
+Er hat das Fahrrad erwischt, Laura ist runtergefallen und hat sich ziemlich schwer verletzt.
+**Conny:** O Gott!
+Was meinst du mit “schwer”?
+**Benno:** Der linke Arm und das rechte Bein sind gebrochen und sie hat zwei tiefe Wunden am Oberschenkel, die stark geblutet haben, und außerdem eine ganze Menge kleinere Verletzungen.
+Sie ist sofort hierhin transportiert worden, und sie haben sie auch gleich operiert.
+**Conny:** Und jetzt?
+Wie geht es ihr?
+**Benno:** Die Wunden sind genäht, Arm und Bein in Gips.
+Aber sie fühlt sich elend.
+**Conny:** Und wie bist du benachrichtigt worden?
+**Benno:** Obwohl sie so schwer verletzt war, hat sie es noch geschafft, mich anzurufen.
+Ich war bei der Arbeit.
+Ich bin sofort ins Krankenhaus gefahren.
+Ihre Eltern und ihr Bruder sind auch gleich gekommen.
+Als ich ankam, war sie schon im Operationssaal.
+Zwei Stunden hat die Operation gedauert.
+**Conny:** Und ihr habt draußen im Wartezimmer gewartet, oder?
+**Benno:** Ja klar!
+Ein Arzt ist rausgekommen und hat uns gesagt, dass sie nicht in Lebensgefahr ist, und das hat uns beruhigt, sonst wären wir verrückt geworden.
+**Conny:** Das kann ich mir gut vorstellen, das war sicher schlimm.
+**Benno:** Gott sei Dank ist die Operation gut gelaufen.
+Als sie aus der Narkose aufgewacht ist, waren wir bei ihr im Zimmer und haben sie kurz gesehen.
+**Conny:** Bist du über Nacht im Krankenhaus geblieben?
+**Benno:** Das nicht, aber es ist sehr spät geworden, bis ich das Krankenhaus verlassen habe.
+Ich war bis eben wieder bei ihr im Zimmer.
+Sie hat starke Schmerzen.
+Es fällt mir sehr schwer, sie so zu sehen.
+Ich kann sowieso keine Menschen leiden sehen.
+**Conny:** Muss sie noch lange hier bleiben?
+**Benno:** Die Ärzte können noch nichts Genaues sagen, aber sie rechnen damit, dass sie noch zwei Wochen braucht, bis sie wieder nach Hause kann.
+Bis sie wieder richtig laufen kann, wird es natürlich noch länger dauern.
+Und arbeiten kann sie natürlich auch erstmal nicht.
+**Conny:** Was ist eigentlich aus dem Fahrer geworden?
+**Benno:** Ich habe keine Ahnung, aber das werde ich sicher bald erfahren.
+Die Polizei ist ja am Unfallort gewesen und hat überprüft, ob er betrunken war.
+**Conny:** Na, in dem Fall muss er aber streng bestraft werden.
+Du, ich muss jetzt aber. Bestell deiner Freundin viele Grüße von mir und gute Besserung!!
+**Benno:** Danke, wir sehen uns, tschüss!`,
+      },
+      {
+        id: 'de-thi-b1-module-6-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de6_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Die gute alte Zeit” diskutiert mit den beiden Journalisten Sophie Schubert und Markus Schulz über das Thema “Oktoberfest”.
+**Moderator:** Liebe Zuhörerinnen und Zuhörer, ich heiße Sie bei unserer Sendung “Die gute alte Zeit” willkommen.
+Unser heutiges Thema ist “Das weltweit bekannte Oktoberfest”, das in ein paar Tagen beginnt.
+Unser erster Gast ist Frau Schubert.
+Sie arbeitet seit fünf Jahren als Journalistin für Lokales.
+Unser zweiter Gast, Herr Markus Schulz ist Reporter und freier Mitarbeiter bei mehreren Zeitschriften und Zeitungen.
+Frau Schubert, freuen Sie sich auf das Oktoberfest oder gehen Sie gar nicht hin?
+**Schubert:** Ich bin vom Oktoberfest eigentlich gar nicht begeistert und ich würde nicht hingehen, wenn ich als Journalistin nicht dazu verpflichtet wäre.
+Ich bin viel lieber auf anderen traditionellen Festen.
+Das Oktoberfest ist vor allem für Touristen interessant.
+**Moderator:** Und Sie, Herr Schulz?
+Gehen Sie hin?
+**Schulz:** Das Oktoberfest ist eine Attraktion und zieht viele Leute an, nicht nur aus Deutschland, sondern auch aus dem Ausland.
+Komischerweise macht mir der Karneval Spaß, aber das Oktoberfest nicht!
+Obwohl beides als ziemlich ähnlich betrachtet wird.
+Nur dass es hier bloß eine Möglichkeit gibt sich zu verkleiden, als Bayer.
+Ist ja auch logisch, das Oktoberfest findet in Bayern statt und die Leute tragen gern traditionelle Kleider, also Trachten, wie echte Bayern!
+**Moderator:** Stört es Sie, Herr Schulz, dass die Leute eine traditionelle Tracht tragen, um auf das Fest zu gehen?
+**Schulz:** Prinzipiell finde ich es schön, wenn Leute sich für ein besonderes Fest entsprechend schmücken.
+Ich finde die Leute in ihrer Lederhose und mit dem Hemd und Hut sehr lustig.
+Nur dass diese Kleidung zu viel Geld kostet, um die 100 Euro, das stört mich!
+Anders gesagt, es stört mich, dass das Ganze so kommerziell ist.
+Mein Verständnis von Tracht ist ein anderes.
+Ich gehe nicht in einen Laden und kaufe mir für 100 Euro ein Set aus Lederhose, Hemd und den so genannten Haferlschuhen, um mich als Münchner zu fühlen und dort mit allen anderen gemeinsam zu feiern.
+**Moderator:** In Köln gibt es eine inoffizielle Regel, dass man nach elf Jahren in Köln ein Kölner ist.
+Frau Schubert, gibt es auch hier so eine Art Regel, wie lange man schon in der Stadt leben oder etwas machen muss, bis man von den Münchnern auch als echter Münchner akzeptiert wird?
+**Schubert:** Also, ich kenne es so, dass man seit zwei Generationen in München sein muss, um als Münchner akzeptiert zu werden.
+**Schulz:** Zwei Generationen!
+Da haben Sie ja noch einen langen Weg vor sich, bis Sie eine echte Münchnerin werden.
+Ich sehe das ein bisschen anders.
+Man sagt ja oft, München sei das größte Dorf Bayerns.
+Tatsächlich war München ja lange wirklich ein Dorf und ist erst dadurch groß geworden, dass Menschen aus allen Teilen Bayerns gekommen sind.
+Deshalb weiß man nicht mehr, wer echter Münchner ist.
+**Moderator:** Sind Sie stolz darauf, aus Bayern zu kommen, Frau Schubert?
+**Schubert:** Was heißt stolz?
+Ich bin stolz, dass ich hier geboren bin und dass es mir gut geht.
+Die Tradition interessiert mich wenig und ich orientiere mich nicht daran.
+Ich beschäftige mich zwar mit der bayerischen Kultur, aber bis dahin und nicht weiter.
+**Moderator:** Wir kommen jetzt zu unserem Oktoberfest!
+Es ist ein Volksfest und findet seit 1810 jedes Jahr in München statt.
+Es dauert zwei Wochen und endet immer am 1. Sonntag im Oktober.
+Was könnten Sie uns über das Oktoberfest erzählen, Herr Schulz?
+**Schulz:** Das Oktoberfest zieht jährlich 6 Millionen Besucher an.
+Die Gäste kommen immer mehr aus dem Ausland, vorwiegend aus Italien und aus den USA, Japan und Australien.
+Ein Problem ist, dass die Leute zu viel trinken.
+Tagsüber bis 18.00 Uhr wird traditionelle Blasmusik gespielt, die nicht sehr laut ist.
+Erst abends wird es richtig laut und es werden Schlager und Popmusik gespielt.
+**Schubert:** Das wurde so gemacht, damit die traditionelle Atmosphäre erhalten bleibt und so auch unterschiedliche Altersgruppen, also auch Familien und ältere Leute, das Oktoberfest besuchen können.
+**Moderator:** An diesen Tagen hat die Polizei viel zu tun.
+Wenn man zu viel trinkt, verliert man die Kontrolle über sich.
+Herr Schulz, ist es wahr, dass nur deutsches Bier von Münchner Brauereien auf dem Oktoberfest angeboten werden darf?
+**Schulz:** Ja, so ist es.
+Und zwar Traditionsbrauereien, und nur diese dürfen Festzelte aufstellen.
+**Moderator:** Frau Schubert, welches ist eigentlich das bekannteste und beliebteste Fahrgeschäft für jung und alt?
+**Schubert:** Das Riesenrad.
+Es ist am bekanntesten, und hat auch eine lange Geschichte.
+In Deutschland werden die Riesenräder von einer kleinen Gruppe von Schaustellerfamilien betrieben.
+Das Münchner Riesenrad der Familie Willenborg, 1979 von der Firma Schwarzkopf erbaut, gehört mit 50 Metern zu den schönsten.
+Es gibt natürlich auch andere Attraktionen, die für die Unterhaltung der Gäste sorgen, wie zum Beispiel der Toboggan.
+Das ist die größte Turmrutschbahn.
+Es gibt auch viele Vorstellungen mit Zaubereien, die die Kinder natürlich begeistern.
+**Moderator:** Herr Schulz, wie würden Sie mit zwei Worten die Oktoberfestphilosophie beschreiben?
+**Schulz:** Es sind sicher nicht die Fahrgeschäfte, das Riesenrad, die Loopings.
+Das sind vielleicht die Anlocker.
+Es ist für mich vor allem die ausgelassene Bierzelt-Atmosphäre.
+Da sieht man plötzlich den Chef ausgelassen auf dem Biertisch tanzen.
+Es kann schon mal vorkommen, dass man Freunde und Kollegen von einer ganz neuen, bisher unbekannten Seite kennen lernt.
+Das ist das Oktoberfest!
+**Moderator:** Und für Sie, Frau Schubert?
+**Schubert:** Das Oktoberfest ist viel mehr als eine Mischung aus Bier und Adrenalin - und eigentlich kann man es gar nicht beschreiben.
+Man muss es schon selber erleben!
+**Moderator:** Damit schließen wir unsere Sendung!
+Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-7',
