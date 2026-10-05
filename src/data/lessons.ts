@@ -8300,7 +8300,234 @@ Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-7-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de7_teil1_beispiel.mp3',
+        text: `Sie hören eine Durchsage im Flugzeug.
+Herzlich willkommen an unserem Zielflughafen.
+Bitte bleiben Sie noch so lange sitzen, bis wir unsere endgültige Parkposition erreicht haben und die Anschnallzeichen ausgeschaltet werden.
+Unser Kapitän und seine Besatzung verabschieden sich nun von Ihnen und bedanken sich, dass Sie sich heute für German Wings entschieden haben.
+Wir hoffen, der Flug mit uns hat Ihnen gefallen und wir würden uns freuen, Sie recht bald wieder bei einem unserer Flüge begrüßen zu dürfen.
+Wir wünschen Ihnen einen schönen Tag hier oder eine angenehme Weiterreise.`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de7_teil1_1.mp3',
+        text: `Sie hören eine Durchsage im Kaufhaus.
+Machen Sie mit beim großen Gewinnspiel unseres Reisebüros!
+Wir verlosen zusammen mit South African Tourism eine Reise nach Südafrika:
+Reisen Sie zu zweit für eine Woche nach Kapstadt, inklusive Flug mit South African Airways und einem Hotelaufenthalt von sieben Nächten mit Frühstück.
+Mit einem Mietwagen der Avis Autovermietung können Sie flexibel Ausflüge unternehmen:
+Während Ihrer gesamten Reise fahren Sie einen komfortablen Wagen der Fahrzeuggruppe Standard, inklusive 0,-€ Selbstbeteiligung dank des Avis 360° Rundum Sorglos Tarifs.
+Unser Reisebüro im 5. Stock erwartet Sie!`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de7_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Siggi, ich bin's, Frauke.
+Darf ich dich um einen ganz großen Gefallen bitten?
+Ich muss morgen ganz dringend für sechs Tage nach Genf.
+Die vom Büro haben mir erst heute Morgen Bescheid gesagt.
+Und jetzt weiß ich nicht, wer sich um meine Katze kümmern soll.
+Kannst du das machen?
+Du hast doch meinen Wohnungsschlüssel und brauchst nur einmal am Tag kurz hingehen und sie füttern und frisches Wasser hinstellen, genau wie letztes Mal, als ich im Krankenhaus war.
+Ruf mich zurück! Ciao!`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de7_teil1_3.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Sehr geehrte Damen und Herren, Sie sind mit der Stadtbücherei Bremen verbunden.
+Unsere Öffnungszeiten haben sich geändert.
+Die Bücherei ist jetzt dienstags bis freitags von 9.30 Uhr bis 18.00 Uhr und am Samstag von 10.00 bis 13.30 Uhr geöffnet.
+Montag ist Ruhetag.
+Wir möchten Sie außerdem auf unsere neuen Bestimmungen zur Ausleihe von Zeitschriften und Magazinen hinweisen.
+Diese können ab sofort nicht mehr entliehen werden, sondern stehen unseren Besuchern nur noch zur Lektüre im Lesesaal der Bücherei zur Verfügung.`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de7_teil1_4.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Ob Kindergärten, Krankenhäuser oder die Müllabfuhr - in vielen Bereichen werden Beschäftigte in München am Dienstag streiken.
+Am stärksten dürften die Folgen wieder einmal die Eltern zu spüren bekommen.
+Schon beim Streiktag am 8. März blieben nach Angaben der Stadt rund drei Viertel aller Kinderbetreuungseinrichtungen geschlossen, diesmal könnten es sogar noch mehr werden.
+Den Eltern wird empfohlen, bei den Einrichtungen, in die ihre Kinder gehen, anzurufen, um zu erfahren, ob gestreikt wird; in manchen Krippen und Kitas wird es auch einen Notbetrieb geben, zu dem Eltern Kinder aus benachbarten Einrichtungen bringen können.`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de7_teil1_5.mp3',
+        text: `Sie hören eine Durchsage im Zug.
+Sehr geehrte Damen und Herren, in Kürze erreichen wir Köln Hauptbahnhof.
+Dieser Zug endet hier. Bitte steigen Sie in Fahrtrichtung rechts aus.
+Sie haben Anschluss in Richtung Köln/Bonn Flughafen um 17.16 Uhr auf Gleis 7.
+Anschluss in Richtung Aachen mit dem Regionalexpress RE 6 um 17.23 Uhr auf Gleis 9.
+Der IC 106 nach Frankfurt/Main, planmäßige Abfahrt 17.40 Uhr auf Gleis 2, fährt heute auf Gleis 10 ab.
+Der Anschlusszug nach Koblenz, planmäßige Abfahrt 17.45 Uhr auf Gleis 1, hat voraussichtlich 10 bis 15 Minuten Verspätung.`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de7_teil2.mp3',
+        text: `Sie hören einen Erfahrungsbericht über einen Aupair-Aufenthalt in Frankreich.
+Jeder Mensch lernt sich sein ganzes Leben lang kennen, oder er versucht es zumindest.
+Das geschieht auf sehr individuelle Weise.
+Der eine will sich durch einen harten Job kennen lernen, der andere unternimmt eine abenteuerliche Reise, ein Dritter lernt sich durch eine extreme Situation kennen, wieder ein anderer füllt die Bewerbungsunterlagen einer Au-Pair-Agentur aus, und voller Angst vor dem Unbekannten reist er nach Frankreich.
+Und darüber möchte ich euch heute in dieser kurzen Rede etwas erzählen.
+Ich möchte über die Vorteile eines solchen Aufenthaltes sprechen und vielleicht auch denjenigen positiv beeinflussen, dem die Entscheidung schwer fällt, als Aupair ins Ausland zu gehen.
+Ein Aupair-Aufenthalt ist eine Möglichkeit, sich selbst zu entdecken, in sich Toleranz zu entwickeln, etwas von der Welt zu sehen und “Spezialitäten” des fremden Landes zu probieren, sowie natürlich seine Sprachkenntnisse zu vervollkommnen.
+Ich wollte alles, was “französisch” ist, selbst erleben.
+Am Anfang war es sehr schwer: ein fremdes Land, eine fremde Familie, eine fremde Umgebung, völlig verschieden von meiner bisherigen, Leute, die eine ganz andere Denkweise hatten.
+Sich unter solchen Umständen nicht zu verlieren ist sehr schwer.
+Fast jeder, der nach Frankreich kommt, hat erst mal Schwierigkeiten mit dem Hörverstehen.
+Und das ist ganz normal, weil die Ohren nicht daran gewöhnt sind, von früh bis spät die französische Sprache zu hören.
+Genau so war es auch in meinem Fall.
+Meine guten Französisch-Noten in der Schule haben mir da gar nichts genützt, besonders wenn die Leute Dialekt gesprochen haben.
+Aber ich habe mich sehr schnell eingelebt.
+Schon nach ein paar Wochen habe ich mich viel wohler gefühlt und konnte sogar den Dialekt der Gegend verstehen, in der ich war.
+Während meiner Zeit als Aupair habe ich Toleranz entwickelt, eine Eigenschaft, die in der heutigen Welt ungeheuer wichtig ist.
+Wer diese Eigenschaft besitzt, kann am Dialog der Kulturen teilnehmen.
+Toleranz ist die Kunst, in der Welt verschiedener Menschen und Ideen zu leben, eigene Rechte und Freiheiten zu haben und dabei die Rechte der anderen zu akzeptieren.
+Meiner Ansicht nach ist das die erste und allerwichtigste Voraussetzung des Friedens.
+Mein Aufenthalt in Frankreich hat mir eine Möglichkeit gegeben, meine eigene Kultur mit einer anderen zu vergleichen.
+Es gibt so etwas wie “Kulturunterschiede”.
+Man muss dabei die Tatsache akzeptieren, dass das, was für einen Deutschen gut und richtig ist, nicht das Gleiche auch für einen Franzosen bedeutet und auch umgekehrt.
+Die Arbeit als Aupair hat mir darüber hinaus geholfen, selbständiger und ernsthafter zu werden, eigene Probleme nicht den Eltern zu überlassen, sondern sie vielmehr zu entlasten und sogar zu unterstützen.
+Ich habe durch diesen Aufenthalt verstanden, dass der Mensch sich selbst helfen muss.`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de7_teil3.mp3',
+        text: `Sie sind in der U-Bahn-Station und hören, wie ein Mann und eine Frau sich über Verkehrsmittel unterhalten.
+**David:** Hallo Katja, schön, dich zu sehen!
+**Katja:** Hallo David, ich freue mich auch.
+Wie geht's denn so?
+**David:** Gut, danke.
+Was machst du so?
+**Katja:** Ich kann mich nicht beschweren.
+Was machst du denn hier in der U-Bahn-Station?
+Fährst du nicht mehr mit dem Auto?
+**David:** Doch, aber nur noch, wenn ich einen Ausflug mache oder eine größere Reise.
+Mit den öffentlichen Verkehrsmitteln komme ich überall bequem hin und die Fahrt kostet lange nicht so viel Nerven wie mit dem Auto.
+Ich hatte einfach keine Lust mehr, ständig im Stau zu sitzen.
+Ja, und dann immer die stundenlange Suche nach einem Parkplatz.
+Das hat mich auf die Dauer so geärgert.
+Außerdem ist es viel billiger.
+Das Benzin kann ja mittlerweile kein Mensch mehr bezahlen.
+**Katja:** Richtig.
+Außerdem tust du was Gutes für die Umwelt, wenn du dein Auto in der Garage lässt.
+**David:** Das auch noch!
+Mit den öffentlichen Verkehrsmitteln produziert man natürlich viel weniger Abgase als mit dem Auto.
+**Katja:** Hier bei uns sind die öffentlichen Verkehrsmittel auch sehr gut.
+Man kommt überall hin und muss nicht lange an der Haltestelle warten.
+**David:** Na ja, auf den Bus musst du manchmal schon ziemlich lange warten.
+Und wenn es regnet und kalt ist, ist das nicht so angenehm.
+Da ist es schon bequemer, einfach aus dem Haus zu gehen und sich in den Wagen zu setzen.
+Manchmal ist es auch ziemlich voll.
+Und wenn du müde von der Arbeit kommst, hättest du natürlich gern einen Platz zum Sitzen.
+**Katja:** Schon, aber man kann eben nicht alles haben.
+Stell dir vor, alle fahren mit dem Auto, dann sind die Straßen bald total verstopft und man kommt gar nicht mehr vorwärts.
+**David:** Für kürzere Strecken kann man auch sehr gut das Fahrrad nehmen.
+In der Stadt ist es sogar das schnellste Verkehrsmittel.
+**Katja:** Ja klar, das Fahrrad ist einfach ideal.
+Du hast keine Ausgaben für Benzin und gesund ist es auch noch.
+Ich benutze mein Auto auch nur noch selten, wie du.
+Die öffentlichen Verkehrsmitteln und mein Fahrrad genügen mir absolut und wenn ich's mal sehr eilig habe, nehme ich ein Taxi.
+**David:** Mit dem Taxi fahre ich, wenn ich abends ausgehe und ein Gläschen Wein mehr trinken will.
+Wenn ich mit Freunden zusammen bin und nichts trinken kann, ist irgendwie der ganze Abend kaputt.
+Du weißt schon, wie das ist.
+**Katja:** Sicher, und ich finde es sehr vernünftig von dir, dass du nicht fahren willst, wenn du was getrunken hast.
+Leider sind nicht alle Leute der Meinung, dass Alkohol am Steuer ein Tabu ist.
+**David:** Fährst du jetzt in die Stadt?
+**Katja:** Ja, und du?
+**David:** Ich fahre auch ins Zentrum.
+Na, da kommt unsere U-Bahn. Komm, wir steigen ein!`,
+      },
+      {
+        id: 'de-thi-b1-module-7-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de7_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Treffpunkt” diskutiert mit Monika Kunst, 23 Jahre alt, und Matthias Bahr, 24 Jahre alt, über das Thema “Heiraten- ja oder nein?”
+**Moderator:** Liebe Zuhörerinnen und Zuhörer!
+Ich heiße Sie bei unserer Sendung “Treffpunkt” willkommen.
+Unser Thema heute ist “Heiraten”.
+Dazu haben wir Frau Monika Kunst hier, sie ist ledig und arbeitet in der Stadtsparkasse.
+Unser zweiter Gast ist Mathias Bahr, der Informatik studiert hat und auf der Suche nach einer Arbeit ist.
+Frau Kunst, was halten Sie vom Heiraten?
+**Kunst:** Na ja, im Allgemeinen finde ich heiraten gut.
+Frau und Mann lernen sich kennen, verlieben sich, verloben sich und heiraten.
+Sie möchten für immer zusammen bleiben.
+**Moderator:** Wie denken Sie darüber, Herr Bahr?
+**Bahr:** Eigentlich halte ich nicht viel von Heiraten.
+Ich glaube, dass das Heiraten an Attraktion längst verloren hat.
+Immer mehr Paare verzichten darauf und leben einfach zusammen.
+**Kunst:** Ich muss Ihnen, widersprechen.
+Ich finde es gut zu heiraten, wenn man den Richtigen oder die Richtige gefunden hat.
+Wenn man mit dem Partner glücklich ist und mit ihm alt werden will, dann ist es schön, wenn man das nach außen hin zeigen kann und alle Welt sieht, dass man zusammengehört.
+Die Hochzeit ist für mich eins der größten Ereignisse im Leben.
+**Moderator:** Der gesellschaftliche Druck zu heiraten wird immer schwächer und das Zusammenleben ohne Heirat ist zu einer verbreiteten Lebensform geworden.
+Das zeigen auch die Daten des Statistischen Bundesamtes.
+**Bahr:** Eben.
+Wie ich schon gesagt habe: Heiraten ist nicht unbedingt erforderlich.
+Für mich ist wichtig, dass die Beziehung glücklich ist.
+**Moderator:** Ich finde, dass man 100% sicher sein muss, wenn man heiraten will.
+Außerdem sollte man wissen, dass es auch zu einer Scheidung kommen kann.
+Es kann ja niemand garantieren, dass eine Ehe für immer hält oder glücklich ist.
+Meinen Sie nicht, Frau Kunst?
+**Kunst:** Nein!
+Daran will ich nicht denken.
+Mir ist schon klar, dass eine Ehe auch schief gehen kann, ich bin nicht so naiv.
+Aber nehmen wir als Beispiel mal meine Eltern.
+Die sind jetzt über 40 Jahre zusammen und seit 30 Jahren verheiratet.
+Es scheint, dass sie keine großen Eheprobleme haben, und man sieht an ihrem Verhalten, dass sie noch immer irgendwie verliebt sind.
+**Bahr:** Sie gehören zu einer anderen Generation, die ganz andere Vorstellungen vom Zusammenleben und von der Familie hat.
+Sicher ist, dass sich die Paare heute nicht so leicht entscheiden zu heiraten.
+Die allermeisten Paare proben das Zusammenleben erst mal dadurch, dass sie zusammenziehen.
+Wenn das nicht funktioniert, trennt man sich wieder.
+Wenn es funktioniert, bleibt man zusammen, aber ob man auch heiratet, ist eine andere Frage.
+**Moderator:** Es ist ja wohl auch so, dass viele Leute gar nicht übers Heiraten nachdenken, solange kein Kinderwunsch besteht.
+Frau Kunst, glauben Sie, dass das Glück der Kinder davon abhängt, ob die Eltern verheiratet sind oder nicht?
+**Kunst:** Entscheidend ist, dass man sein Kind liebt.
+Wenn die Eltern sich liebevoll um ihr Kind kümmern, interessiert es das Kind wenig, ob sie verheiratet sind oder nicht.
+Früher waren Kinder mit unverheirateten Eltern was ganz Schlimmes.
+Das ist heute Gott sei Dank nicht mehr so.
+Obwohl ich selbst Kinder nur in der Ehe bekommen möchte.
+**Moderator:** Es gibt junge Leute, die nicht mal 20 Jahre alt sind und heiraten wollen.
+Sie sind fest überzeugt davon, das Richtige zu tun, weil sie sich lieben und für immer zusammen sein wollen.
+Was würden Sie diesen Leuten sagen, Herr Bahr?
+**Bahr:** Es ist einfach dumm, jung zu heiraten.
+Wenn ein Paar sich liebt, kann es ja zusammen sein, ohne gleich zu heiraten.
+Das kann man doch später immer noch machen.
+Wenn die Beziehung reif genug ist und jeder seine beruflichen Ziele erreicht hat und mehr oder weniger finanziell unabhängig ist, kann man sich einfach besser entscheiden, wie es mit dem gemeinsamen Leben weiter gehen soll.
+**Kunst:** Ich finde es auch ganz unverständlich, wie jemand mit zwanzig schon verheiratet sein oder Kinder haben kann.
+**Moderator:** Und in welchem Alter sollte man Ihrer Meinung nach heiraten?
+**Kunst:** Ich wusste mit 18 nicht, was ich überhaupt vom Leben will.
+Ab 25 sieht das schon anders aus.
+Da hat man schon einiges im Leben, als Erwachsener erlebt, man hat schon ein oder zwei Beziehungen hinter sich und weiß, was man von seinem Partner erwartet.
+**Bahr:** Ja, das sehe ich auch so.
+Früher hat man sofort seine erste große Liebe geheiratet, weil man in den meisten Fällen gar keine andere Wahl hatte.
+Heute lässt man sich mehr Zeit, weil die Eltern und die Gesellschaft nicht mehr so streng sind. Ich glaube, es liegt auch an der stärkeren Position der Frau in der Ehe und in der Gesellschaft.
+**Moderator:** Wie meinen Sie das, Herr Bahr?
+**Bahr:** Also, früher war es doch so: Wenn eine Frau nicht spätestens bis zum 25. Lebensjahr verheiratet war, war sie kein vollwertiges Mitglied der Gesellschaft.
+Heute wollen immer mehr junge Frauen Karriere machen, bevor sie heiraten und mit der Familienplanung anfangen. Was ich persönlich auch sehr gut und vernünftig finde.
+**Moderator:** Frau Kunst, Herr Bahr, ich bedanke mich für Ihre Zeit und dass Sie uns so ausführlich Ihre Meinung zum Thema “Heiraten” gesagt haben.
+Liebe Zuhörerinnen und Zuhörer, ich wünsche Ihnen einen schönen Abend und erwarte Sie auch nächsten Montag wieder bei unserem “Treffpunkt”.`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-8',
@@ -8308,7 +8535,247 @@ Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-8-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de8_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Frau Eschmann, hier ist Claudia Haas.
+Ich wollte Ihnen nur sagen, dass ich heute Nachmittag die Klavierstunde mit Jonas absagen muss.
+Es tut mir wirklich Leid, dass ich so kurzfristig anrufe, aber heute früh habe ich ganz unerwartet Besuch von Verwandten aus München bekommen.
+Wir könnten die Stunde auf übermorgen gegen vier verlegen, wenn Jonas will und nichts anderes hat.
+Sonst eben nächste Woche ganz normal.
+Bitte rufen Sie mich an.
+Danke.
+Auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de8_teil1_1.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag Herr Fritsch!
+Hier ist Irina Jakobs, Ihre Sachbearbeiterin von der Arbeitsagentur.
+Ich möchte einen Termin mit Ihnen ausmachen, wir haben da nämlich ein Jobangebot für Sie, oder eigentlich sogar zwei.
+Das eine ist eine Dreiviertelstelle als Verkäufer in einem Elektrogeschäft und das zweite wäre bei einer Firma, die Staubsauger herstellt.
+Die suchen einen Vertreter.
+Das wäre doch was für Sie, oder?
+Bitte rufen Sie mich, wenn möglich, noch heute zurück.
+Sie können mich bis sechs im Büro erreichen.
+Auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de8_teil1_2.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Die Brauerei Eichbaum feiert in diesem Jahr ihren 333. Geburtstag.
+Grund genug, um beim traditionellen Eichbaum-Braufest am Wochenende 1./2. September besonders viele Leckerbissen für alle Sinne zu servieren.
+Das Unternehmen hat für die Feierlichkeiten auf dem Betriebsgelände im Wohlgelegen nicht nur ein großes Feuerwerk auf die Beine gestellt.
+Genuss für die Ohren verspricht das bunte Musikprogramm: Verschiedene Künstler verzaubern am 1. und 2. September mit kurzweiliger Unterhaltung.
+Den Anfang macht am Samstag die Mannheimer Udo Jürgens Band mit Hits wie “17 Jahr, blondes Haar” oder Balladen wie “Was wichtig ist”.`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de8_teil1_3.mp3',
+        text: `Sie hören eine Durchsage im Radio.
+Seit dem 07.04. wird die 74-jährige Gertrude Anna Heringhaus aus Freilassing vermisst.
+Die Vermisste verließ gestern gegen 09.15 Uhr zu Fuß ihre Wohnung in Freilassing.
+Kurz danach wurde sie an der Kreuzung Münchener Straße / Lindenstraße gesehen.
+Sie ist täglich dringend auf Medikamente angewiesen.
+Es ist deshalb nicht auszuschließen, dass sie sich in hilfloser Lage befindet.
+Die Vermisste ist 1,60 Meter groß und schlank.
+Sie hat glattes graublondes Haar und ist mit einer dicken braunen Jacke und einer grauen Hose bekleidet.
+Hinweise bitte an die Kripo in Traunstein unter 0861/9873-0.`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de8_teil1_4.mp3',
+        text: `Sie hören eine Durchsage in der Straßenbahn.
+Liebe Fahrgäste, auch in diesem Jahr möchten wir Ihnen einen unbeschwerten Festbesuch ermöglichen:
+Auf vielen Bus- und Straßenbahnlinien gibt es zusätzliche Fahrten und geänderte Linienführungen.
+So kommen Sie einfach und schnell ins Vergnügen und bis in die frühen Morgenstunden sicher und bequem auch wieder nach Hause.
+Die letzten Fahrten der Bus- und Straßenbahnlinien und weitere Fahrtmöglichkeiten entnehmen Sie bitte den Aushängen und den detaillierten Fahrplänen in den Fahrplanbüchern und im Internet unter www.dadina.de.`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de8_teil1_5.mp3',
+        text: `Sie hören eine Durchsage am Abflugschalter.
+Meine Damen und Herren, für den Flug LH 8345 nach Mailand mit Zwischenlandung in München sind wir jetzt zum Einsteigen bereit.
+Damit das Einsteigen schneller geht, werden wir die Fluggäste in zwei Gruppen aufteilen.
+Wir bitten zunächst die Passagiere mit Kleinkindern und die Passagiere der Sitzreihen 15 bis 28, zum Ausgang zu kommen.
+Bitte halten Sie Ihre Bordkarten und Reisedokumente bereit.
+Die Passagiere der Sitzreihen 1 bis 14 werden aufgerufen, sobald der hintere Teil des Flugzeugs besetzt ist.`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de8_teil2.mp3',
+        text: `Sie nehmen an einer Werksbesichtigung bei Porsche teil.
+Meine Damen und Herren, mein Name ist Rolf Sedlmayer und ich freue mich sehr, Sie heute hier in unserem Werk begrüßen zu dürfen.
+Sie sind Mitglieder des Porsche-Clubs in Ihrer Heimat und auf Einladung der Porsche-Werke nach Stuttgart gekommen.
+In den nächsten Tagen bin ich Ihr Betreuer und werde mich nicht nur darum bemühen, unseren Betrieb näher vorzustellen, sondern auch dafür sorgen, dass Sie einen schönen Aufenthalt bei uns in Stuttgart haben.
+Heute bringt Sie ein hochmoderner Bus bequem zu den wichtigsten Sehenswürdigkeiten und Museen der Stadt.
+Zu Mittag essen wir in einem ausgezeichneten Restaurant am Schlossgarten mit Spezialitäten, die nach alten regionalen Rezepten zubereitet werden.
+Für den Nachmittag und den Abend steht nichts auf dem Programm.
+Sie können Ihre Zeit frei gestalten.
+Morgen früh geht es dann richtig los.
+Zurzeit findet die “Retro-Classic”- Messe statt.
+Dort verbringen wir den ganzen Tag.
+Sie können sich viele interessante Automodelle aus allen Zeiten ansehen.
+Durch die Ausstellung werden Sie von einem Fachmann unseres Werks geführt, der die Entwicklung und Geschichte der Automobilproduktion sehr gut kennt und Sie über alles informiert.
+Nach dem Besuch der Ausstellung sind Sie alle sicher ziemlich müde und werden mit dem Bus ins Hotel gebracht, wo Sie zu Abend essen können.
+Am dritten Tag Ihres Aufenthalts in Stuttgart geht es nach dem Frühstück zum Porscheplatz in Zuffenhausen.
+Dort beginnt unser Tagesprogramm mit dem Besuch des neuen Porsche-Museums, wo Sie in einem hochmodernen Gebäude wunderbare Ausstellungsstücke erwarten.
+Zu Mittag werden Sie in der Kantine des Werks essen.
+Alles ist speziell für Sie vorbereitet und Sie können ein Menü der Sonderklasse genießen.
+Den zweiten Teil des Tages verbringen Sie in den Produktionshallen, wo Sie in allen Einzelheiten sehen können, wie unsere Autos hergestellt werden.
+Am Samstag, dem letzten Tag Ihres Aufenthalts bei uns in Stuttgart, steht Wandern und Klettern auf dem Programm, organisiert von der Zubehör-Firma für Porsche TECHART.
+Aber keine Angst, für diejenigen, die sportlich nicht so aktiv sind, haben wir eine Alternative: eine kleine Wanderung, die mit einem Picknick endet.
+Später fahren wir noch zum Techart-Werk.
+Dort werden Ihnen verschiedene Porsche-Komponenten gezeigt und wie sie montiert werden.
+Nach einer kurzen Ruhepause im Hotel gibt es dann auf Einladung des Porsche-Clubs ein Menü im Hotelrestaurant.
+Unser Präsident wird Ihnen als Dankeschön eine Erinnerungsplakette an den Besuch überreichen und der Abend soll bei guter Musik ablaufen.
+Walter Radi wird am Klavier historische Jazzlieder für Sie spielen.`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de8_teil3.mp3',
+        text: `Sie sitzen in einem Café und hören, wie sich am Nebentisch zwei Freunde über eine Reise unterhalten.
+**Sebastian:** Tag, Markus!
+Wie ich sehe, bist du wieder zurück aus Mallorca!
+**Markus:** Grüß dich, Sebastian.
+Ich bin gestern Abend gelandet.
+Wie geht's dir?
+**Sebastian:** Gut, danke.
+Und dir?
+**Markus:** Auch gut!
+Nur ein bisschen müde von der Reise.
+**Sebastian:** Warum bist du eigentlich mitten im November nach Mallorca geflogen?
+**Markus:** Ach, du weißt doch, dass meine Frau Tennis spielt.
+Sie hatte sich für ein Turnier auf Mallorca angemeldet.
+Normalerweise fährt sie zu solchen Turnieren allein, aber ich hab im Moment nicht viel zu tun und da hab ich gedacht “Fahr doch einfach mit!”.
+Aber weil mir die Idee erst zwei Tage vor der Reise gekommen ist, hatte ich ziemlich wenig Zeit für die Vorbereitungen.
+**Sebastian:** Was gibt's denn da groß vorzubereiten?
+**Markus:** Na ja, ein paar Informationen über Mallorca zusammensuchen und natürlich Tickets und Papiere.
+**Sebastian:** Das heißt...?
+**Markus:** Mein Pass war nicht mehr gültig, aber ich wusste nicht, dass der für Spanien gar nicht nötig ist.
+Da reicht auch der Personalausweis.
+Ich wusste auch nicht, dass man heute gar keine Tickets mehr braucht, jedenfalls wenn man den Flug im Internet bucht.
+Du kriegst nach der Buchung einfach eine E-Mail als Bestätigung und mit der, bzw. mit der Nummer darauf bekommst du dann am Schalter deine Bordkarte.
+Daran siehst du, dass ich seit Ewigkeiten nicht mehr geflogen bin.
+**Sebastian:** Na ja, bei mir ist das auch schon ein paar Jahre her, aber es hört sich doch ganz einfach an.
+**Markus:** Ist es eigentlich auch, aber bei solchen Sachen bin ich immer ein bisschen hektisch und habe keine Ruhe, bis alle Reiseunterlagen vollständig sind.
+Na, jedenfalls hat dann am Flughafen alles prima geklappt.
+**Sebastian:** Und der Aufenthalt auf der Insel?
+**Markus:** Sehr schön!
+Wir hatten ein ganz tolles Hotel.
+Das Zimmer war sehr gemütlich eingerichtet und hatte natürlich Blick aufs Meer.
+Unten im Erdgeschoss war eine schöne Bar und im Restaurant des Hotels gab es immer sehr leckere spanische Spezialitäten.
+Was will man mehr!
+**Sebastian:** Und wie seid ihr mit den anderen Tennisspielerinnen zurechtgekommen?
+**Markus:** Die waren alle sehr nett.
+Am Tag waren wir viel zusammen, beim Frühstück, Mittagessen und Spazierengehen.
+Abends konnten sie natürlich nicht so lange aufbleiben, weil sie ja fit für ihre Spiele am nächsten Tag sein mussten, und sind immer ziemlich früh ins Bett gegangen, meine Frau auch.
+Ich hab mich dann in die Bar gesetzt und mich mit ein paar Deutschen sehr nett unterhalten.
+**Sebastian:** Waren viele Deutsche da?
+**Markus:** Ja, sogar jetzt im November.
+Mallorca ist sehr beliebt bei den Deutschen.
+Es ist fast eine deutsche Kolonie.
+Viele leben sogar immer dort.
+Aber es ist auch eine wunderschöne Insel.
+Und die Leute da sind auch sehr freundlich.
+**Sebastian:** Also, wenn das so ist, mach ich vielleicht auch mal Urlaub da.
+**Markus:** Gute Idee!`,
+      },
+      {
+        id: 'de-thi-b1-module-8-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de8_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Raus ins Grüne” hat Daniel Grün und Nadja Klein eingeladen, um mit ihnen über das Thema “Sollten junge Leute lernen, an die Umwelt zu denken?” zu diskutieren.
+**Moderator:** Liebe Zuhörerinnen, liebe Zuhörer!
+Ich heiße Sie zu unserer Sendung “Raus ins Grüne” willkommen.
+Unser heutiges Thema ist, “Sollten junge Leute an die Umwelt denken lernen”?
+Dazu haben wir zwei Abiturienten eingeladen.
+Nadja Klein und Daniel Grün sind zwanzig Jahre alt und haben auf ökologischen Workcamps im Ausland gearbeitet.
+Daniel, du warst ein Jahr in Kanada?
+**Daniel:** Ja, genau.
+Nach dem Abitur wollte ich erst mal raus aus Deutschland und eine andere Kultur und Menschen kennen lernen.
+Durch den Film “Into the Wild” beeinflusst, habe ich mich für Kanada entschieden.
+Kanada ist ein wunderbares Land mit so viel schöner Natur.
+Ich war erst mal in einer Sprachschule, habe bei einer Gastfamilie gewohnt und mit anderen Schülern meiner Schule viele Ausflüge unternommen.
+Danach bin ich in ein ökologisches Workcamp gegangen.
+**Moderator:** Was habt ihr da genau gemacht?
+**Daniel:** Tagsüber mussten wir Tiere füttern und Bäume pflanzen.
+Abends haben wir am Lagerfeuer gesessen.
+Ich habe so viele Freundschaften geschlossen und vieles über die Natur und ihren Schutz gelernt.
+Ich würde es jederzeit wieder machen.
+**Moderator:** Und du, Nadja?
+**Nadja:** Ich war in Südafrika!
+Ich finde ökologische Workcamps einfach toll.
+In einem Camp organisiert man den Aufenthalt ganz allein und lebt mit anderen Freiwilligen zusammen.
+Das Gute daran ist, dass es Workcamps speziell für Teenager gibt, an denen man schon ab fünfzehn Jahren teilnehmen kann.
+Außerdem dauern sie meistens drei bis sechs Wochen und finden im Sommer statt, was für Schüler günstig ist.
+Da werden dann Bäume gepflanzt oder man kümmert sich um Tiere.
+**Moderator:** Was habt ihr durch das Workcamp gelernt?
+**Daniel:** Die Umwelt zu respektieren und sich um sie zu kümmern, denn sonst wird sie und damit auch unser Leben zerstört.
+Ich möchte Ihnen ein Beispiel geben.
+Die meisten Leute setzen sich nicht nur für weite Strecken ins Auto, sondern auch für kurze.
+Aber Autos verbrauchen Benzin, das verschmutzt die Luft und ist schlecht für die Atmosphäre.
+Dabei geht es auch anders.
+Wer das Auto stehen lässt und stattdessen zu Fuß geht oder Fahrrad fährt, schützt die Umwelt.
+**Nadja:** Der Weg zur Schule, zum Bäcker oder zum Freund, zur Freundin um die Ecke, das sind meistens Strecken, die man laufen kann.
+Schon solche Kleinigkeiten sind ein Beitrag zum Umweltschutz.
+**Moderator:** Was habt ihr auf diesen Workcamps am interessantesten gefunden?
+**Nadja:** Die internationale Atmosphäre, denn in einer Gruppe aus 15 bis 20 Freiwilligen kommt jeder aus einem anderen Land und durch die gemeinsame Arbeit erfahren wir von den Umweltproblemen in anderen Ländern und was dort gemacht wird.
+**Daniel:** Nicht nur der Wald wird überall zerstört, sondern auch das Wasser und die Luft, was allen schadet, den Tieren und den Pflanzen.
+Der Mensch muss endlich umweltfreundlicher werden.
+**Moderator:** Z.B. braucht der Mensch viel Papier, aber dafür wird das Holz von den Bäumen gebraucht.
+Das Holz wird nicht nur fürs Papier, sondern auch für Möbel, für den Fußboden usw. gebraucht.
+Was kann man da machen?
+**Daniel:** Der Mensch muss dafür sorgen, dass der Wald erneuert wird, indem Bäume gepflanzt werden, wie es in Kanada gemacht wird.
+**Nadja:** Außerdem muss der Mensch weniger Papier verbrauchen.
+Wir dürfen Altpapier nicht in den normalen Müll werfen, sondern sollten es sammeln.
+Aus dem Altpapier kann man neues Papier gewinnen, so dass weniger Bäume gefällt werden müssen.
+**Moderator:** Der Mensch muss sich vernünftig verhalten.
+Sehr wichtig für unsere Existenz ist auch das Wasser.
+Wir verbrauchen es oft gedankenlos und verschmutzen es mit unseren Abwässern.
+**Nadja:** Ohne Wasser würden wir nicht nur an Durst sterben, sondern auch verhungern, denn auch Pflanzen und Tiere brauchen Wasser.
+Außerdem wird das Flusswasser für die Produktion von Strom und Wärme benutzt.
+Und Wasser gibt es gar nicht so viel.
+Deswegen müssen wir sparsam damit umgehen.
+Und Wassersparen ist ja auch ganz einfach.
+**Daniel:** Schon zu Haus kann man weniger Wasser verbrauchen.
+Zum Duschen braucht man viel weniger Wasser als beim Baden, beim Zähneputzen sollte das Wasser nicht die ganze Zeit laufen, um hier nur zwei einfache Beispiele zu erwähnen.
+**Moderator:** Nicht nur beim Wasser, sondern auch beim Strom muss gespart werden.
+Die Produktion von Energie belastet die Umwelt auch.
+Wie ist es bei euch zu Hause, Nadja?
+**Nadja:** Meine Eltern achten darauf, wenig Strom zu verbrauchen.
+Das machen sie vor allem, um Geld zu sparen.
+Ich glaube nämlich nicht, dass sie so sehr an die Umwelt denken, obwohl in der letzten Zeit bei uns zu Haus oft die Rede davon ist.
+**Daniel:** Meine Eltern handeln bewusst umweltfreundlich.
+Sie benutzen Sparlampen, sie machen das Licht aus, wo es nicht nötig ist, sie schalten alle Geräte aus, wenn sie nicht benutzt werden.
+Bei jeder Gelegenheit werden wir, das heißt ich und mein Bruder, daran erinnert, dass unser Leben und die Umwelt zusammenhängen.
+**Moderator:** Ich finde es toll, wenn die Eltern mit ihren Kindern über die Bedeutung der Umwelt sprechen.
+**Nadja:** Und sie an ökologischen Workcamps teilnehmen lassen!
+**Daniel:** Genau.
+So verbindet man schöne Ferien mit Erfahrungen aus dem Bereich Umweltschutz.
+**Moderator:** Also, ich könnte mir kein besseres Schlusswort vorstellen, um unsere Sendung zu beenden.
+Wir haben das Thema ja auch sehr ausführlich behandelt.
+Nadja und Daniel, vielen Dank, dass ihr heute ins Studio gekommen seid!`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-9',
@@ -8316,7 +8783,254 @@ Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-9-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de9_teil1_beispiel.mp3',
+        text: `Sie hören eine Durchsage im Radio.
+Wegen Asphaltarbeiten ist die Eisenlohrstraße am Mittwoch, den 5. September, ab etwa 7 Uhr, sowie am Donnerstag, den 6. September, für den Verkehr gesperrt.
+Wie die Rhein-Neckar-Verkehr GmbH mitteilt, ist davon auch die Buslinie 61 betroffen.
+In dieser Zeit fahren die Busse von der Grenadierstraße kommend in Richtung Sellweiden eine Umleitung über die Friedrich-Ebert-Straße und die Zielstraße.
+Dadurch kann laut RNV die in den Morgenstunden angefahrene Haltestelle Eisenlohrstraße nicht bedient werden.
+Wegen der Umleitung kann es außerdem zu Verspätungen kommen.`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de9_teil1_1.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Ein 28-Jähriger ist in der Nacht zum Sonntag bei einem Messerangriff an der Maretstraße verletzt worden.
+Er war mit zwei 15 und 17 Jahre alten Mädchen unterwegs, als es Streit mit einer Gruppe junger Männer gab.
+Die Auseinandersetzung geriet außer Kontrolle.
+Durch Stiche mit einem Messer wurde der 28-Jährige leicht am Rücken verletzt.
+Polizisten nahmen am Bahnhof Jasin S. (20) und Aziz D. (18) wegen Körperverletzung fest.
+Der 28-Jährige kam ins Krankenhaus.
+Er konnte nach ambulanter Behandlung entlassen werden.`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de9_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag, Frau Overdiek.
+Mein Name ist Harald Isselhorst.
+Ich habe gestern Abend gegen 8 Uhr auf dem Parkplatz des DM-Markts in der Brüsseler Straße eine Handtasche gefunden, von der ich glaube, dass sie Ihnen gehört.
+Ich habe die Tasche durchsucht und darin ein Portemonnaie mit einem Personalausweis und anderen Papieren mit Ihrem Namen gefunden.
+Ihre Adresse war im Telefonbuch leicht zu finden.
+Bitte rufen Sie unter der Nummer 07031/298174 zurück, damit wir die Rückgabe der Tasche regeln können.
+Auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de9_teil1_3.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag Herr Albrecht, hier ist Barbara Effinger-Frischholz von der Polizei.
+Sie hatten doch vor zwei Wochen eine Diebstahlsanzeige wegen Ihres Fahrrads gemacht.
+Es sieht so aus, als ob wir das Rad gefunden hätten.
+Es entspricht genau der Beschreibung, die Sie uns gegeben haben, aber weil es keine Registriernummer hat, müssten Sie es natürlich selbst identifizieren.
+Bitte kommen Sie an einem der nächsten Tage bei uns vorbei.
+Für die Rückgabe sind auch noch einige Formalitäten zu erledigen.
+Danke und auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de9_teil1_4.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag, Frau Singer, mein Name ist Anna Knebel.
+Ich habe von meiner Freundin Waltraud Krieger erfahren, dass Sie eine Tagesmutter für Ihre Tochter suchen.
+Ich bin 34 Jahre alt, ausgebildete Erzieherin und arbeite schon seit 10 Jahren als Tagesmutter.
+Ich habe auch Erfahrung mit leicht behinderten Kindern, wie es bei ihrer Tochter der Fall ist.
+Falls Sie daran interessiert sind, mich kennen zu lernen, rufen Sie mich doch bitte unter 01722438841 an.
+Ich wohne übrigens ganz in Ihrer Nähe.
+Vielen Dank!`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de9_teil1_5.mp3',
+        text: `Sie hören eine Durchsage im Kaufhaus.
+Sehr verehrte Damen und Herren, wir bitten einen Augenblick um Ihre Aufmerksamkeit.
+Soeben wurde bei unserer Fundstelle eine Halskette abgegeben, die ein Kunde in der Abteilung für Haushaltswaren gefunden hat.
+Es handelt sich um eine etwa 55 cm lange alte Kette aus Weißgold mit einem großen Kreuz in recht ungewöhnlicher Form.
+Der Besitzer bzw. die Besitzerin wird gebeten, das Schmuckstück bei unserer Fundstelle abzuholen.
+Sie befindet sich im fünften Stock rechts neben dem Eingang zum Restaurant.`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de9_teil2.mp3',
+        text: `Sie sind bei einer Informationsveranstaltung der Deutschen Flugsicherung über Ausbildungsmöglichkeiten.
+Ich freue mich, euch bei uns im Betrieb der Deutschen Flugsicherung zu empfangen.
+Mit eurer Teilnahme könnt ihr euch einen ganzen Tag lang über die Ausbildung zum Fluglotsen informieren und erfahren, welche beruflichen Perspektiven es bei der Deutschen Flugsicherung gibt.
+Dabei werdet ihr nicht nur den Kontrollturm besuchen, ihr habt auch die Möglichkeit, die Flugleiter bei ihrer Arbeit im Kontollzentrum zu beobachten.
+Der Tag beginnt mit der Einführung in den Beruf des Flugleiters.
+Wenn man auf dem Flughafen ist, sieht man nur einen Teil des Flugverkehrs, wie etwa den Check-in, den Gepäcktransport und viel Betrieb.
+Doch dahinter steckt die wichtigste Arbeit, die für den problemlosen Ablauf des Luftverkehrs sorgt.
+Von den 5.600 Mitarbeitern, die die Deutsche Flugsicherung beschäftigt, arbeiten 3.000 daran, dass alle Flugzeuge sicher und problemlos ihr Ziel erreichen 1.800 davon als Flugleiter.
+In unserer Flugsicherungsakademie werden unsere Auszubildenden in Theorie und Praxis auf ihre spätere Tätigkeit vorbereitet und lernen alle Aufgaben des Flugleiterberufes.
+Der zukünftige Flugleiter lernt den Luftverkehr regeln, er achtet darauf, dass der Höhenabstand zu anderen Flugzeugen stimmt, warnt die Piloten vor entgegenkommenden Flugzeugen und gibt ihnen Routenänderungen durch.
+Die Auszubildenden erfahren, dass jedes Flugzeug ständig unter Kontrolle eines Flugleiters vom Start der Maschine bis zur Landung ist.
+Der Luftraum ist so aufgeteilt, dass jeder Flugleiter nur für einen bestimmten kleinen Teil zuständig ist.
+Anschließend werden wir in den Tower gehen, damit ihr seht, wie so ein Tower aussieht und wie der Luftverkehr geregelt wird.
+Ihr müsst aber wissen, dass nur ein kleiner Teil der Flugleiter später wirklich im Tower arbeitet, die große Menge wird im Kontrollzentrum beschäftigt.
+Dort sitzen die Flugleiter vor ihren Monitoren und kontrollieren den Luftraum per Radar, anders als die Leute im Tower, die die Maschinen direkt sehen können.
+Ihr werdet heute beobachten können, wie die Flugleiter den Radarschirm im Auge behalten und den Piloten Hinweise geben.
+Ihr werdet sehen, die Besichtigung ist wirklich spannend.
+Ihr werdet den ganzen Ablauf besser verstehen, wenn ihr gesehen habt, wie es in so einem Tower aussieht.
+In Echt sieht alles viel beeindruckender aus.
+Es ist eine einmalige Gelegenheit, Zutritt zum Tower-Simulator zu bekommen, denn sonst kommt man hier nicht rein.
+Um die Ausbildung erfolgreich abzuschließen, braucht ihr sehr gute Englischkenntnisse, denn die ganze Kommunikation läuft auf Englisch ab.
+Ihr braucht ein gutes Gedächtnis.
+Ihr müsst lernen, mehrere Dinge gleichzeitig zu tun, Entscheidungen zu treffen und zusammen mit anderen Menschen zu arbeiten.
+Nach dieser kurzen Einführung folgt mir bitte.
+Ich zeige euch jetzt die Ausbildungsstätte und die verschiedenen Bereiche, in denen die Flugleiter tätig sind.`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de9_teil3.mp3',
+        text: `Sie sind in einer Boutique und hören die Unterhaltung zwischen zwei Freundinnen, die sich zufällig im Laden treffen.
+**Sarah:** Hallo Iris!
+Was machst du denn hier?
+Arbeitest du heute nicht?
+**Iris:** Nein, ich habe mir einen Tag frei genommen.
+Ich hatte einige Sachen zu erledigen.
+Ich war früher fertig, als ich dachte und da bin ich zu einem kleinen Einkaufsbummel losgezogen.
+Ich wollte mal einen Blick auf die neue Sommermode werfen.
+**Sarah:** Und?
+Hast du dir was Schickes gekauft?
+**Iris:** Nein, noch nichts.
+Zuerst will ich mich mal umsehen.
+Wenn ich einkaufen gehe, brauche ich Zeit, bevor ich mich entscheide.
+Außerdem muss man auch in der richtigen Stimmung sein.
+Heute hab ich irgendwie das Gefühl, dass mir nichts passt und nichts steht.
+**Sarah:** Warum?
+Ist was passiert?
+Fehlt dir was?
+**Iris:** Nichts Spezielles.
+Aber ich glaube, es hat irgendwie mit der Arbeit zu tun.
+Ich habe im Büro im Moment viel Stress.
+Lass uns lieber über was anderes reden.
+Machst du auch einen Einkaufsbummel?
+**Sarah:** Nicht ganz!
+Du weißt doch, dass ich mir meine Arbeit so einteilen kann, wie ich will.
+Ich war gerade auf einen Sprung in der Bank, da hab ich hier so hübsche Sachen im Schaufenster gesehen.
+Also, wie findest du die Mode im kommenden Sommer?
+**Iris:** Mir gefällt sie.
+Die meisten Sachen sind in ganz kräftigen Farben, das habe ich sehr gern.
+Und die Röcke und Kleider sind dieses Jahr knielang.
+**Sarah:** Ich trage generell lieber Hosen.
+In Röcken fühle ich mich nicht wohl.
+**Iris:** Ich eigentlich auch.
+Hosen sind viel praktischer.
+Kannst du dir vorstellen, in einem Mini-Rock rumzulaufen?
+Ich meine, wir sind ja nicht mehr die Jüngsten.
+Schicke Sachen ja, aber bitte keine Übertreibungen.
+**Sarah:** Also, ich finde Miniröcke nicht schlecht, natürlich nur wenn man die richtige Figur hat.
+**Iris:** Eben!
+Die Sachen müssen zu einem passen und sollten die Persönlichkeit betonen.
+**Sarah:** Die Männer haben es in der Hinsicht leichter.
+Sie legen nicht so großen Wert auf Mode.
+**Iris:** Das glaube ich nicht!
+Sie interessieren sich schon dafür, aber die Männermode ist langlebiger.
+Bei den Frauen ist jedes Jahr, oder besser jede Saison, was Neues in Mode und wir müssen alles mitmachen.
+**Sarah:** Na, wir müssen doch nicht!
+**Iris:** Jetzt komm schon, du bist auch doch immer schick und modisch angezogen.
+Und du achtest auch darauf, dass alles schön zusammenpasst.
+Es gibt natürlich Frauen, die keinen guten Geschmack haben, oder denen es ganz egal ist, wie sie aussehen.
+**Sarah:** Mode ist das, was einem gefällt und dazu beiträgt, dass man gut aussieht.
+Ich lasse mich nicht so leicht von den Modemachern und der Werbung beeinflussen.
+**Iris:** Das ist auch besser so, sonst gibst du nämlich am Ende dein ganzes Geld für Klamotten aus.
+Sag mal, setzen wir uns noch auf einen Kaffee ins Café Wägerle oder hast du 's eilig?
+**Sarah:** Nein, nein, ich hab Zeit, und ein Kaffee wär jetzt genau das Richtige!`,
+      },
+      {
+        id: 'de-thi-b1-module-9-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de9_teil4.mp3',
+        text: `Der Moderator der Radiosendung “Treffpunkt“ diskutiert mit den Eltern Olga Binder und Adrian Schöner über das Thema Nachhilfeunterricht.
+**Moderator:** Liebe Zuhörerinnen und Zuhörer!
+Ich heiße Sie bei unserem “Treffpunkt” herzlich willkommen.
+Unser Thema heute ist “Warum Nachhilfe!”
+Dazu haben wir Frau Olga Binder eingeladen.
+Sie hat eine 13-jährige Tochter, die mit Nachhilfeunterricht unterstützt wird.
+Unser zweiter Studiogast ist Adrian Schöner, dessen 14-jähriger Sohn keine Unterstützung durch zusätzlichen Nachhilfeunterricht bekommt.
+Frau Binder, Sie unterstützen den Lernerfolg und die schulischen Leistungen Ihrer Tochter durch zusätzlichen Nachhilfeunterricht.
+Warum tun Sie das?
+**Binder:** Das hat verschiedene Gründe.
+Vor allem aber liegt es daran, dass meine Tochter in der Klasse nicht mitkommt, weil der Schulstoff immer mehr, immer schwieriger und vielfältiger wird.
+Dagegen bleibt die Stundenzahl gleich und oft fällt der Unterricht aus.
+**Moderator:** Tun Sie mit Ihrem Sohn das gleiche, Herr Schöner?
+**Schöner:** Nein, natürlich nicht.
+Ich habe das Glück, dass mein Sohn eine Ganztagsschule besucht.
+Dort wird den Kindern nicht nur bei der Erledigung der Hausarbeiten geholfen, sondern es wird ihnen auch erklärt, was sie im Unterricht nicht verstanden haben.
+Bei kleinen schulischen Schwierigkeiten helfen wir ihm dann zu Haus.
+**Binder:** Aber manchmal gibt es größere Probleme und Lücken, bei denen die elterliche Hilfe nicht reicht.
+Hinzu kommt auch, dass jedes Kind anders lernt.
+Unser Schulsystem kann aber aufgrund des Zeitdrucks in zu großen Klassen und wegen der schlechten Unterrichtsbedingungen oft nicht auf jedes Kind Rücksicht nehmen.
+Nachhilfe ist da die Lösung.
+**Moderator:** Wenn Wissenslücken nicht geschlossen werden, werden sie mit der Zeit immer größer, so dass das Kind nicht weiterkommen kann, auch wenn es sich sehr bemüht.
+Hatten Sie Angst davor, Frau Binder?
+**Binder:** Das schon, aber das war nicht das einzige Problem.
+Schlechte Leistungen in der Schule haben natürlich schlechte Noten zur Folge.
+Das Kind wird mit der Zeit unsicher und glaubt, dass es unfähig zum Lernen ist.
+Das ist das Schlimmste, was einem Kind passieren kann.
+Es zerstört sein Leben für immer.
+**Schöner:** So weit darf man es nicht kommen lassen.
+Wenn die Eltern mit den Lehrern zusammenarbeiten, erfahren sie rechtzeitig, in welchem Fach das Kind schwach ist.
+Dann muss etwas geschehen.
+Man muss dem Kind auch das Gefühl wiedergeben, dass es auch allein lernen kann.
+**Moderator:** Frau Binder, Sie sagten vorhin, dass Ihre Tochter in der Schule nicht mitkommt.
+Wissen Sie, woran das liegt?
+**Binder:** Ich glaube schon.
+Wir sind aus Frankfurt nach München gezogen und kurz danach war sie längere Zeit krank.
+So mussten die Lücken gefüllt werden und ich habe die Unterstützung eines Lehrers gebraucht.
+Allein hätte ich es nicht geschafft.
+**Schöner:** Ja, jetzt sehe ich ein, warum Sie Nachhilfe für Ihre Tochter genommen haben, Frau Binder.
+In solchen Fällen muss man gemeinsam mit der Schule überlegen, ob Nachhilfeunterricht sinnvoll ist oder ob das Kind besser das Schuljahr wiederholt.
+**Binder:** Gerade das wollte meine Tochter nicht.
+Die Nachhilfe wird das ganze Schuljahr stattfinden.
+Ich will damit erreichen, dass meine Tochter nicht nur in die nächste Klasse kommt, sondern auch das Wissen hat, damit im nächsten Schuljahr nicht wieder Probleme entstehen.
+**Moderator:** Frau Binder, oft hört man Eltern sagen, dass ihr Kind keine Lust zum Lernen hat.
+Kann man etwas dagegen tun?
+**Binder:** Das höre ich auch, aber ich weiß nicht, wie es dazu kommen kann.
+Bevor die Kinder in die Schule gehen, wollen sie lernen, ihre Welt begreifen.
+Das macht ihnen Spaß.
+Viele Kinder verlieren dann aber aus verschiedenen Gründen diese Lust zu lernen.
+Aufgabe der Eltern und der Lehrer ist in diesem Fall, die Freude am Lernen wieder zu wecken.
+**Schöner:** Zuerst muss man gemeinsam mit den Eltern und dem Kind durch Gespräche und Tests herausfinden, wie groß das Problem ist.
+Dann kann man dem Kind mit der passenden Nachhilfe helfen.
+**Moderator:** Sind Eltern geeignete Nachhilfelehrer?
+**Schöner:** Die Nachhilfe durch die Eltern ist in der Regel die schlechteste Lösung, aber keine Regel ohne Ausnahmen.
+Bevor sie die Rolle des Nachhilfelehrers übernehmen, sollten sie sich genau überlegen, ob sie selbst in der Lage sind, den Stoff zu verstehen und ob sie auch genug Geduld für den Unterricht haben.
+**Moderator:** Die Eltern haben oft vieles ganz anders gelernt als die Kinder heute.
+Ist das nicht ein Problem?
+**Binder:** Ja, das stimmt, denn unsere Erklärungen können die Kinder durcheinander bringen.
+Außerdem machen uns die Lernschwierigkeiten der Kinder sehr nervös, weil wir erwarten, dass sie gute Leistungen nach Hause bringen.
+**Moderator:** In den letzten Jahren gibt es auf dem Markt viele Lernprogramme, die vom Computer unterstützt werden.
+Was halten Sie davon?
+**Schöner:** Der Markt ist groß, die Qualität der Angebote ganz unterschiedlich.
+Kein Computer kann den Lehrer ersetzen.
+Es ist besser, wenn man bei der Schule nachfragt, ob man dort Erfahrungen mit bestimmen Programmen hat.
+Natürlich hat der Computer als “Nachhilfelehrer” einen großen Vorteil.
+Er hat unendliche Geduld und keine schlechte Laune!
+**Moderator:** Nachhilfe kann aber die Kinder auch faul machen.
+Manche Kinder verlassen sich einfach auf die Nachhilfe, sie passen in der Schule nicht richtig auf, stellen dem Lehrer oder der Lehrerin keine Fragen, sie nehmen am Unterricht ganz einfach nicht teil.
+**Schöner:** Das ist der wichtigste Grund, warum ich gegen Nachhilfe bin.
+**Binder:** Es hängt immer von der jeweiligen Situation ab und jeder Fall ist anders.
+**Moderator:** Frau Binder, Herr Schöner, vielen Dank für Ihren Besuch im Studio.
+Liebe Zuhörerinnen und Zuhörer, schalten Sie Ihr Radio auch nächste Woche wieder zu unserer Sendung “Treffpunkt” ein!`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-10',
@@ -8324,7 +9038,256 @@ Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-10-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de10_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo, Herr Siebert, hier ist Lutz Werncke von der Autowerkstatt.
+Wir wollten Ihnen nur sagen, dass Ihr Wagen früher fertig geworden ist, als wir dachten.
+Wenn Sie wollen, können Sie ihn schon morgen Vormittag bei uns abholen.
+Bei der Reparatur haben wir übrigens festgestellt, dass auch die Scheinwerfer nicht in Ordnung waren.
+Wir haben sie neu eingestellt.
+Dadurch wird die Reparatur etwas teurer.
+Alles zusammen sind es jetzt 520 Euro plus Mehrwertsteuer.
+Auf Wiederhören!`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de10_teil1_1.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Jens, hier ist Markus.
+Ich freu mich schon riesig.
+Ist doch klar, dass ich dich am Donnerstag vom Bahnhof abhole.
+Und dann fahren wir gleich zu Uschi, die hat uns nämlich zum Essen eingeladen.
+Ist dir doch recht, oder?
+Die Zugfahrt dauert ja nur drei Stunden, da bist du sicher nicht müde.
+Ich hab mir auch schon überlegt, was wir sonst noch alles unternehmen.
+Und rat mal, was wir am Samstag machen!
+Ich hab Karten für Bayer Leverkusen gegen Schalke!!
+Bis dann!`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de10_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Lieber Herr Kerper, hier ist Rammstein.
+Es tut mir sehr Leid, dass ich Sie Freitagabend zu Hause stören muss, aber es ist wirklich wichtig.
+Frau Kleinschmidt hat sich beim Tennisspielen das Bein gebrochen und kann am Montag nicht mit auf die Ausstellung fahren.
+Jetzt müssen Sie einspringen.
+Frau Kleinschmidt hat ihre Präsentation fix und fertig auf ihrem PC.
+Bitte gehen Sie doch morgen im Büro vorbei und holen Sie sich die Sachen, damit Sie sich vorbereiten können.
+Vielen Dank und bis Montag früh!`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de10_teil1_3.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Ein 16-Jähriger ist an der Hohenwischer Straße von einem Traktor überfahren und schwer verletzt worden.
+Der Unfall passierte am Sonntagnachmittag.
+Der Jugendliche hatte mit auf dem Traktor gesessen, den ein Gleichaltriger fuhr.
+Aus ungeklärter Ursache rutschte der Jugendliche ab und fiel herunter.
+Dann überfuhr ihn das schwere Fahrzeug.
+Der 16-Jährige erlitt schwerste Verletzungen an Oberkörper, Kopf und im Bereich des Beckens.
+Er wurde von einem Notarzt vor Ort behandelt und anschließend mit dem Rettungshubschrauber ins Krankenhaus geflogen.`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de10_teil1_4.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Jutta, hier ist Kathi.
+Du hattest mich doch gebeten, mal im Internet nach einem Schwimmkurs für deinen Kleinen zu gucken.
+Leider hab ich nicht viel gefunden.
+Aber im Frankenbad gibt es was: einen Anfänger-Kurs für Kinder ab dreieinhalb Jahren.
+Der findet immer donnerstags von 17 bis 18 Uhr statt.
+Vielleicht wär aber auch ein Ferienkurs nicht schlecht.
+Es gibt jetzt in den Osterferien einen, das sind 6 mal 45 Minuten, kostet 109 Euro.
+Ich würd mal im Frankenbad anrufen.
+Tschüss!`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de10_teil1_5.mp3',
+        text: `Sie hören eine Durchsage im Flugzeug.
+Meine Damen und Herren, hier noch einige Hinweise zum Gebrauch elektronischer Geräte.
+Falls Sie an Bord ein elektronisches Gerät benutzen, so schalten Sie dies jetzt bitte aus.
+Nach Erreichen der Reiseflughöhe und Erlöschen der Anschnallzeichen können Sie es gern wieder in Betrieb nehmen.
+Der Gebrauch von Mobiltelefonen ist aus Sicherheitsgründen zu keiner Zeit an Bord gestattet.
+Diese Geräte müssen vollständig abgeschaltet werden und dürfen erst wieder in Betrieb genommen werden, wenn Sie das Flugzeug am Zielort verlassen haben.`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de10_teil2.mp3',
+        text: `Sie sind auf dem Tag der offenen Tür einer Schule.
+Sehr geehrte Eltern, liebe Schülerinnen und Schüler, liebe Kolleginnen und Kollegen, ich darf Sie und euch ganz herzlich zu unserem Tag der offenen Tür begrüßen.
+Zunächst ein paar Worte zu unserer Schule.
+Die Pestalozzi-Schule ist mit rund 1850 Schülerinnen und Schülern zu Beginn des Schuljahres die größte in unserer Stadt und auch eine der ältesten:
+2008 haben wir unser 175-jähriges Bestehen gefeiert.
+Wir sind keine Lernfabrik, aber eine moderne Schule.
+Bei uns gibt es Räume für Biologie, Chemie, Physik und Erdkunde, die nach dem neuesten Stand der Technik eingerichtet sind, und weitere Fachräume wie drei Computerräume mit je 33 Schülerarbeitsplätzen.
+In allen Klassenzimmern können die Schüler das Internet nutzen.
+In sechs Klassenzimmern arbeiten wir mit der elektronischen Tafel der Zukunft, dem Whiteboard.
+Besonderen Wert legen wir auf die Betreuung Ihrer Kinder.
+Wir haben eine Mensa, wo die Schüler in den Pausen und mittags etwas essen können, und einen Raum für die Nachmittagsbetreuung.
+Damit haben wir rechtzeitig darauf reagiert, dass in Zukunft nachmittags mehr Schüler in der Schule sein werden.
+Wir haben schon vor neun Jahren das Angebot eines warmen Mittagessens für derzeit 3,30 € eingeführt; Sie können sich darüber auf unserer Internetseite informieren.
+Die Nachmittagsbetreuung, besonders für Schüler der Unterstufe, findet montags bis freitags von 13.15 - 16.15 Uhr statt.
+Dieses Programm, an dem im Moment etwa 60 Schüler der 5. bis 7. Klasse teilnehmen, wollen wir beibehalten.
+Das Angebot ist kostenlos, eine Beteiligung am Mittagessen ist erwünscht.
+Wir weisen aber bereits jetzt ausdrücklich darauf hin, dass unsere Nachmittagsbetreuung nicht als Abstellraum für Ihre Kinder gebraucht werden sollte und sie auch keine kostenlose Nachhilfeeinrichtung ist.
+Schule ist Unterricht und mehr:
+Dieses Mehr sind bei uns zum Beispiel Ausflüge, Auslandsfahrten, die Austauschprogramme mit Schulen in Ungarn, Frankreich, Schottland, Italien, mit der High School Nr. 7 in Hangzhou, China, sowie neuerdings ein Feriensprachkurs in England, der Schulkarneval, vielfältige Klassenfahrten in Unter- und Mittelstufe, Studientage und Kursfahrten in der Oberstufe und vieles mehr.
+Zusammengefasst darf ich sagen:
+Wir kümmern uns um das Beste, was Sie haben: Ihr Kind.
+Bei uns ist es gut aufgehoben.
+Wir würden uns freuen, wenn Sie uns Ihr Vertrauen schenken.
+Wir weisen aber auch darauf hin, dass Erziehung nur gelingen kann, wenn das Elternhaus mit der Schule intensiv zusammenarbeitet.
+Die Erziehung beginnt nun mal im Elternhaus, die Schule kann es nicht ersetzen.
+Wir fördern Ihr Kind nach besten Kräften, wir fordern aber auch seine und Ihre intensive Mitarbeit.`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de10_teil3.mp3',
+        text: `Sie sitzen im Bus und hören, wie sich ein Mann mit einem Jugendlichen über dessen Berufswahl unterhält.
+**Rainer:** Also, Olliver, du siehst ziemlich skeptisch aus.
+Was beschäftigt dich denn?
+**Olliver:** Weißt du, Onkel Rainer, ich muss mich entscheiden, was ich werden will, ob ich studiere oder einen Beruf lernen soll.
+**Rainer:** Was sagen denn deine Eltern dazu?
+**Olliver:** Ach, du weißt ja, wie die denken.
+Mein Vater ist Arzt, also muss sein Sohn auch unbedingt Arzt werden.
+Es interessiert ihn nicht, was ich will, ob ich überhaupt die Neigung oder Fähigkeit dazu habe.
+**Rainer:** Deine Eltern wollen dein Bestes.
+Du sollst etwas studieren, was in der Gesellschaft sehr angesehen ist und dir das Leben leicht macht.
+**Olliver:** Ich sag ja nicht, dass meine Eltern meine Zukunft nicht beschäftigt.
+Aber Medizin interessiert mich halt nicht.
+Mir macht alles Spaß, was mit Computern zu tun hat.
+Ich will nicht studieren, sondern eine Fachausbildung machen.
+Ich will lernen, wie man Computer repariert und Programme installiert.
+**Rainer:** Wäre es da nicht vielleicht besser, Z.B. Informatik oder Elektrotechnik zu studieren?
+**Olliver:** Ich versteh schon, was du meinst.
+Ich soll studieren, damit ich bessere Karrierechancen habe.
+Aber weißt du, ich bin ein Lernmuffel.
+Ich hab da meine Schwierigkeiten, mich hinzusetzen und Zahlen oder so zu lernen, oder theoretische Prüfungen abzulegen.
+Das hat nichts mit Faulheit zu tun.
+Ich bin halt handwerklich begabt.
+Das ist alles.
+**Rainer:** Hm!
+Bist du ganz sicher, dass du nicht lernen kannst?
+**Olliver:** Siehst du?
+Du glaubst mir auch nicht.
+Ich weiß ganz genau, was ich kann und was nicht.
+**Rainer:** Na ja, die Eltern sollten schon auf die Wünsche der Kinder Rücksicht nehmen.
+Du hast ja wahrscheinlich lange über das Ganze nachgedacht und weißt bestimmt, was am besten für dich ist.
+**Olliver:** Ich will eine Arbeit machen, die mir Spaß macht, mit der ich zufrieden bin.
+Dann bin ich auch glücklich.
+**Rainer:** Ok, du hast mich überzeugt.
+Aber einen kleinen Tipp möchte ich dir doch geben: Wäre es nicht ratsam, mal zu einem Berufsberater zu gehen?
+Er kann dich über die verschiedenen Ausbildungswege aufklären und dir helfen, den richtigen Entschluss zu treffen.
+**Olliver:** Das ist eine gute Idee.
+In der Orientierungsstufe in der Schule hat der Lehrer mir gesagt, dass ich für eine Ausbildung in Computertechnologie geeignet wäre.
+Das wollen meine Eltern nicht glauben.
+Ich werde sie bitten, mich zur Berufsberatung zu begleiten.
+**Rainer:** Es ist wichtig, dass du in Ruhe mit deinen Eltern redest.
+**Olliver:** Ja, sicher.
+Aber du könntest doch auch mal mit meinem Vater sprechen, ja?
+Ich wär dir wirklich sehr dankbar.
+Er soll endlich nicht nur an sich und sein Prestige denken, sondern an meine Bedürfnisse und mein Glück.
+Schließlich nützt es ihm auch nicht, wenn ich mich jahrelang mit einem Studium quäle und es vielleicht nie beenden werde.
+**Rainer:** Das mache ich gerne.
+Aber ich bestehe darauf, dass du auch noch mal mit ihm redest.`,
+      },
+      {
+        id: 'de-thi-b1-module-10-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de10_teil4.mp3',
+        text: `Die Moderatorin der Radiosendung “Treffpunkt” diskutiert mit Gitta Esinger und Stephan Braun, zwei Mitgliedern des Vereins “Freundschaft zwischen Ausländern und Deutschen”.
+**Moderatorin:** Liebe Zuhörerinnen, liebe Zuhörer!
+Ich heiße Sie zu unserer Sendung “Treffpunkt” willkommen.
+Unser heutiges Thema ist “Freundschaft zwischen Ausländern und Deutschen”.
+Dazu haben wir Frau Gitta Esinger und Herrn Stephan Braun, Mitglieder des Vereins “Freundschaft zwischen Ausländern und Deutschen” eingeladen.
+Frau Esinger, wie schaffen es Ausländer, deutsche Freunde zu finden?
+**Esinger:** In Kontakt kommt ein Ausländer z. B. in der Schule, im Beruf, im Sportverein, in der Disco, auf Veranstaltungen, eben genau da, wo Leute sich kennen lernen.
+Das gilt nicht speziell für die Ausländer, sondern das ist genau der gleiche Weg, wie sich Deutsche untereinander auch kennen lernen.
+**Moderatorin:** Eins ist aber wichtig!
+Man muss erst Deutsch können, bevor man eine Freundschaft mit einem Deutschen suchen kann.
+Die Sprache ist immer ein großes Problem in einem fremden Land.
+Ich frage mich, wie eine ernsthafte Freundschaft möglich ist, wenn man sich nicht verständigen kann.
+**Esinger:** Mit Englisch, mit Zeichensprache, man findet schon Alternativen!
+Das funktioniert auch gut, wenn man will.
+Außerdem hat ein Ausländer durch den engeren Kontakt zu einem Deutschen die Möglichkeit, die deutsche Sprache zu lernen.
+**Moderatorin:** Ich war mal in Brasilien und konnte kein Portugiesisch.
+Viele haben mich trotzdem herzlich aufgenommen, mich eingeladen und sind mit mir ausgegangen.
+Ist das in Deutschland auch so, Frau Esinger?
+**Esinger:** So was kommt nicht so oft vor.
+Die Deutschen sind da nicht so offen wie in Südeuropa, Südamerika oder anderen Ländern.
+Sie wollen jemand erst kennen lernen und dann mit ihm Freundschaft schließen.
+**Braun:** Ja, da haben Sie schon Recht.
+Aber es gibt auch andere Hindernisse.
+Viele Ausländer teilen nicht dieselben Interessen wie Deutsche.
+Ich bin auch nicht sicher, ob viele Ausländer Kontakt zu den Deutschen überhaupt wollen.
+Wir sollten aber zwischen Kindern und Erwachsenen unterscheiden.
+Die Kinder schließen leichter eine Freundschaft in der Schule, während es bei den Erwachsenen ganz anders aussieht.
+**Moderatorin:** Ich sehe oft, dass Ausländer leichter mit anderen Ausländern Kontakt aufnehmen, sich unterhalten, tanzen, miteinander etwas trinken gehen etc., obwohl auch Deutsche in ihrer Nähe sind.
+Haben Sie, Herr Braun, eine Erklärung dafür?
+**Braun:** Das finde ich ganz normal.
+Meistens geht man mit Freunden in die Disco oder in eine Bar und bleibt unter sich.
+Neue Freundschaften habe ich noch nie in einer Bar oder in einer Disco geschlossen.
+Das ist jedenfalls meine Erfahrung.
+**Moderatorin:** Sie arbeiten in einem Verein, der die Freundschaft zwischen Ausländern und Deutschen fördert.
+Könnten Sie uns sagen, was genau Ihre Aufgabe ist?
+**Esinger:** Wir bringen Leute aus verschiedenen Ländern und Kulturen zusammen.
+Bei unseren Veranstaltungen und Arbeitsgruppen spielen die Unterschiede der Herkunft und Nationalität keine Rolle.
+**Braun:** Vor allem bemühen wir uns darum, Vorurteile abzubauen.
+Unsere Zielgruppen sind nicht nur Kinder, sondern auch Erwachsene, die mehr Probleme als die Kinder mit der Sprache und der Kontaktaufnahme haben.
+**Moderatorin:** Wenn ich nach England ziehen wollte, würde ich dafür sorgen, erst mal ordentlich Englisch zu lernen.
+Nach Deutschland kommen aber die meisten Ausländer, ohne Deutsch zu können.
+Sie wollen gleich eine Arbeit bekommen.
+Einige wollen nicht einmal Deutsch sprechen.
+Und obwohl ihre Kinder oft hier geboren sind, werden sie in ihrer Muttersprache erzogen.
+Welche Erfahrungen haben Sie in diesem Punkt?
+**Braun:** Was Sie sagen, ist allgemein bekannt.
+Wir müssen aber unterscheiden zwischen den Ausländern, die arbeiten und denen, die hier studieren wollen.
+Größer sind die Probleme sicher bei den Ausländern, die keine Bildung und Ausbildung aus ihrer Heimat mitbringen und hierher zum Arbeiten und Leben kommen.
+Unsere Arbeit ist also hier, vor allem den Leuten beizubringen, dass sie nicht nur die Sprache lernen sollen, sondern auch erfahren müssen, wie die Deutschen leben und denken.
+**Esinger:** Und dazu müssen die Deutschen aber auch bereit sein!
+Das muss man ja auch dazu sagen.
+Sie müssen offen sein, sich mit den Ausländern zu unterhalten und ihnen dabei helfen, die Sprache zu lernen.
+Außerdem sollten die Deutschen auch zu unseren Veranstaltungen kommen, in denen sie Ausländer kennen lernen können, sich mit ihnen austauschen und etwas über ihre Heimat erfahren, über ihre Kultur und Lebensweise.
+Nur so entwickelt sich auch ein besseres Verständnis.
+**Moderatorin:** Genau auf diesen Punkt möchte ich zu sprechen kommen!
+Zwischen Ausländern und Deutschen bestehen viele Vorurteile, Ängste und Missverständnisse.
+Wie wollen Sie das konkret ändern, Frau Esinger?
+**Esinger:** Indem wir über Gemeinsamkeiten und Unterschiede im Glauben und in der Kultur sowie über soziale Aspekte und Probleme informieren.
+Man muss auch sagen, dass natürlich nicht alle Ausländer Probleme mit den Deutschen haben.
+Hier sprechen wir von Leuten, die aus irgendeinem Grund keinen Kontakt zu Deutschen haben.
+**Moderatorin:** Ihr Verein hat sicher genug Mitglieder, die diese Arbeit unterstützen.
+Kann jeder in Ihren Verein eintreten?
+**Braun:** Jeder, der sich dafür interessiert, dass unsere ausländischen Mitglieder nicht isoliert leben.
+Bei uns arbeiten ehrenamtlich über 100 Lehrer, Ärzte und Sozialarbeiter und leisten eine gute Arbeit.
+Unser Schlagwort ist: “miteinander leben - voneinander lernen”.
+**Moderatorin:** Ihre Arbeit kostet viel Geld.
+Woher kommen Ihre Mittel?
+**Braun:** Finanzielle Unterstützung bekommen wir von der Stadt und der Kirche.
+Wir bekommen Spenden und unsere Mitglieder zahlen monatlich einen kleinen Beitrag.
+Wir veranstalten auch Feste und sammeln auch auf diese Weise einiges Geld.
+**Moderatorin:** Frau Esinger, Herr Braun, ich bedanke mich für Ihre Zeit und die interessanten Informationen über Ihren Verein und seine Arbeit.
+Liebe Zuhörerinnen und Zuhörer, auf Wiedersehen bis zur nächsten Diskussion bei unserem “Treffpunkt”.`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-11',
@@ -8332,7 +9295,117 @@ Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-11-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de11_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag, mein Name ist Hans-Georg Lauterbach.
+Ich habe Ihre Anzeige im Mitteilungsblatt gelesen.
+Ich glaube, ich habe genau das, was Sie suchen: ein 180-Liter Aquarium von Juwel.
+Es ist in sehr gutem Zustand.
+Die Maße sind: Breite 40 cm, Länge 100 cm, Höhe 124 cm mit Schrank.
+Zurzeit sind ungefähr 35-40 verschiedene Fische drin.
+Beleuchtung, Ersatz-Filter, Futter, verschiedenes Zubehör und Material für Wasserwechsel verkaufe ich alles mit.
+Der Preis wäre 140 Euro.
+Meine Telefonnummer ist 02682/4759, bin ab 17 Uhr zu Hause.`,
+      },
+      {
+        id: 'de-thi-b1-module-11-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de11_teil1_1.mp3',
+        text: `Sie hören den Wetterbericht im Radio.
+Das Wetter am Mittwoch:
+Im Westen und Süden ist es nur zeitweise sonnig, die Bewölkung nimmt allgemein zu und besonders am Nachmittag und Abend sind leichter Regen und lokale Gewitter zu erwarten.
+Auch im Norden und Osten ist es zeitweise stärker bewölkt, es scheint aber etwas öfter die Sonne und es kommt auch nur stellenweise zu Regen und Gewittern.
+Der Wind weht schwach bis mäßig aus Nordwest bis Ost.
+Tageshöchsttemperaturen 20 bis 28 Grad, am wärmsten ist es wieder im nördlichen Weinviertel.`,
+      },
+      {
+        id: 'de-thi-b1-module-11-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de11_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo Maike, hier ist Sieglinde.
+Ich hatte gestern einen kleinen Unfall, nichts Schlimmes, aber der Wagen ist in der Werkstatt.
+Und jetzt kann ich natürlich morgen die Kinder nicht in den Kindergarten bringen und wieder abholen.
+Ich war eben kurz bei Elisabeth und sie hat versprochen, dass sie das morgen übernimmt.
+Paul und Nesrin wissen auch schon Bescheid.
+Ach ja, noch was: Falls der Wagen länger in der Werkstatt bleiben muss, könntest du dann in den nächsten Tagen an meiner Stelle fahren?
+Ciao!`,
+      },
+      {
+        id: 'de-thi-b1-module-11-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de11_teil1_3.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Ein 40 Jahre alter Mann ist durch Kontoeröffnungsbetrug in den vergangenen Jahren zu Waren und Dienstleistungen im Wert von rund 250.000 Euro gekommen.
+Alexander O. hatte dafür vor allem Bulgaren ausgenutzt, die er dazu überredete, Konten bei verschiedenen Banken zu eröffnen.
+Zunächst zahlte der Betrüger bei den Banken kleinere Beträge ein.
+Dann räumte er die Konten und Dispos leer und setzte EC-Karten ein, um Waren zu bestellen oder Verträge für Handys abzuschließen.
+Jetzt konnte er verhaftet werden.`,
+      },
+      {
+        id: 'de-thi-b1-module-11-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de11_teil1_4.mp3',
+        text: `Sie hören eine Durchsage auf dem Bahnhof.
+Sehr geehrte Fahrgäste, zur Vorbereitung des zweigleisigen Betriebes auf dem Streckenabschnitt Roßlau - Abzweig Neeken und der Errichtung des Personentunnels in Bahnhof Zerbst muss der Streckenabschnitt Dessau Hbf - Güterglück voraussichtlich bis Ende nächsten Jahres gesperrt werden.
+Auf der Strecke verkehren ersatzweise Busse.
+Detaillierte Angaben zu den veränderten Fahrtmöglichkeiten finden Sie auf den Bahnhöfen.
+Die geänderten Fahrzeiten sind ab dem 16. Oktober in der Onlinefahrplanauskunft verfügbar.
+Weitere Informationen erhalten Sie bei der Service-Nummer der Bahn in Ihrer Region unter 0180 5 99 66 33.`,
+      },
+      {
+        id: 'de-thi-b1-module-11-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de11_teil1_5.mp3',
+        text: `Sie hören eine Durchsage im Zoo.
+Liebe Gäste, herzlich willkommen in unserem Zoo.
+Seit einem Monat können Sie viele exotische Fische und andere Meereslebewesen in unserem neu eröffneten Aquarium besichtigen.
+Unsere Besucher können dort auch gern fotografieren, aber wir bitten darum, auf den Gebrauch des Blitzlichts zu verzichten, um die Tiere nicht zu stören.
+Besuchen Sie auch unser Delfinarium.
+Die nächste Vorführung beginnt in zwanzig Minuten um 14.30 Uhr.
+Wer noch keine Eintrittskarte für die Show hat, kann sie auch am Eingang des Delfinariums noch kaufen.
+Wir wünschen Ihnen viel Spaß!`,
+      },
+      {
+        id: 'de-thi-b1-module-11-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de11_teil2.mp3',
+        text: `Sie nehmen an einem Informationsabend des Vereins “Kindernote e.V.” teil.
+Meine Damen und Herren, ich möchte Ihnen meinen herzlichen Dank aussprechen, dass Sie so nett waren und sich die Zeit genommen haben, uns hier in unserem Verein zu besuchen und sich über unsere Arbeit und die Ziele des Vereins zu informieren.
+Kindernöte wird es immer geben, aber wir können die Kinder unterstützen, als Vorbilder und Partner an ihrer Seite stehen, so dass sie stark werden und mit ihren Problemen und Krisen fertig werden können.
+Und genau das macht unser Verein “Kindernote e.V.”.
+Er wurde 1996 in Chorweiler gegründet.
+Chorweiler ist der kinderreichste Stadtteil Kölns, ein schwieriger, aber bunter und liebenswerter Stadtteil, in dem wir für Kinder und mit Kindern in unterschiedlichen Projekten arbeiten.
+Gründungsmitglieder sind Privat-und Geschäftsleute, Pfarrer, Lehrer, Kinderärzte, Psychologen, Rechtsanwälte, Sozialarbeiter und Erzieher.
+Die meisten Mitglieder leben oder arbeiten hier in Chorweiler und haben Erfahrungen mit den Problemen der Kinder.
+Den Kindern helfen wir besonders in Gruppenarbeit.
+Wir schützen sie vor Gefahren und beraten ihre Familien.
+Insbesondere wollen wir die bisherigen Jugendhilfe-Angebote erweitern und weiterentwickeln.
+Unser Verein wird durch Mitgliedsbeiträge, Spenden von Privatpersonen und Unternehmen sowie durch finanzielle Hilfe der Stadt Köln gefördert.
+Damals hat die räumliche und soziale Situation in Chorweiler zur Gründung des Vereins Kindernote e.V. geführt.
+Doch auch das Zusammentreffen vieler aktiver und interessierter Menschen im Stadtteil hat eine große Rolle gespielt.
+Hochhäuser bestimmen das Bild im Zentrum.
+Menschen aus 100 Nationen und Kulturen leben hier auf engstem Raum zusammen.
+Chorweiler ist wie gesagt der kinderreichste Stadtteil Kölns, aber auch ein Stadtteil mit einer hohen Arbeitslosigkeit, was natürlich große Armut zur Folge hat.
+Aber bei uns leben auch viele Menschen, die dafür arbeiten, dass das Bild des Stadtviertels geändert wird.
+Parks werden angelegt, Straßenführungen geändert und viele andere Maßnahmen eingeleitet, damit das Stadtviertel menschenfreundlich und vor allem kinderfreundlich wird.
+Unser Hauptziel ist, dass sich die Kinder gut fühlen, dass sie genug Plätze haben, wo sie sich treffen, sich kennen lernen und spielen können.
+Ich glaube, dass wir seit der Gründung unseres Vereins schon vieles zur Verbesserung der Situation in Chorweiler erreicht haben.
+Aber wir wollen uns nicht auf unseren Erfolgen ausruhen, sondern unsere Aktivitäten - wenn möglich - in Zukunft weiter verstärken.
+Aus diesem Grund brauchen wir noch Leute - Mitglieder oder nicht -, die über Fachkenntnisse in der Familienberatung verfügen und uns bei unserer Arbeit in den verschiedenen Projekten helfen.
+Das Interesse, das Sie durch Ihren Besuch an unserem Verein gezeigt haben, lässt mich hoffen, dass vielleicht der eine oder andere von Ihnen dazu bereit sein wird.`,
+      },
+    ],
   },
   {
     id: 'de-thi-b1-module-12',
@@ -8340,7 +9413,250 @@ Vielen Dank für Ihre Zeit und für die interessanten Informationen!`,
     level: 'Đề thi',
     category: 'Đề thi B1',
     subCategory: 'Đề B1 Module',
-    lessons: [],
+    lessons: [
+      {
+        id: 'de-thi-b1-module-12-teil1-beispiel',
+        title: 'Hören – Teil 1',
+        subTitle: 'Beispiel',
+        audioSrc: '/b1_de12_teil1_beispiel.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Sie sind mit der Notdienstapothekensuche für Aachen verbunden.
+Heute, den 10. Oktober, sind im Stadtgebiet von Aachen und im Umkreis von 10 Kilometern folgende Apotheken geöffnet:
+Karolinger-Apotheke: Karlsgraben 15, 52064 Aachen, Tel.: 0241/40 26 26.
+Notdienst vom 10.10. um 08:30 Uhr bis 11.10. um 08:30 Uhr.
+Fortuna-Apotheke: Trierer Str. 44, 52078 Aachen, Tel.: 0241/57 27 48.
+Notdienst vom 10.10. um 08:30 Uhr bis 11.10. um 08:30 Uhr.
+St. Josef-Apotheke: Josefstr. 21, 52134 Herzogenrath, Tel.: 02406/1 25 00.
+Notdienst vom 10.10. um 08:30 Uhr bis 11.10. um 08:30 Uhr.`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil1-1',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 1',
+        audioSrc: '/b1_de12_teil1_1.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Guten Tag, Frau Wermuth, hier ist Anke Straubing von der Allianz.
+Ich rufe Sie an wegen den Angaben, die Sie für Ihre neue Krankenversicherung gemacht haben.
+Wir haben alles überprüft und festgestellt, dass wir noch einige Informationen von Ihnen brauchen.
+Das ist eine reine Routineangelegenheit, aber es muss sein, weil Sie doch Diabetikerin sind, und da brauchen wir eine besonders ausführliche Krankengeschichte.
+Wir müssten also noch einen Termin mit Ihnen machen.
+Bitte rufen Sie uns an, wann es Ihnen am besten passt.
+Vielen Dank!`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil1-2',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 2',
+        audioSrc: '/b1_de12_teil1_2.mp3',
+        text: `Sie hören eine Nachricht vom Anrufbeantworter.
+Hallo, Dr. Schneider, hier ist noch mal Frank Korte vom Maklerbüro.
+Ich habe mit dem Besitzer des Hauses in Marienburg gesprochen:
+Wir könnten am Donnerstag um 18 Uhr zu einer Besichtigung dorthin fahren.
+Der Besitzer ist zwar im Moment nicht da, aber der Gärtner hat einen Schlüssel und würde uns reinlassen.
+Und außerdem habe ich da noch etwas, was Sie interessieren könnte: eine sehr schöne Villa mit riesigem Grundstück in Rodenkirchen, Top-Lage und supergünstiger Preis.
+Bitte rufen Sie mich doch zurück!`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil1-3',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 3',
+        audioSrc: '/b1_de12_teil1_3.mp3',
+        text: `Sie hören eine Durchsage im Radio.
+Die Stadtverwaltung bittet die Bürgerinnen und Bürger erneut darum, die Mülltonnen nicht zu überfüllen, sondern mit geschlossenem Deckel zur Abfuhr bereit zu stellen.
+Auch neutrale Müllsäcke neben den Eimern können nicht mitgenommen werden.
+Grundsätzlich müssen Müllbehälter mit verschlossenem Deckel bereitgestellt werden.
+Dies gilt schon aus hygienischen Gründen und weil sonst die Gefahr besteht, dass Teile des Abfalls bei der Leerung auf die Straße fallen.
+Die Abfuhrfirmen sind nicht verpflichtet, überfüllte Tonnen zu leeren oder Teile des Mülls zu entnehmen, um die Leerung durchzuführen.`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil1-4',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 4',
+        audioSrc: '/b1_de12_teil1_4.mp3',
+        text: `Sie hören eine Durchsage im Flugzeug.
+Wir bitten jetzt noch einen Augenblick um Aufmerksamkeit für einige Sicherheitshinweise.
+Wir demonstrieren Ihnen zunächst, wie Sie Ihren Sitzgurt schließen und öffnen können.
+Bei einem Druckabfall in der Kabine öffnet sich eine Deckenklappe über Ihnen und Sauerstoffmasken fallen herunter.
+In diesem Fall ziehen Sie eine Maske schnell zu sich heran und platzieren diese fest auf Mund und Nase.
+Danach helfen Sie Kindern und hilfsbedürftigen Personen.
+In der Sitztasche Ihres Vordersitzes finden Sie ein Informationsblatt mit allen Sicherheitshinweisen.
+Bitte beachten Sie besonders die Lage der Notausgänge, welche deutlich mit dem Wort “Exit” gekennzeichnet sind.`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil1-5',
+        title: 'Hören – Teil 1',
+        subTitle: 'Text 5',
+        audioSrc: '/b1_de12_teil1_5.mp3',
+        text: `Sie hören eine Nachricht im Radio.
+Nächste Woche steht der mittlerweile 12. Nachtbummel auf dem Programm.
+Zahlreiche Bad Mergentheimer Geschäfte öffnen wieder bis Mitternacht ihre Pforten und haben sich zudem ein buntes Rahmenprogramm mit vielen Aktionen überlegt.
+Am Freitag, 7. September werden die Besucher des “NightShoppings” wieder mit viel Musik in den Straßen unterhalten.
+Unter dem Motto “Bad Mergentheim klingt gut” hat der Arbeitskreis “Innenstadtbelebung” es schon zum vierten Mal geschafft, junge wie erfahrene Künstler, Solisten, Chöre, Bands und andere Gruppen zu aktivieren, um sich beim Nachtbummel zu präsentieren und für gute Stimmung zu sorgen.`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil2',
+        title: 'Hören – Teil 2',
+        audioSrc: '/b1_de12_teil2.mp3',
+        text: `Sie sind bei einer Veranstaltung des Vereins “Ärzte ohne Grenzen”.
+Ich freue mich, Sie heute bei unserer Veranstaltung begrüßen zu dürfen und Ihnen unseren Verein und unsere Arbeit vorzustellen.
+Ärzte ohne Grenzen ist die größte internationale Organisation für medizinische Nothilfe.
+Sie wurde 1971 in Frankreich von zwölf Ärzten und Journalisten gegründet und ist weltweit tätig.
+Es ist eine private, unabhängige Organisation und leistet vor allem medizinische Hilfe in Krisen- und Kriegsgebieten, in denen das Gesundheitssystem zusammengebrochen ist, so dass die Menschen bei gesundheitlichen Problemen medizinisch nicht behandelt werden können.
+Dafür sind jedes Jahr etwa 2.200 internationale Mitarbeiter unterwegs.
+Zusammen mit über 26.000 einheimischen Mitarbeitern arbeiten sie in rund 70 Ländern - vor allem aber in Afrika, weil dort die Not am größten ist.
+Für die Organisation arbeiten übrigens nicht nur Ärztinnen und Ärzte, sondern auch Krankenschwestern und -pfleger, Hebammen, Finanzexperten und viele andere Fachleute.
+Unsere Leute bauen Behandlungszelte auf und sorgen dafür, dass es genügend Medikamente und Hilfsgüter gibt.
+Sie kümmern sich um sauberes Trinkwasser und um die Stromversorgung.
+Unsere Aktivitäten sind also vielfältig.
+Wir bauen zerstörte Krankenhäuser oder Gesundheitszentren wieder auf, wir richten in ländlichen Gebieten mobile Kliniken ein, wir organisieren und führen Impfungen durch, wir bieten psychologische Hilfe an und sorgen für Ernährung.
+Wenn in einer Konfliktsituation die Rechte der Zivilisten mit Füßen getreten werden und ihnen niemand hilft, setzen sich “Ärzte ohne Grenzen” ein.
+Wir bleiben neutral und machen keine Unterschiede zwischen den Menschen.
+Wenn aber unsere Mitarbeiter nachweisen können, dass Hunger als Waffe benutzt wird oder dass Bevölkerungsgruppen mit Gewalt gezwungen werden, ihr Haus oder ihre Heimat zu verlassen und oft getötet oder schwer verletzt werden, informieren wir die Welt darüber, weil wir hoffen, damit das Töten und das Leid der Menschen in diesen Krisengebieten zu stoppen.
+Öffentliche Kritik üben wir allerdings nur, wenn wir keine andere Wahl haben.
+Unsere Mitarbeiter versuchen zuerst über direkte Gespräche zwischen den verschiedenen Parteien zu vermitteln.
+Wenn sie keinen Erfolg haben, informieren sie die Medien darüber und das geschieht im Interesse der Opfer.
+Die Organisation Ärzte ohne Grenzen hat 1999 für ihre Arbeit den Friedensnobelpreis bekommen.
+Dies hat insbesondere dazu beigetragen, dass den Opfern von Not und Gewalt größere Aufmerksamkeit geschenkt werden konnte.
+Seit 1993 gibt es den deutschen Verein “Ärzte ohne Grenzen”.
+Der Sitz der Zentrale ist in Berlin, ein weiteres Büro befindet sich in Bonn.
+Unsere Mitarbeiterinnen und Mitarbeiter stellen Ärzte und Leute in der Verwaltung ein, die wir für unsere Projekte brauchen.
+Wir finanzieren, unterstützen und führen Hilfsprojekte in Zusammenarbeit mit allen Gruppen der “Ärzte ohne Grenzen” auf der ganzen Welt durch.`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil3',
+        title: 'Hören – Teil 3',
+        audioSrc: '/b1_de12_teil3.mp3',
+        text: `Sie sitzen in einem Café und hören, wie sich zwei Freundinnen über einen Umzug unterhalten.
+**Petra:** Hallo Rafaela!
+**Rafaela:** Hallo Petra, wie geht es dir?
+**Petra:** Gut, und dir?
+Sag mal, bist du jetzt mit dem Umzug fertig?
+**Rafaela:** Ja, endlich.
+Du weißt ja, wie anstrengend so ein Umzug sein kann.
+Man packt alles ein, baut die Möbel auseinander und bringt alles in die neue Wohnung.
+Aber das ist der leichte Teil, wenn man mal vom schweren Tragen absieht.
+Das Chaos kommt danach: alles auspacken und einräumen.
+Oh Gott, ich hasse es, denn man muss ja auch gleich einen Schritt voraus denken, wo alles hingehört, und zwar in einer Wohnung, in der man sich noch gar nicht auskennt.
+Das macht wirklich keinen Spaß!
+**Petra:** Ja, ich weiß genau, was du meinst!
+Aber jetzt hast du 's ja geschafft!
+**Rafaela:** Leicht gesagt, aber das stimmt gar nicht.
+Jetzt wo alles an seinem Platz ist, fängt das große Putzen an.
+Das dauert ein paar Tage.
+Dann merkt man auch, dass die neue Wohnung noch einige Sachen braucht, an die man vorher nicht gedacht hat.
+An der Wand fehlt eine Steckdose, in der Küche passt der alte Tisch nicht, also muss man einen neuen kaufen.
+Dann ist die neue Wohnung nicht so hell wie die alte, so dass noch eine Stehlampe fehlt.
+Und das Schlimmste: Die Gardinen sind zu klein, zu lang oder zu breit.
+Da entstehen Kosten, mit denen man nicht gerechnet hat.
+**Petra:** Ja, schon, aber du musst ja nicht alles auf einmal machen.
+Nur immer mit der Ruhe!
+Den größten und schwierigsten Teil hast du hinter dir.
+**Rafaela:** Ach du weißt doch, ich gehöre zu den Menschen, die zuerst alles fertig machen wollen.
+Erst dann setze ich mich gemütlich hin, genieße, was ich geschafft habe und vergesse alle Anstrengungen.
+**Petra:** Wie ist die Wohnlage eigentlich?
+**Rafaela:** Ganz toll!
+Die Wohnung liegt am Stadtrand und nicht weit weg vom Wald.
+Die Gegend ist sehr ruhig.
+Wir wohnen im dritten Stock eines vierstöckigen Hauses.
+Es steht mitten in einem Garten mit vielen Bäumen.
+Das Problem ist nur, dass es keine guten Einkaufsmöglichkeiten gibt.
+Zum Einkaufen und zur Unterhaltung muss man in die Stadt fahren.
+**Petra:** Ach, so schlimm ist das doch nicht.
+Mit der Zeit wirst du dich schon daran gewöhnen.
+**Rafaela:** Sicher, außerdem habe ich es gewusst, als ich die Wohnung gemietet habe.
+Wichtig für mich ist, dass die Kinder keinen weiten Weg zur Schule haben.
+Sie können allein hingehen.
+**Petra:** Jetzt hast du dir deinen Traum endlich erfüllt!
+Du hast immer von einer ruhigen Ecke geträumt.
+**Rafaela:** Ja, stimmt.
+Komm doch mal zu einem Kaffee auf dem Balkon vorbei.
+**Petra:** Sehr gern!
+Ruf mich einfach an, wenn du Zeit hast.
+**Rafaela:** Komm doch am Samstagnachmittag, das passt ganz gut.
+Deine Kinder kannst du auch mitbringen.
+Dann können sie mit unseren zusammen unten im Garten spielen und wir können uns in Ruhe unterhalten.
+**Petra:** Prima, so machen wir's!`,
+      },
+      {
+        id: 'de-thi-b1-module-12-teil4',
+        title: 'Hören – Teil 4',
+        audioSrc: '/b1_de12_teil4.mp3',
+        text: `Die Moderatorin der Radiosendung “Medien heute” diskutiert mit der Lehrerin Katrin Lange und dem Kriminalkommissar Sebastian Frank über das Thema “Mediennutzung und Computerspiele”.
+**Moderatorin:** Liebe Zuhörerinnen, liebe Zuhörer, ich begrüße Sie bei unserer Diskussion über die Mediennutzung und Computerspiele.
+Dazu haben wir Frau Katrin Lange, Professorin für Medienpädagogik und Herrn Sebastian Frank, Kommissar der Kriminalpolizei, eingeladen.
+Frau Lange, könnten Sie sich ein Leben ohne Computer und Internet vorstellen?
+**Lange:** Ganz sicher nicht.
+Das Internet ist unsere wichtigste Informationsquelle und sorgt auch für Unterhaltung.
+**Moderatorin:** Haben Sie ein Smartphone!
+**Lange:** Natürlich, ich habe eben erst eine E-Mail bekommen.
+In dieser Form bin ich immer online.
+**Moderatorin:** Und Sie, Herr Frank?
+**Frank:** Ich bin intensiver Internetnutzer.
+Ich lese jeden Morgen die Nachrichten und viele andere Internetseiten.
+Ein Computerspieler bin ich allerdings nicht.
+Ich beobachte eher meine Kinder beim Spielen.
+Ich kenne die Spiele und manchmal mache ich ein bisschen mit, aber ich bin kein Durchspieler.
+**Lange:** Viele sind gelegentlich in der Beobachterrolle.
+Ich bin auch kein aktiver Nutzer von Online-Spielen, ich habe nicht einmal versucht zu spielen.
+Ich stehe aber häufig hinter Menschen, die solche Spiele testen.
+**Moderatorin:** Stimmt es, dass Kinder und Jugendliche in diesem Land lange vor dem Computer sitzen?
+**Frank:** Bei uns wird der Computer nicht überall benutzt, aber anderswo schon.
+Mein Sohn war in Neuseeland auf der Schule, da schicken alle Schüler ab 16 Jahren ihre Hausaufgaben per E-Mail an die Lehrer, die alle einen Account und einen Laptop auf Staatskosten haben.
+Das ist die normale Alltagssituation dort.
+**Moderatorin:** Man hat festgestellt, dass die Mediennutzung einen großen Teil der Freizeit von Kindern und Jugendlichen einnimmt.
+Was machen die Kinder da eigentlich die ganze Zeit?
+**Lange:** Erst einmal kommunizieren sie miteinander.
+Facebook, E-Mail.
+Das ist Alltag.
+Die Nutzung unterscheidet sich zwischen Jungen und Mädchen.
+Die Jungen steigen pro Tag im Durchschnitt knapp zweieinhalb Stunden in Computerspiele ein, die Internetnutzung kommt noch dazu.
+Mädchen spielen nur 56 Minuten am Tag.
+Wir haben geglaubt, dass Mädchen auch mehr chatten, aber das trifft nicht zu.
+**Frank:** Bei den Jungen stellt man eindeutig Online-Spiele und oft gewaltorientierte Spiele fest, bei den Mädchen eher harmlose Spiele wie “Die Sims”.
+Ein kleiner Teil der Mädchen spielt auch online.
+Dann gibt es noch einen kleinen Prozentsatz von Kindern und Jugendlichen, die das Internet zum Beispiel nutzen, um ihre Schularbeiten vorzubereiten.
+Das sind diejenigen, die den Reichtum, den das Internet bietet, erkennen und für bestimmte Zwecke effektiv ausnutzen.
+**Moderatorin:** Studien zeigen, dass immerhin 40 Prozent der Kinder das Internet nutzen, um sich Informationen zu holen, um sich auf die Schule am nächsten Tag vorzubereiten.
+**Lange:** Das ist normal im kindlichen Leben.
+Wenn die Kinder nach Haus kommen, wird die Kommunikation vom Schulweg sofort am Computer fortgesetzt.
+Früher ist ein Kind auf die Straßen gegangen, hat beim Nachbarn geklingelt, damit er zum Spielen herauskommt.
+Das macht heute ein Kind übers Chatten oder die SMS.
+**Frank:** Das ist praktisch.
+Wenn wir früher die Möglichkeit gehabt hätten, hätten wir es genauso gemacht.
+Die reale Alltagskommunikation findet heutzutage mit Hilfe der modernen Kommunikationsmittel statt.
+Über Facebook kann man gleichzeitig mit vielen Freunden kommunizieren.
+Was habe ich früher in diesem Alter gemacht?
+Stundenlang telefoniert und meine Eltern haben geschimpft, weil es viel Geld gekostet hat.
+Das Internet hat dieses Problem gelöst.
+Wir müssen uns daran gewöhnen, dass sich die Kommunikation radikal geändert hat und sich weiter ändert, denn der technische Fortschritt geht weiter.
+**Moderatorin:** Aber damit sind auch Gefahren verbunden, vor allem für Mädchen, z. B. beim Chatten.
+Sie lernen einen männlichen Chatpartner kennen, der angibt, 15 Jahre alt zu sein.
+Das Mädchen verabschiedet sich mit ihm und stellt fest, dass es sich um einen 45-jährigen Mann handelt.
+Das kann böse enden.
+**Lange:** Deshalb ist es so wichtig, dass die Kinder ausreichend über die Gefahren und die Risiken bei einer Online-Kommunikation informiert sind.
+**Moderatorin:** Es wird immer wieder gesagt, dass Computerspiele für Kinder und Jugendliche gefährlich sind?
+Stimmt das?
+**Lange:** Nein, nicht pauschal.
+Nach einer Studie zu diesem Thema mit strengen Kriterien wurde festgestellt, dass drei Prozent der Jungen richtig abhängig von Computerspielen sind und noch 4,7 Prozent in Gefahr, die auch mehr als vier Stunden am Tag spielen.
+Bei den Mädchen sind nur 0,3 Prozent abhängig und 0,5 Prozent in Gefahr.
+**Frank:** Besonders in Gefahr sind diejenigen, die in der realen Welt wenig Erfolg haben.
+Die Ansicht, dass sie seelisch krank sind, stimmt nicht.
+Diese Jugendlichen suchen den Erfolg in den Online-Rollenspielen.
+Solche Spiele sollten nur für Erwachsene erlaubt sein.
+**Moderatorin:** Kinder im Kindergartenalter kommen an den Computer.
+Ihre Eltern finden es pädagogisch gut, dass ihre Kinder den Computer schon in diesem Alter bedienen können.
+Frau Lange, was meinen Sie?
+**Lange:** Ich bin streng dafür, dass Kinder in der Kindergartenzeit vom Computer ferngehalten werden.
+Die Kinder, vor allem die Jungen, die frühzeitig solche Geräte benutzen, sind neugierig und besuchen verbotene Seiten.
+Vor dem zehnten Lebensjahr sollte meiner Meinung nach kein Kind an den Computer gelassen werden.
+**Frank:** Ich bin anderer Meinung.
+Es gibt internationale Studien, die zeigen, dass der Gebrauch des Computers für die sprachliche und kommunikative Entwicklung der Kinder gut ist.
+Schon in der Grundschule, aber auch im Kindergarten kann man anfangen, wenn der Computer sinnvoll ist.
+Die Kinder kommen ja mit einer Welt in Kontakt, die ohnehin zum Alltag gehört.
+**Moderatorin:** So, hier müssen wir jetzt leider unsere Sendung beenden.
+Vielen Dank, dass Sie ins Studio gekommen sind!`,
+      },
+    ],
   },
 ];
 
